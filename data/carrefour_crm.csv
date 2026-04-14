@@ -1,0 +1,801 @@
+hash_email;hash_phone;client_id_carrefour;ville;postal;region;age;genre;segment_carrefour;panier_moy_eur;visites_par_mois;derniere_visite;anciennete_mois;rayon_pref
+40d145ab25cbecf0b83b;1d7f2b37b7d3323ad68f;CAR-100001;Grenoble;38000;Auvergne-Rhône-Alpes;35;H;Fidèle;111;2.3;2025-12-17;82;Jardin
+b97894b3c14a7a82aa51;2f13461ff323cba8408b;CAR-100002;Nice;06000;PACA;49;F;Occasionnel;36;1.8;2026-01-13;111;Alimentaire
+6619f904a14d477d0d05;d463539fb9bffd13115a;CAR-100003;Montpellier;34000;Occitanie;52;H;Occasionnel;41;1.3;2026-03-02;168;Jardin
+ffd0124249b7927e35d0;56d4455a54db952f75de;CAR-100004;Rennes;35000;Bretagne;66;F;Occasionnel;70;1.2;2026-02-20;41;Hygiène-Beauté
+4982cf67d596513289c2;48e97993c4b99c9e595f;CAR-100005;Lyon;69003;Auvergne-Rhône-Alpes;35;H;Occasionnel;63;0.6;2026-01-24;111;Électronique
+30381f9bbcdb1b595980;9ad0fdd07f595bde1a84;CAR-100006;Montpellier;34000;Occitanie;23;F;VIP;325;5.0;2026-01-30;48;Bébé-Enfant
+1f401e158d643ae300bb;065cd01d9b69eb1a4723;CAR-100007;Montpellier;34000;Occitanie;43;H;Fidèle;80;2.6;2026-02-01;162;Bébé-Enfant
+faf66b9c4689a0db8ccf;589d1ccac4d52dcbf376;CAR-100008;Strasbourg;67000;Grand Est;37;F;Fidèle;102;3.2;2026-03-28;4;Électronique
+63c95ac688e2eb486771;2f2fcf4d769cde26a0b2;CAR-100009;Rennes;35000;Bretagne;56;H;VIP;223;6.8;2026-02-20;161;Bébé-Enfant
+3b9b4cfbd295ddcc6383;31bc7109d1e3ec3f41b1;CAR-100010;Toulouse;31000;Occitanie;37;H;Nouveau;64;0.4;2026-03-16;7;Jardin
+59dc1587f528d07ab837;87d74fcf293f92d562d2;CAR-100011;Strasbourg;67000;Grand Est;36;F;Nouveau;61;1.3;2026-03-06;25;Maison
+321ac4dcb22db11ecc69;0aded69a99c59d972d0a;CAR-100012;Rennes;35000;Bretagne;57;H;Occasionnel;57;1.6;2026-01-29;8;Bébé-Enfant
+3ea944f8d7889a9b378d;878886b28423d3b4bce4;CAR-100013;Saint-Denis;93200;Île-de-France;34;H;Fidèle;100;2.8;2025-12-29;113;Électronique
+c418735f2f6b31bc5e45;846844d6ab2601df3463;CAR-100014;Grenoble;38000;Auvergne-Rhône-Alpes;65;F;Occasionnel;76;1.1;2026-01-11;176;Bébé-Enfant
+191d4186ad0c5277402e;da22db9f97a4cc95fb40;CAR-100015;Montpellier;34000;Occitanie;22;H;Occasionnel;33;1.3;2026-02-05;124;Alimentaire
+c646e673d59084192436;a79b679fa8b2319f6ced;CAR-100016;Toulouse;31000;Occitanie;34;H;Fidèle;132;2.6;2026-01-25;59;Mode
+974ddef59ef12724e1ca;0478acd56ce25d25052f;CAR-100017;Nantes;44000;Pays de la Loire;56;F;Nouveau;62;0.7;2025-12-14;175;Jardin
+f125a55d2cae02c7014a;a589eba45a0e884959cf;CAR-100018;Marseille;13008;PACA;68;F;Occasionnel;40;0.6;2026-03-05;43;Mode
+914a4a42f3bbcae9cd47;4e1df254ba57ebd4b3de;CAR-100019;Lille;59000;Hauts-de-France;48;H;Fidèle;138;2.1;2026-01-03;43;Hygiène-Beauté
+9870c8dbdc7d2d0aebae;593a0180c510154f1520;CAR-100020;Bordeaux;33000;Nouvelle-Aquitaine;19;H;Occasionnel;34;0.7;2026-02-15;93;Bébé-Enfant
+6d2facb5a658ec67c802;a59a79f2cde8af5cccb2;CAR-100021;Rennes;35000;Bretagne;26;H;VIP;322;7.5;2025-12-18;120;Bébé-Enfant
+5fbf599d975ad02fd3a4;24f8a786825b78edafca;CAR-100022;Lyon;69003;Auvergne-Rhône-Alpes;55;H;Occasionnel;69;1.7;2026-03-09;164;Alimentaire
+bf09da0c4faac48a4bdf;7a15f4ed1aec8d9da213;CAR-100023;Marseille;13008;PACA;33;F;Occasionnel;76;1.2;2026-01-07;96;Maison
+018f8ea6420719208b7d;b327b4505590b66bbbe3;CAR-100024;Bordeaux;33000;Nouvelle-Aquitaine;33;F;Occasionnel;58;1.8;2026-01-25;46;Alimentaire
+094156dede4d81f92384;15c72dd6792b6eee4624;CAR-100025;Marseille;13008;PACA;29;F;Fidèle;121;3.5;2025-12-18;112;Électronique
+a4f2cb51140ed751d6f9;192d22c387a4dfb27e7e;CAR-100026;Versailles;78000;Île-de-France;54;F;Nouveau;63;0.2;2026-01-23;20;Alimentaire
+7c5309fe74776517ed76;b5bf3b3bff95e1bd0179;CAR-100027;Boulogne;92100;Île-de-France;43;F;Fidèle;173;3.5;2026-01-16;17;Jardin
+89cefe13a3486a008b40;95052ebd7bfcf6e9a868;CAR-100028;Lille;59000;Hauts-de-France;53;H;Nouveau;45;1.1;2025-12-04;91;Alimentaire
+e3bf8668b38d19a2114f;59ab790e6b9bb0a28f41;CAR-100029;Nice;06000;PACA;45;F;Occasionnel;39;1.8;2026-01-06;116;Jardin
+d2571bc97ab1dac3a6ee;4363ef13a88b34af787b;CAR-100030;Boulogne;92100;Île-de-France;33;H;Fidèle;174;3.1;2026-03-14;136;Mode
+1fcc46b557f9c29b4d7d;a66f30dbcb1b1aff9c10;CAR-100031;Versailles;78000;Île-de-France;53;H;Fidèle;140;3.5;2026-01-20;154;Maison
+3245688424cf5fb15b3a;3eb47aad789ea720bc4c;CAR-100032;Lille;59000;Hauts-de-France;29;F;Fidèle;167;2.1;2026-03-15;15;Bébé-Enfant
+c131ed65cd299fc4b361;a68db6316277cf1a835c;CAR-100033;Nice;06000;PACA;37;F;Occasionnel;49;2.0;2026-01-17;163;Jardin
+347489e5bc852709649c;00c657029af3415fbd3f;CAR-100034;Grenoble;38000;Auvergne-Rhône-Alpes;58;F;Occasionnel;52;1.6;2026-02-10;136;Jardin
+3b347eb6994cb1babc65;8a140cad293a173144f4;CAR-100035;Saint-Denis;93200;Île-de-France;50;F;Fidèle;141;2.7;2026-02-06;23;Alimentaire
+eb5873de254e86202771;3f3126eea50bb8be6dbf;CAR-100036;Versailles;78000;Île-de-France;34;H;VIP;213;4.3;2026-02-08;70;Mode
+659a9978ef2c0645bb1a;19404296eea7868c7238;CAR-100037;Rennes;35000;Bretagne;42;H;Fidèle;131;2.8;2025-12-29;120;Hygiène-Beauté
+c34a0f7eb0d7dc137513;3a1a03a9e573393d7e05;CAR-100038;Lille;59000;Hauts-de-France;48;H;Nouveau;64;1.4;2025-12-03;33;Mode
+dd9e3b5f93e58828a5ce;4a73a10dea35beb94807;CAR-100039;Lille;59000;Hauts-de-France;67;F;Occasionnel;53;0.7;2026-02-20;78;Électronique
+7ad87e80f973915579c1;a6f0b93a0e68c0663cd5;CAR-100040;Marseille;13008;PACA;31;H;VIP;216;5.7;2025-12-16;128;Alimentaire
+a0316b0ab67cbee9dbcb;1405b9b7def80b2628af;CAR-100041;Nantes;44000;Pays de la Loire;63;H;Fidèle;83;2.6;2026-01-29;158;Hygiène-Beauté
+c0f766aa00f2f57f7cb9;534fe5fa9aac1fa6cc0f;CAR-100042;Versailles;78000;Île-de-France;29;F;Occasionnel;59;1.8;2026-01-10;173;Mode
+89b77f136ba9aa50813f;039934d0207fe394dbdf;CAR-100043;Lyon;69003;Auvergne-Rhône-Alpes;39;F;Fidèle;125;3.3;2025-12-10;45;Jardin
+6a6e598aef764a172f83;08048d58e38a912dffc5;CAR-100044;Versailles;78000;Île-de-France;61;H;VIP;259;6.6;2026-03-24;148;Mode
+da502f2fa7fd9241a32a;efc75f5fd2c085dc4738;CAR-100045;Toulouse;31000;Occitanie;49;F;Fidèle;139;3.1;2026-02-27;151;Électronique
+f493051fa296924e5311;b690b8267ca4d660db7a;CAR-100046;Marseille;13008;PACA;47;F;VIP;316;6.4;2026-02-05;9;Bébé-Enfant
+62e9512ebe554364f9f7;e35c2048fed661e459e7;CAR-100047;Versailles;78000;Île-de-France;51;F;Occasionnel;35;0.9;2026-03-19;42;Maison
+46f47feb1e9bd654b164;5630a1f7274f80f41036;CAR-100048;Marseille;13008;PACA;30;F;Nouveau;40;0.3;2026-02-06;85;Maison
+f2c60ece4aed7b624c17;5f9983492ff54e959a84;CAR-100049;Nantes;44000;Pays de la Loire;62;H;Fidèle;81;3.2;2026-03-16;71;Alimentaire
+5c21e76211d099c3eb52;d9d9a32fc9507b441883;CAR-100050;Strasbourg;67000;Grand Est;41;H;Fidèle;127;3.3;2026-01-14;175;Alimentaire
+ac5e62ce9cee054c5089;cdf32b17f90280066fb2;CAR-100051;Toulouse;31000;Occitanie;29;H;Fidèle;158;2.8;2025-12-20;39;Maison
+bd91086b720a3691984a;c22471c76f2e7f60e868;CAR-100052;Saint-Denis;93200;Île-de-France;68;F;Occasionnel;45;1.3;2026-01-30;161;Maison
+cbafd4ecadbf3036aede;297d8138ce28a1481c6c;CAR-100053;Saint-Denis;93200;Île-de-France;31;F;Occasionnel;33;1.5;2026-01-09;57;Mode
+70bb6769d6cb877d3c94;887feb69d3cfbbbd4ee2;CAR-100054;Saint-Denis;93200;Île-de-France;67;F;Occasionnel;40;0.6;2026-03-13;145;Maison
+278ca7768f6694e54a74;1a6c925862212478c975;CAR-100055;Grenoble;38000;Auvergne-Rhône-Alpes;35;F;Occasionnel;62;1.5;2026-02-01;72;Hygiène-Beauté
+c29d6f5078460da3af02;dd799c6ca32e21c9a330;CAR-100056;Boulogne;92100;Île-de-France;39;F;Occasionnel;43;1.9;2026-03-30;158;Électronique
+734d9b155c26f2448758;c26a8fca41fb6b517603;CAR-100057;Lyon;69003;Auvergne-Rhône-Alpes;18;F;VIP;182;6.2;2025-12-20;169;Jardin
+70d3cca4a8cbebe03aea;4b979856d5e2ac81ad9e;CAR-100058;Lille;59000;Hauts-de-France;49;H;VIP;187;6.7;2026-02-09;48;Bébé-Enfant
+a54f7f88c14c74136fae;536ad234490d1d7a8008;CAR-100059;Bordeaux;33000;Nouvelle-Aquitaine;22;F;Occasionnel;59;0.8;2026-01-02;94;Hygiène-Beauté
+ffc42fff32765d82d728;a14e86a3678af0fa78ac;CAR-100060;Rennes;35000;Bretagne;27;F;VIP;337;4.9;2025-12-05;158;Hygiène-Beauté
+de3966e1c1595f9261cc;6ee478e80d23cacafdfd;CAR-100061;Montpellier;34000;Occitanie;37;F;VIP;281;6.0;2026-01-02;157;Mode
+38599c2b5532eaef44ea;fc0cbd78dc496bc8d009;CAR-100062;Grenoble;38000;Auvergne-Rhône-Alpes;48;F;Fidèle;91;3.9;2025-12-20;73;Hygiène-Beauté
+b7472d12bc300d2ac2d5;dec0c95ae7775ccc363d;CAR-100063;Nantes;44000;Pays de la Loire;74;F;Occasionnel;73;1.8;2026-01-07;175;Jardin
+47e52f42cda046524205;b76d682901ec72a500ab;CAR-100064;Paris;75012;Île-de-France;21;F;VIP;262;4.5;2025-12-07;60;Alimentaire
+11b417ea96f0d1a37dfc;3ddeebddc06a26b90e40;CAR-100065;Paris;75012;Île-de-France;46;F;Fidèle;143;2.4;2025-12-26;60;Jardin
+d8063b7d8ee1c5d01b0c;c1da2be74ab6753c15c9;CAR-100066;Nantes;44000;Pays de la Loire;39;F;Fidèle;106;2.1;2025-12-17;9;Mode
+1d3885e4eb6dd78e5231;399a02b183cc59695c0c;CAR-100067;Strasbourg;67000;Grand Est;36;H;Occasionnel;45;1.7;2025-12-19;63;Alimentaire
+b0479a0391deb9cbf827;0beb8e719d089f34c696;CAR-100068;Paris;75012;Île-de-France;47;H;Occasionnel;78;0.6;2026-02-10;83;Bébé-Enfant
+fefa49043124d726d455;af910f616aa98d6bcc8e;CAR-100069;Strasbourg;67000;Grand Est;41;H;Occasionnel;58;0.6;2026-03-24;78;Bébé-Enfant
+bbab47ab933cec0cacbb;7590d40a89f68c4e1620;CAR-100070;Nantes;44000;Pays de la Loire;36;F;Fidèle;154;3.2;2026-01-30;112;Mode
+43c9d80bce50e3cd5fe4;10b4352f2ce285fb7570;CAR-100071;Paris;75012;Île-de-France;34;F;Occasionnel;73;1.4;2026-01-13;20;Mode
+68780eb5f2f18f06f695;4a36c63b1df78e32c1a1;CAR-100072;Marseille;13008;PACA;54;H;Occasionnel;38;1.2;2026-02-27;38;Bébé-Enfant
+56131cc521741663cdda;f230d2e0eba85366f30c;CAR-100073;Strasbourg;67000;Grand Est;57;F;VIP;212;6.1;2025-12-21;40;Hygiène-Beauté
+0c37f49bc20c061044ee;e90b12bc7bec6b674f89;CAR-100074;Toulouse;31000;Occitanie;50;F;Fidèle;118;3.0;2026-01-25;146;Bébé-Enfant
+aae945d6a85a57e146bf;da4a032b18423fea728e;CAR-100075;Grenoble;38000;Auvergne-Rhône-Alpes;25;F;VIP;268;7.6;2026-01-01;122;Mode
+8fbc9cf3a180a13ad864;6971640f1f645a806f7e;CAR-100076;Boulogne;92100;Île-de-France;56;H;Occasionnel;51;0.7;2026-03-25;129;Hygiène-Beauté
+26014bc5888c3f69fc2e;d0a32df90a880a8e9856;CAR-100077;Lille;59000;Hauts-de-France;36;H;Nouveau;49;1.4;2025-12-17;99;Hygiène-Beauté
+f73cffa0c7a070f66297;835d4b2545d16a347e30;CAR-100078;Montpellier;34000;Occitanie;32;F;Fidèle;121;3.1;2026-01-15;95;Alimentaire
+058dab7b60047056962d;70e052391946a57e70d0;CAR-100079;Toulouse;31000;Occitanie;25;F;Nouveau;31;1.3;2026-03-08;53;Alimentaire
+16b5805f965c40d891b6;c7acbe46e9be710b5807;CAR-100080;Toulouse;31000;Occitanie;47;F;Fidèle;87;3.3;2026-02-19;119;Hygiène-Beauté
+9d45403801e82f2586ec;4408e2c794a187f45c40;CAR-100081;Lyon;69003;Auvergne-Rhône-Alpes;49;H;Fidèle;159;4.0;2026-03-15;39;Hygiène-Beauté
+24e4cfba030966987935;d7d154f9ddbe10c361d1;CAR-100082;Paris;75012;Île-de-France;62;F;Occasionnel;54;2.0;2025-12-23;160;Mode
+a985a11eba6be0952f5c;f19746500180e3ad151a;CAR-100083;Saint-Denis;93200;Île-de-France;44;F;Fidèle;112;2.1;2026-01-24;152;Électronique
+e9342b0176aa45f41737;6742b1b8340a67583583;CAR-100084;Montpellier;34000;Occitanie;42;H;Fidèle;175;2.1;2025-12-24;133;Maison
+9d92b7060feb8174ee4a;2bbe218eafa75776d6b1;CAR-100085;Bordeaux;33000;Nouvelle-Aquitaine;62;H;Fidèle;97;3.4;2026-01-15;105;Jardin
+efe4771a8eb4f53c11d0;5f2fa6026d9648aa879f;CAR-100086;Bordeaux;33000;Nouvelle-Aquitaine;53;F;Nouveau;33;0.7;2026-02-04;99;Mode
+4fc8beea74b87d134b8d;781d5687128078e36970;CAR-100087;Nice;06000;PACA;66;H;Fidèle;107;2.2;2026-03-25;122;Mode
+0e19ac75d5c212500732;7106ac1e74377b1bfc03;CAR-100088;Marseille;13008;PACA;24;H;Occasionnel;59;1.0;2026-02-02;62;Maison
+9506fd3b4515aed7836b;9cec446be0a2852a70c4;CAR-100089;Lyon;69003;Auvergne-Rhône-Alpes;70;F;Occasionnel;48;1.7;2026-03-15;21;Maison
+f496091ebb9a8399f753;e40146c55c0a08c067e9;CAR-100090;Bordeaux;33000;Nouvelle-Aquitaine;46;F;VIP;231;5.3;2026-03-06;157;Hygiène-Beauté
+7a283cc8ac3975f6fc6c;3ea5e8bf552da78c78ec;CAR-100091;Nantes;44000;Pays de la Loire;41;F;Nouveau;69;0.7;2025-12-15;151;Bébé-Enfant
+610378adcf4b24e26112;80c5e98b60c2a9d672a1;CAR-100092;Toulouse;31000;Occitanie;53;H;Occasionnel;62;0.8;2026-01-29;62;Mode
+86b5f353679a0040bf65;c3c08c6562feca433ca0;CAR-100093;Nantes;44000;Pays de la Loire;31;F;Occasionnel;59;0.6;2025-12-22;109;Hygiène-Beauté
+6d4b3d7c577ddc0eaedf;97f00ee351949a812e88;CAR-100094;Versailles;78000;Île-de-France;54;H;Fidèle;78;2.3;2026-01-05;93;Maison
+5dc5660b9dc89410a6d6;ea766f37e4634e0b2d5f;CAR-100095;Nice;06000;PACA;62;F;Fidèle;162;3.4;2025-12-20;11;Hygiène-Beauté
+f23819c022c511abf4d0;4ddfcea961f7df52e098;CAR-100096;Nantes;44000;Pays de la Loire;23;H;Fidèle;147;3.1;2026-03-22;139;Électronique
+099e6fe9217eb961a97a;63824a8ecfcbad96beb9;CAR-100097;Marseille;13008;PACA;42;F;Fidèle;117;2.6;2026-03-26;179;Mode
+f9c8932e67285288d56a;cadd61b5ede60da11e80;CAR-100098;Paris;75012;Île-de-France;47;H;Fidèle;100;2.5;2026-02-11;135;Alimentaire
+eb30497b55cf3c6f1eca;44dd5829bbf330cdd960;CAR-100099;Boulogne;92100;Île-de-France;39;H;Fidèle;125;2.8;2025-12-10;55;Hygiène-Beauté
+dc5b9854c6fc5a0339f1;cc64a93598369e0b3ad3;CAR-100100;Strasbourg;67000;Grand Est;37;F;Occasionnel;75;1.9;2025-12-29;178;Électronique
+cc61ac85d154dc68b537;d2c1130508c565318572;CAR-100101;Nice;06000;PACA;23;F;Fidèle;93;3.2;2025-12-08;128;Électronique
+9c230f53b0d95d6b22e6;44cbcfc052d386dc7b60;CAR-100102;Versailles;78000;Île-de-France;33;F;Fidèle;169;3.8;2026-02-20;103;Mode
+fe98763ab0fc2e8b3546;a0b22555ed0a6d53b3c0;CAR-100103;Marseille;13008;PACA;53;F;Occasionnel;45;1.2;2025-12-31;148;Alimentaire
+b532b310ad1e79177558;7ca80c967b3055d450b2;CAR-100104;Grenoble;38000;Auvergne-Rhône-Alpes;53;F;Fidèle;105;3.1;2025-12-28;58;Électronique
+67148d78d16d41164d6e;421671c08cbfb5d416c7;CAR-100105;Marseille;13008;PACA;38;F;Fidèle;90;3.0;2026-02-26;56;Mode
+1f8b20259395603625c4;1815003ab4cee3ad73d7;CAR-100106;Toulouse;31000;Occitanie;25;H;VIP;186;6.7;2026-02-08;12;Alimentaire
+d93f1ade4bc200a6ba1c;fc8832f1c4b9a1ffa051;CAR-100107;Grenoble;38000;Auvergne-Rhône-Alpes;31;H;Fidèle;116;2.9;2026-02-02;38;Électronique
+db589ba8fe08049971a2;ae821330d1bfc45cf9bd;CAR-100108;Lyon;69003;Auvergne-Rhône-Alpes;43;H;Occasionnel;31;1.3;2026-01-04;5;Jardin
+96197a8041c10d8b6e4b;ae2737b4fb001d7149d5;CAR-100109;Paris;75012;Île-de-France;57;F;Fidèle;120;3.8;2025-12-13;165;Bébé-Enfant
+620e71153e445ba89784;84edc4680d86741a9caf;CAR-100110;Toulouse;31000;Occitanie;63;F;Occasionnel;74;0.6;2025-12-02;66;Maison
+55fb73f9016591124515;f172f5e8d2735d0aa284;CAR-100111;Lyon;69003;Auvergne-Rhône-Alpes;55;H;Nouveau;46;1.1;2026-03-02;27;Bébé-Enfant
+a331cabf880195651d47;22ce8bf2e89eb19abd27;CAR-100112;Toulouse;31000;Occitanie;43;F;Occasionnel;40;1.0;2026-01-10;56;Mode
+b882d999037d14598962;5ed51dad618792243da4;CAR-100113;Paris;75012;Île-de-France;62;F;Fidèle;90;2.6;2026-02-09;57;Électronique
+22ecfaf6fa29c987a0cb;6442390c92ffaa26a097;CAR-100114;Rennes;35000;Bretagne;44;F;Fidèle;158;3.8;2026-03-17;140;Bébé-Enfant
+a7f53298eb8fd7052934;41c0271fb363db1071e0;CAR-100115;Versailles;78000;Île-de-France;42;H;Nouveau;26;1.1;2026-01-01;37;Maison
+da0bc5216a5263d54063;b62adedcc0dbf88e7171;CAR-100116;Montpellier;34000;Occitanie;33;H;Fidèle;160;3.2;2025-12-26;62;Mode
+84dea630fccdff162591;16c422ea158c75012fd3;CAR-100117;Toulouse;31000;Occitanie;71;F;Occasionnel;31;0.9;2026-01-10;23;Alimentaire
+75e536acbf6450a77dca;eef7bedc84679c452637;CAR-100118;Rennes;35000;Bretagne;60;F;Fidèle;112;3.3;2025-12-26;87;Hygiène-Beauté
+555a93e857a089e331fb;9dde2234c65460f0e751;CAR-100119;Lille;59000;Hauts-de-France;18;H;Fidèle;141;2.6;2026-02-15;65;Hygiène-Beauté
+01b92757f63d774b9b4b;bf64d937f24b426b6d46;CAR-100120;Rennes;35000;Bretagne;19;H;Occasionnel;73;1.1;2026-01-09;4;Alimentaire
+ab2d7996fdb93e88a85a;43c465194097764cef2a;CAR-100121;Strasbourg;67000;Grand Est;48;F;Occasionnel;33;0.7;2025-12-14;55;Hygiène-Beauté
+42f32df84e22a2b98f94;4ecb046cbb362dd0c019;CAR-100122;Bordeaux;33000;Nouvelle-Aquitaine;38;F;Occasionnel;59;1.1;2026-02-22;150;Électronique
+ddde690857e494f1b420;177a42ecd06c1190f0bb;CAR-100123;Rennes;35000;Bretagne;45;H;Nouveau;50;0.4;2026-02-04;132;Mode
+fd91480712e58bfbcc7c;967a0dd94aa71b1cf2a8;CAR-100124;Boulogne;92100;Île-de-France;40;H;Occasionnel;80;1.8;2026-02-20;155;Mode
+4015372f53a27f50e8c4;8fc657756691860dcd6a;CAR-100125;Lille;59000;Hauts-de-France;53;H;Fidèle;107;2.6;2026-03-13;123;Hygiène-Beauté
+f48032859cea0fdbdcd8;e889f3cb1532ea49b30a;CAR-100126;Nantes;44000;Pays de la Loire;51;F;Fidèle;75;2.7;2025-12-25;98;Électronique
+7b9fb01a2afa7d9fc3b2;b91fa9f9c32128df7a51;CAR-100127;Versailles;78000;Île-de-France;69;F;Fidèle;84;2.2;2026-02-03;68;Bébé-Enfant
+194334ea04f10dc47f06;af706ec332147be1e2a3;CAR-100128;Nantes;44000;Pays de la Loire;36;F;Nouveau;51;0.7;2025-12-26;66;Hygiène-Beauté
+74764321c30523a1989c;9d4abccf1a1772c42934;CAR-100129;Montpellier;34000;Occitanie;26;F;Fidèle;155;3.3;2026-03-12;68;Hygiène-Beauté
+08063b432b3a5e6e6a9f;66abe7e0274f3cfa65a1;CAR-100130;Boulogne;92100;Île-de-France;40;F;Occasionnel;37;1.1;2026-03-20;135;Hygiène-Beauté
+e5409ee1a4c45da3bef8;deae9a94b3462b13c792;CAR-100131;Bordeaux;33000;Nouvelle-Aquitaine;50;H;Occasionnel;46;1.5;2025-12-27;108;Bébé-Enfant
+dbdbbd2343a9dfc1dc26;7403d0fc9ed74a4680e6;CAR-100132;Boulogne;92100;Île-de-France;45;F;Occasionnel;70;0.7;2025-12-25;104;Jardin
+77d479ddd24e32bb4e7a;6bab5690fbc5099e41eb;CAR-100133;Bordeaux;33000;Nouvelle-Aquitaine;42;H;Fidèle;179;3.5;2025-12-27;113;Hygiène-Beauté
+eb6e471e05ffc7f1776a;116b5fb77cf222cf00b9;CAR-100134;Toulouse;31000;Occitanie;48;F;Fidèle;165;3.0;2026-03-07;54;Alimentaire
+b25164bc8650a3c38467;3adcdb435ebbf9d5fbbb;CAR-100135;Bordeaux;33000;Nouvelle-Aquitaine;52;H;Occasionnel;56;1.8;2026-03-20;99;Alimentaire
+693ad49ecbc95495da76;fccf7b6e4d1618acd709;CAR-100136;Versailles;78000;Île-de-France;40;F;Fidèle;78;3.3;2026-03-30;173;Mode
+39251f5f45cbaccc2391;a563acb9c7b3988eee11;CAR-100137;Bordeaux;33000;Nouvelle-Aquitaine;38;H;Occasionnel;43;1.3;2025-12-01;127;Électronique
+7801a7e6ab14badfaa2d;6ec7ba06afc316f75fc5;CAR-100138;Lille;59000;Hauts-de-France;30;F;Occasionnel;51;1.0;2026-01-04;105;Électronique
+7d16a230a05d1813a25f;aaff2ab67bd6c6db9ae6;CAR-100139;Marseille;13008;PACA;69;H;Occasionnel;36;1.6;2026-03-27;157;Alimentaire
+81ef5d235e6760ff38ca;b2e9425b70ecd3d24b8e;CAR-100140;Nantes;44000;Pays de la Loire;52;F;Occasionnel;78;1.5;2026-01-05;51;Alimentaire
+cc35d42fdc2af13277ea;5cbb199e58b3562e0fd8;CAR-100141;Toulouse;31000;Occitanie;53;F;Nouveau;43;1.1;2026-01-12;127;Électronique
+52d5938188c7ec2d9908;aa27701d3fc9d8d5cdb5;CAR-100142;Bordeaux;33000;Nouvelle-Aquitaine;28;H;Occasionnel;57;1.9;2026-01-12;52;Jardin
+a0a86b62d6795b6cdbf0;ed6ad6948683833b0c5d;CAR-100143;Montpellier;34000;Occitanie;64;F;Fidèle;148;2.3;2026-01-19;122;Hygiène-Beauté
+190ee4ff6f21484c86b9;15c101ed6d5a65edad12;CAR-100144;Lyon;69003;Auvergne-Rhône-Alpes;49;F;Nouveau;54;1.1;2026-03-17;114;Jardin
+21a353c34319421a4a47;919ca84aeaeccf70bdad;CAR-100145;Lyon;69003;Auvergne-Rhône-Alpes;42;F;VIP;263;4.9;2026-01-04;37;Mode
+8ca78cdc924d7474aa31;4eda56be04d2746dc125;CAR-100146;Lyon;69003;Auvergne-Rhône-Alpes;27;F;Occasionnel;80;1.4;2026-01-07;90;Électronique
+6de290c651d4a5889f54;7606afca184d7c18a65d;CAR-100147;Lyon;69003;Auvergne-Rhône-Alpes;35;F;Nouveau;70;0.5;2026-02-21;25;Alimentaire
+4ff707316fe470e78a05;5f4bf3772a801ff0f5a8;CAR-100148;Grenoble;38000;Auvergne-Rhône-Alpes;44;F;VIP;331;6.3;2026-03-30;82;Alimentaire
+b2264888c3bafcb7e483;c0e31b63df1217be28a6;CAR-100149;Montpellier;34000;Occitanie;59;F;Occasionnel;57;1.9;2026-01-12;154;Hygiène-Beauté
+99fd31ef806140566d36;1546d621125b0597d94e;CAR-100150;Rennes;35000;Bretagne;63;F;VIP;182;4.6;2026-03-12;156;Maison
+4b7e5ab9b2a97de99d34;3f36c52006743494c310;CAR-100151;Nice;06000;PACA;27;F;Fidèle;151;3.4;2026-01-28;164;Bébé-Enfant
+e487a3a6e8e9e58ae914;11021e1ed89f4a50ba96;CAR-100152;Grenoble;38000;Auvergne-Rhône-Alpes;40;H;Fidèle;165;2.7;2025-12-01;60;Jardin
+5dbe0ebefdfa168de9e5;b5f4e4b7339f0b5deeb9;CAR-100153;Paris;75012;Île-de-France;34;H;Occasionnel;76;1.9;2026-01-19;103;Maison
+190e46471f869b783d3d;2d189e117011385dfdd2;CAR-100154;Toulouse;31000;Occitanie;37;F;Fidèle;119;3.1;2025-12-31;143;Électronique
+ef8b80fb0357e9a42adf;6c403a1ad94244649359;CAR-100155;Montpellier;34000;Occitanie;35;H;VIP;262;7.5;2026-03-10;150;Hygiène-Beauté
+7310c120ffc55a3ded62;a3fee1c5988d42bb9e41;CAR-100156;Grenoble;38000;Auvergne-Rhône-Alpes;28;H;Fidèle;112;3.5;2025-12-11;150;Alimentaire
+c5a582b0566e017c3643;e095c6c0f98d5b811a1b;CAR-100157;Marseille;13008;PACA;66;H;Occasionnel;57;0.6;2025-11-30;16;Alimentaire
+9395825364e64dd4327e;5c0fd65028eadbd49b08;CAR-100158;Rennes;35000;Bretagne;55;H;Nouveau;29;0.5;2026-02-20;179;Mode
+6b08eb5bc2796a524177;4b33ee5ca8d4edf5a56f;CAR-100159;Nantes;44000;Pays de la Loire;28;H;Nouveau;70;1.3;2026-02-23;164;Jardin
+e2795cbe6749a315810a;c8b677dd2e73985bf45d;CAR-100160;Nice;06000;PACA;42;F;Fidèle;90;3.3;2026-01-16;149;Électronique
+f689cc929a897763b7cc;dd4a622f595f3ee5ba5a;CAR-100161;Marseille;13008;PACA;38;F;Fidèle;176;4.0;2026-03-18;86;Alimentaire
+669c0a1f4bade7995e32;d9f258c2e4e215d96cac;CAR-100162;Rennes;35000;Bretagne;48;F;Occasionnel;55;1.3;2026-03-22;135;Bébé-Enfant
+9d221baf06528cea49a1;e9cca674a540d30d6f25;CAR-100163;Marseille;13008;PACA;53;F;Occasionnel;78;0.8;2026-03-30;145;Électronique
+c95836d514e7ebd6ef84;0642a075de5eb80c75f2;CAR-100164;Paris;75012;Île-de-France;48;F;Occasionnel;38;1.3;2026-03-20;34;Mode
+b945882ae9e6e17b376d;8e9f4f620ae6a814dc80;CAR-100165;Versailles;78000;Île-de-France;75;F;Fidèle;96;2.6;2026-02-21;171;Mode
+2185bd166f254ab6ca89;f30388c56fd76929284d;CAR-100166;Toulouse;31000;Occitanie;46;F;Fidèle;137;4.0;2026-01-01;28;Jardin
+a061c2d3810160bbb880;0a5cef6d8dba1166dd9e;CAR-100167;Toulouse;31000;Occitanie;47;F;Occasionnel;42;1.9;2026-01-14;94;Maison
+443ea363a269cd7c7d32;2e4c7b50d952f7d8d6da;CAR-100168;Lyon;69003;Auvergne-Rhône-Alpes;31;F;Fidèle;129;2.8;2025-11-30;68;Jardin
+ee414d0bdc47f08d6d8f;6167beaa445d50bd2b4f;CAR-100169;Grenoble;38000;Auvergne-Rhône-Alpes;73;H;Fidèle;143;2.5;2026-02-11;147;Jardin
+2c2ba494565b6be3c4a7;f56ba5dabd2a0b212104;CAR-100170;Nice;06000;PACA;39;H;Occasionnel;40;1.7;2026-02-27;22;Maison
+bccf99c38fae157b36fd;8b0141fa95208fdf810e;CAR-100171;Bordeaux;33000;Nouvelle-Aquitaine;54;H;Fidèle;162;3.3;2026-03-12;60;Maison
+3b0d47d6da82909031ae;067ab52a92d787341f3f;CAR-100172;Nice;06000;PACA;54;F;VIP;276;7.1;2025-12-15;128;Alimentaire
+818184aa96a2b661751b;8bd030ad8a8a538f2119;CAR-100173;Nantes;44000;Pays de la Loire;62;F;Occasionnel;65;0.8;2026-03-07;91;Bébé-Enfant
+37725074cd36dc4c9b6d;b98c8165bd11434d192a;CAR-100174;Marseille;13008;PACA;36;F;Occasionnel;68;0.5;2026-01-05;35;Hygiène-Beauté
+92ead4ff055ceeb2cf37;c65a1aa4f7cadfdfea5e;CAR-100175;Grenoble;38000;Auvergne-Rhône-Alpes;28;F;Fidèle;81;3.4;2026-01-31;49;Électronique
+4efed114d1f48767ae7a;8712b9b4b6673c771ae8;CAR-100176;Toulouse;31000;Occitanie;38;H;Nouveau;37;1.4;2026-02-19;165;Bébé-Enfant
+9ec6e072413b30c4ced9;5292485d764cd5404561;CAR-100177;Lyon;69003;Auvergne-Rhône-Alpes;31;F;VIP;258;7.4;2026-03-09;150;Alimentaire
+b4f51f0df2bf3bda7dab;6af498df232193d828e5;CAR-100178;Rennes;35000;Bretagne;26;F;VIP;253;7.8;2026-01-26;134;Jardin
+d59b8dcee6880d75f87b;e9beefeac22e3d3b4251;CAR-100179;Nantes;44000;Pays de la Loire;68;F;Nouveau;45;0.2;2025-12-31;139;Jardin
+b7b1915e252a423611d2;55d7db1d795b2d53bc81;CAR-100180;Strasbourg;67000;Grand Est;48;H;Fidèle;162;3.9;2025-12-05;60;Hygiène-Beauté
+9999e31edda847273fad;13dcefcd7fa48e390767;CAR-100181;Boulogne;92100;Île-de-France;34;F;VIP;214;5.7;2026-01-03;66;Bébé-Enfant
+5c9c21d08125b897fe19;9ec244fe34f87b8c475a;CAR-100182;Toulouse;31000;Occitanie;28;H;Occasionnel;49;1.6;2025-12-02;81;Jardin
+8d500f8293f7642b3811;d3c0bc097036af31781a;CAR-100183;Lyon;69003;Auvergne-Rhône-Alpes;28;H;Occasionnel;69;1.2;2026-03-30;92;Jardin
+5d8e4af1baa53c4e5150;af7507acfe5d7c65c56d;CAR-100184;Lyon;69003;Auvergne-Rhône-Alpes;74;F;Fidèle;76;2.2;2025-12-04;127;Alimentaire
+4ffb5d06c28efd79794f;48e71fabfdb7892ee8d0;CAR-100185;Bordeaux;33000;Nouvelle-Aquitaine;65;F;Fidèle;103;2.7;2026-03-17;115;Jardin
+29b73a70169e7acbb0e9;df3ac08913adb202ab65;CAR-100186;Toulouse;31000;Occitanie;18;F;Occasionnel;52;1.8;2026-02-22;13;Hygiène-Beauté
+f5f1ecea8e9158a0d639;aa69cb43a45b85e94e92;CAR-100187;Nantes;44000;Pays de la Loire;24;H;Fidèle;79;3.0;2026-01-27;143;Électronique
+6590b98579be9637590a;238171ad9039300a5d6c;CAR-100188;Saint-Denis;93200;Île-de-France;43;F;Occasionnel;78;1.6;2026-02-09;36;Alimentaire
+f6fab1be52a47e2383a8;2de4718d233e76c483af;CAR-100189;Lille;59000;Hauts-de-France;19;H;Nouveau;42;1.1;2026-02-04;155;Jardin
+e12ac12f2b588693bde6;de93e4cb1aac9b6e5e3e;CAR-100190;Marseille;13008;PACA;73;H;VIP;302;4.3;2026-02-27;74;Bébé-Enfant
+4ad18e2b688ead1ce81b;4cdc44b5ad1c648dc2b3;CAR-100191;Grenoble;38000;Auvergne-Rhône-Alpes;42;H;VIP;247;7.3;2025-12-27;131;Mode
+759182930465589e6bde;a1d82d430b39d6511044;CAR-100192;Boulogne;92100;Île-de-France;45;H;Fidèle;155;2.3;2026-03-12;112;Alimentaire
+b65c521b4bd695624a73;f451d6a40769564f69df;CAR-100193;Nantes;44000;Pays de la Loire;31;F;Occasionnel;54;2.0;2026-01-28;18;Mode
+1303544d86a091b7bebf;60641c6728e02f326b69;CAR-100194;Boulogne;92100;Île-de-France;31;F;Fidèle;113;3.9;2026-03-24;49;Alimentaire
+9cc586d2214eb7a492d9;2780da0fc337bca713ee;CAR-100195;Rennes;35000;Bretagne;38;H;VIP;262;5.1;2026-02-12;88;Maison
+5f6681e1e159532ed6bb;3205a5894683ad3f41ff;CAR-100196;Versailles;78000;Île-de-France;24;H;VIP;183;7.4;2026-01-14;138;Mode
+cd478f1c4b5c362d2f18;819ced65cd83d60e517b;CAR-100197;Paris;75012;Île-de-France;49;F;Fidèle;101;2.2;2026-01-14;170;Bébé-Enfant
+8e062685728ae754800c;5daaf2e0fd01e91780b5;CAR-100198;Strasbourg;67000;Grand Est;36;F;Fidèle;87;2.6;2025-12-28;42;Alimentaire
+75671baafa3dfe110003;867c3529966ebb950860;CAR-100199;Lille;59000;Hauts-de-France;43;F;Fidèle;145;3.5;2025-12-06;96;Électronique
+d3f527797902149db966;ac4e0ecf776439688488;CAR-100200;Nice;06000;PACA;47;F;Occasionnel;34;1.3;2026-02-23;36;Maison
+e9274d6298baf185c751;8cb6afdb783d4617b0f6;CAR-100201;Strasbourg;67000;Grand Est;51;F;VIP;324;4.8;2026-03-21;45;Électronique
+15566d3dafa5bbee410e;f3a811648bb7c54c9677;CAR-100202;Toulouse;31000;Occitanie;54;H;Occasionnel;79;0.8;2026-01-14;5;Bébé-Enfant
+5fbac83c6f4bcb3e8382;1250416fab5eac72c716;CAR-100203;Lyon;69003;Auvergne-Rhône-Alpes;30;F;Occasionnel;76;0.9;2026-03-09;60;Alimentaire
+5aefda4c29c82d620892;a9ce7325c705ed097019;CAR-100204;Paris;75012;Île-de-France;36;F;Occasionnel;70;0.7;2026-01-07;66;Bébé-Enfant
+190b5caafc34fa366293;9dedadf3bb5878ce65d7;CAR-100205;Boulogne;92100;Île-de-France;23;F;Fidèle;75;3.9;2026-01-19;70;Jardin
+c96697054e7b7d5196bc;8bc6a781c158928af80a;CAR-100206;Bordeaux;33000;Nouvelle-Aquitaine;36;F;Fidèle;112;2.0;2026-03-08;68;Alimentaire
+e9b706addffa8f15ae5b;eb600a796c0c2f9221da;CAR-100207;Nice;06000;PACA;63;H;Occasionnel;76;0.9;2026-01-19;55;Bébé-Enfant
+ba944766f1c580d5958b;e22514870188589efb53;CAR-100208;Grenoble;38000;Auvergne-Rhône-Alpes;46;F;Fidèle;109;3.7;2025-12-28;114;Maison
+e56dbf498330a63c48b3;e97d7c6bb613dda937b4;CAR-100209;Grenoble;38000;Auvergne-Rhône-Alpes;41;H;Fidèle;86;3.6;2026-03-07;168;Maison
+ed2a52ff2b569edb16ce;d7df6d7e4a13e58cc63a;CAR-100210;Boulogne;92100;Île-de-France;47;H;VIP;221;6.4;2026-01-07;106;Alimentaire
+07225271bd72f11c4842;35f1d6d2d52d56e3ddda;CAR-100211;Versailles;78000;Île-de-France;62;F;Occasionnel;78;0.5;2025-12-14;167;Alimentaire
+cb0ebb689a864dee4dc3;87667f93636f8198f822;CAR-100212;Strasbourg;67000;Grand Est;36;F;Fidèle;109;3.6;2025-12-26;89;Bébé-Enfant
+7b02c732d4a86da4004f;660ccbe70e74b87e8c1f;CAR-100213;Marseille;13008;PACA;37;F;Occasionnel;60;0.7;2026-02-27;17;Mode
+48e958bbda2ee9de0c04;9bf8fb9668a68084579f;CAR-100214;Saint-Denis;93200;Île-de-France;49;H;Occasionnel;37;0.9;2026-02-05;39;Alimentaire
+2d8b4d103a8d9a946b34;4bdd32884cec73940cd5;CAR-100215;Nantes;44000;Pays de la Loire;26;H;Nouveau;44;1.3;2026-01-02;31;Électronique
+0231b7b41fc7ef094716;63f7d68c892d805d01a0;CAR-100216;Boulogne;92100;Île-de-France;19;H;Fidèle;103;3.2;2026-03-20;14;Mode
+aa09aa0c6389bd0435cb;fe32e254c9be0ab04eed;CAR-100217;Nice;06000;PACA;56;H;Fidèle;142;2.9;2025-12-16;76;Maison
+4d43ff1bab00c2685046;843cb66386a4f11b5d6d;CAR-100218;Paris;75012;Île-de-France;53;F;Occasionnel;72;1.6;2025-12-10;41;Bébé-Enfant
+85039f4b04015399e1b0;201829592e5382ffd12a;CAR-100219;Nice;06000;PACA;53;F;Occasionnel;54;1.2;2026-02-04;74;Hygiène-Beauté
+c0c39fb9ce039575a4e4;57ef1c45d9f874107f68;CAR-100220;Nice;06000;PACA;73;F;VIP;212;5.4;2025-12-19;165;Maison
+5faeacea21500ea334cc;ad52ba2382c3cd4126e7;CAR-100221;Nantes;44000;Pays de la Loire;29;F;Fidèle;124;3.1;2026-03-20;151;Jardin
+2e2e7dd663ea5bb991a0;5ea6d51cdf349b13aea0;CAR-100222;Saint-Denis;93200;Île-de-France;69;F;Fidèle;174;2.2;2026-03-28;95;Mode
+4781232e90fce2dc0324;0e303fd5c73c0057ceef;CAR-100223;Rennes;35000;Bretagne;53;H;Fidèle;89;3.7;2026-03-12;144;Électronique
+e790ff553c10641e7709;30568f68ba4889a74036;CAR-100224;Grenoble;38000;Auvergne-Rhône-Alpes;55;H;Fidèle;82;3.4;2026-02-04;98;Alimentaire
+8089c77a0438a721e8ae;8ac3cf0d3ad8f92c1897;CAR-100225;Lyon;69003;Auvergne-Rhône-Alpes;28;H;Occasionnel;60;1.0;2026-03-29;148;Bébé-Enfant
+9366108bc86bf0500d6d;81effac3e57af83df24e;CAR-100226;Nantes;44000;Pays de la Loire;44;F;Occasionnel;41;1.5;2025-12-28;89;Électronique
+5589393dee2738b7a9a0;3556826e275d9b989d8c;CAR-100227;Marseille;13008;PACA;66;F;Occasionnel;37;1.4;2026-03-29;104;Bébé-Enfant
+a1b6ea8c117cff12212d;47437a7649ae86b54a01;CAR-100228;Marseille;13008;PACA;40;H;Fidèle;145;3.0;2026-02-24;26;Mode
+2ca758f0bc98187e1b9e;1c6db555ea3ae726a5d6;CAR-100229;Strasbourg;67000;Grand Est;26;F;Fidèle;170;2.4;2026-01-12;22;Bébé-Enfant
+372cd6bfef9d67051346;fa609a251476a4c2a23c;CAR-100230;Nantes;44000;Pays de la Loire;60;H;Occasionnel;71;0.6;2026-03-06;72;Alimentaire
+00c33a4c83c4dbd18bef;5b8447f9dcd502926d91;CAR-100231;Nice;06000;PACA;35;F;VIP;272;4.1;2026-03-29;82;Hygiène-Beauté
+6d195475d0bc9915731f;3125c0d1b3d9aa960a21;CAR-100232;Paris;75012;Île-de-France;25;H;Occasionnel;47;1.3;2026-03-24;83;Alimentaire
+4b3b079454641134fa59;9fa6f691cd49902c844d;CAR-100233;Lille;59000;Hauts-de-France;54;F;Nouveau;38;0.7;2026-03-14;175;Alimentaire
+bb81e99755ba8bdd64bc;732941c8860c35792757;CAR-100234;Saint-Denis;93200;Île-de-France;49;F;Fidèle;87;3.2;2026-03-26;77;Hygiène-Beauté
+3ec427d82a3a79f5b86c;4a905c8e0b7a47a19235;CAR-100235;Marseille;13008;PACA;58;H;Fidèle;85;2.5;2025-12-22;44;Mode
+97e694e00a724fbe8be7;2757fcfa04b7e396d024;CAR-100236;Saint-Denis;93200;Île-de-France;26;F;Occasionnel;63;1.0;2025-11-30;113;Alimentaire
+f20435efc77c2549c59b;0f9d51f42ed0a5a6668f;CAR-100237;Lyon;69003;Auvergne-Rhône-Alpes;31;F;Nouveau;59;1.5;2025-12-17;6;Hygiène-Beauté
+4b1a73f6cd83b5cc491c;d5299318d58a745aa56c;CAR-100238;Lyon;69003;Auvergne-Rhône-Alpes;24;F;Occasionnel;80;0.8;2026-02-23;150;Maison
+029c359e285a0b8ad15b;6590fdccdaa2b5f43cdf;CAR-100239;Rennes;35000;Bretagne;23;F;Fidèle;97;4.0;2026-01-06;38;Alimentaire
+72d5ef22eaedd06e7da8;e22be08ad61e1dd5bf02;CAR-100240;Lille;59000;Hauts-de-France;37;F;Nouveau;38;0.4;2026-01-24;162;Maison
+6b9e8711df75c514bf2b;66af48eef0fdb5c8b40a;CAR-100241;Paris;75012;Île-de-France;25;H;Fidèle;139;4.0;2025-12-26;65;Jardin
+5467dfe0c3886f79b557;9a0af7a366f30d6fef12;CAR-100242;Saint-Denis;93200;Île-de-France;58;F;Occasionnel;36;1.8;2026-01-30;174;Alimentaire
+ef01eb94eb114b9eeeb9;07d5495440705632fec4;CAR-100243;Nantes;44000;Pays de la Loire;53;H;Fidèle;157;2.4;2025-12-22;113;Hygiène-Beauté
+c80de20bb9b797ade122;0f32fe231ba86fc50aa6;CAR-100244;Paris;75012;Île-de-France;23;F;Fidèle;115;3.4;2026-01-20;42;Électronique
+8307bf8d2e3b915d05f5;bf53e3ea70bb5febb8e9;CAR-100245;Versailles;78000;Île-de-France;50;H;Fidèle;115;3.5;2026-02-03;124;Hygiène-Beauté
+680587b9512e5722d2c3;96f0aa00539769847bd4;CAR-100246;Nantes;44000;Pays de la Loire;52;H;VIP;185;5.1;2026-03-20;79;Bébé-Enfant
+85d366c9292b4a2e40b5;eea5bd6cabf4d8b8b491;CAR-100247;Nantes;44000;Pays de la Loire;52;F;Occasionnel;43;0.6;2026-02-15;79;Hygiène-Beauté
+4724622f0a191ae98b3b;fbf257a5b3e07f0f1a8d;CAR-100248;Grenoble;38000;Auvergne-Rhône-Alpes;32;H;Fidèle;136;2.3;2026-01-16;102;Bébé-Enfant
+1cd1ecbbc00b0f4ee7c7;7c943efc3d8acba9c043;CAR-100249;Grenoble;38000;Auvergne-Rhône-Alpes;36;F;VIP;332;6.7;2025-12-25;84;Alimentaire
+9ff5a1f4ff1eb5b295dd;8ad3cc2fbf17e208dc0d;CAR-100250;Paris;75012;Île-de-France;27;H;Fidèle;93;3.9;2026-02-01;35;Jardin
+a1682985d5a9914bd716;d469916dd436dd3583ca;CAR-100251;Nice;06000;PACA;55;H;Fidèle;87;2.4;2026-02-10;58;Maison
+c516127308a09b3db4e5;715d0eb86c385d0b46dc;CAR-100252;Saint-Denis;93200;Île-de-France;21;F;Fidèle;161;2.7;2025-12-09;34;Jardin
+4f37eaca9bbe43e24ff7;fdbeda2a5803fffaa5bc;CAR-100253;Lyon;69003;Auvergne-Rhône-Alpes;21;F;Fidèle;127;3.1;2025-12-02;48;Électronique
+bf080b3d5d42dc1de949;7e9e43ea98ce75683954;CAR-100254;Nantes;44000;Pays de la Loire;74;F;Fidèle;145;2.8;2026-01-08;75;Jardin
+8fe090c6028eb63f28cd;912423f884afc3d136d1;CAR-100255;Versailles;78000;Île-de-France;59;F;Occasionnel;36;1.1;2026-01-10;142;Alimentaire
+9a13bdf9358ef20410f2;ece2f77ca60974eb5eeb;CAR-100256;Nantes;44000;Pays de la Loire;32;F;Occasionnel;32;0.8;2026-03-16;53;Bébé-Enfant
+2d6b71aea077dfb4f354;bfd6cf0a8eb58a0e85ee;CAR-100257;Paris;75012;Île-de-France;30;H;Fidèle;119;3.6;2025-11-30;98;Bébé-Enfant
+373a788b19aee0ddea04;518f43e176f44fe09b98;CAR-100258;Paris;75012;Île-de-France;35;H;Fidèle;109;3.8;2025-12-05;109;Alimentaire
+23dbcddf9dcb3a0818e1;e1023aeb1463f8ed2056;CAR-100259;Nantes;44000;Pays de la Loire;36;F;VIP;219;7.3;2026-02-28;145;Électronique
+282b62ba1f33be0f0a2b;d680da549ed5796492ff;CAR-100260;Boulogne;92100;Île-de-France;53;H;Fidèle;81;3.3;2026-02-18;135;Hygiène-Beauté
+4695ca81ac375d97c5f2;0c43f68a3903952bbbd0;CAR-100261;Boulogne;92100;Île-de-France;27;H;Fidèle;165;3.2;2026-02-25;144;Hygiène-Beauté
+282f2d53ea63550d0245;bf66f189029581f4023a;CAR-100262;Grenoble;38000;Auvergne-Rhône-Alpes;44;F;Nouveau;21;0.2;2026-01-20;23;Mode
+6f446ede1ff458046816;5df198cdcaa1cb4addf6;CAR-100263;Toulouse;31000;Occitanie;32;F;Fidèle;133;2.4;2026-01-21;65;Jardin
+8dab3ffc8f9cc85302a2;8e908fb52a0444a33413;CAR-100264;Nice;06000;PACA;42;H;Occasionnel;46;0.7;2025-12-10;29;Alimentaire
+6930210d42d2bcd151f2;d538db4282495ef09619;CAR-100265;Lille;59000;Hauts-de-France;51;H;Fidèle;90;3.8;2025-12-04;56;Électronique
+52eddda08472a9067fe2;fd7745742b7162416853;CAR-100266;Lille;59000;Hauts-de-France;44;H;VIP;185;7.8;2026-01-08;118;Bébé-Enfant
+ba40db89c98028bacc79;6cd556a0b9be12da5df0;CAR-100267;Lille;59000;Hauts-de-France;55;H;Fidèle;76;3.2;2026-01-28;160;Mode
+bef9371c57f7cec67537;ebce0413ce3a1f433b4f;CAR-100268;Strasbourg;67000;Grand Est;20;F;Occasionnel;77;0.5;2025-12-23;42;Hygiène-Beauté
+068ec2fcb943c17b1346;80923d12df3a71f17793;CAR-100269;Bordeaux;33000;Nouvelle-Aquitaine;68;H;Occasionnel;31;1.5;2026-01-28;54;Alimentaire
+6639ed58eedb29fa141a;91109f88649dfd503d3c;CAR-100270;Toulouse;31000;Occitanie;46;F;Fidèle;158;3.0;2026-02-26;47;Hygiène-Beauté
+fd8456b5ac4fb2474a48;28811bbdca2ce024cbe1;CAR-100271;Grenoble;38000;Auvergne-Rhône-Alpes;69;F;Occasionnel;36;0.7;2026-01-27;113;Électronique
+bd50b244313f531ae653;a429c9ccd83a1a98e1cf;CAR-100272;Boulogne;92100;Île-de-France;36;H;Fidèle;179;2.8;2026-01-09;19;Électronique
+0a14c3363238e6c3e0c0;508aad470c6dd44bea5b;CAR-100273;Strasbourg;67000;Grand Est;27;F;Fidèle;140;3.2;2026-02-13;104;Alimentaire
+571df3cf69601558fcb4;b42461a93e3a172a6fb7;CAR-100274;Versailles;78000;Île-de-France;54;H;VIP;262;5.4;2026-02-18;34;Alimentaire
+5bfc31cd774890f6afa7;5753d5cbf740b08f7875;CAR-100275;Nantes;44000;Pays de la Loire;30;H;Fidèle;166;3.6;2026-02-22;157;Hygiène-Beauté
+b568218e6b5cc850c7b8;953e5c76a3e181ebbe3e;CAR-100276;Boulogne;92100;Île-de-France;30;F;Occasionnel;47;1.8;2026-01-07;110;Jardin
+86d0ceb70a44887cef1d;8cbe5b3a5557fb2dba94;CAR-100277;Nantes;44000;Pays de la Loire;44;H;Occasionnel;50;1.2;2026-03-15;34;Électronique
+bad8b57b7479116d30c2;03c9380e5fb79220663c;CAR-100278;Paris;75012;Île-de-France;38;F;Fidèle;150;2.6;2025-12-04;121;Maison
+e4a864c255c3c77a9704;6ac496e90019a9aa653f;CAR-100279;Versailles;78000;Île-de-France;34;F;Fidèle;79;3.3;2026-02-05;80;Maison
+48ab3c8394f47a376cd3;a3feafc46ba782e9a4a1;CAR-100280;Rennes;35000;Bretagne;28;H;Fidèle;126;3.0;2026-01-26;167;Alimentaire
+42b7aa6c359a7c95bf32;f0b88d94861f70d17437;CAR-100281;Grenoble;38000;Auvergne-Rhône-Alpes;44;F;Occasionnel;31;0.7;2025-12-28;114;Hygiène-Beauté
+ff698a13738ead03df3e;88b0a7bde642adbcd319;CAR-100282;Versailles;78000;Île-de-France;41;F;Fidèle;167;3.9;2026-03-25;31;Alimentaire
+2efe0f1574333fa06b2b;f3f6ebc4bc41745fe015;CAR-100283;Marseille;13008;PACA;22;F;Nouveau;64;0.4;2026-01-15;120;Alimentaire
+b1569c2aab7f60f5b654;b203097a02bfdcf70364;CAR-100284;Rennes;35000;Bretagne;53;H;Fidèle;171;3.3;2026-01-05;128;Maison
+b382e850e826fad1b657;be9ed74d6b2cb4b4e5e5;CAR-100285;Toulouse;31000;Occitanie;45;H;Fidèle;103;3.4;2026-01-05;168;Jardin
+e89782b0ee57bd463bc5;7cf79d2cd3da958571e3;CAR-100286;Rennes;35000;Bretagne;51;F;Occasionnel;61;1.2;2026-03-17;90;Hygiène-Beauté
+2cb2f86f291c3a99dea2;f3080359e804a4d686b4;CAR-100287;Lyon;69003;Auvergne-Rhône-Alpes;33;F;Occasionnel;50;1.5;2025-12-03;36;Hygiène-Beauté
+6c23f7b1383f1da37ccf;d06539c56b2495b3281f;CAR-100288;Montpellier;34000;Occitanie;44;F;Nouveau;52;0.8;2026-02-19;150;Jardin
+c232a6120d77448f1536;7ac9f74879ae6180c1b8;CAR-100289;Montpellier;34000;Occitanie;41;F;VIP;298;5.0;2026-01-22;118;Maison
+706ad88172bb4134a3b4;d21ba8ad9d9a111b72bf;CAR-100290;Rennes;35000;Bretagne;62;H;Fidèle;85;2.8;2026-02-24;97;Alimentaire
+b10fa2f7645dce2c18d1;f39f033a7f8e0172257e;CAR-100291;Rennes;35000;Bretagne;23;F;VIP;277;5.2;2026-01-23;113;Alimentaire
+afda535053251d473b59;b4eb98cb64ca6e634b7e;CAR-100292;Lyon;69003;Auvergne-Rhône-Alpes;66;H;Occasionnel;44;0.9;2026-02-23;60;Mode
+e4786d6fb0de79a1b3b5;8b02e6f34fa52d872c3e;CAR-100293;Marseille;13008;PACA;35;F;Occasionnel;55;1.5;2025-12-20;55;Maison
+e98290b8e1469358dfef;c5f81fa147370098edc2;CAR-100294;Bordeaux;33000;Nouvelle-Aquitaine;37;H;Occasionnel;76;1.6;2025-12-11;179;Hygiène-Beauté
+2464f39f20f7bd3223f9;dda4f5096fcad63706e4;CAR-100295;Lille;59000;Hauts-de-France;49;F;Fidèle;96;2.3;2026-03-28;48;Maison
+5e654f87728d3daaed3c;2bcf2a317440c67871aa;CAR-100296;Toulouse;31000;Occitanie;67;H;Nouveau;20;0.8;2026-01-29;31;Alimentaire
+4cc29b09fa57f86168e5;cb16c07e914942a9aa01;CAR-100297;Bordeaux;33000;Nouvelle-Aquitaine;31;F;Occasionnel;48;0.7;2025-12-18;88;Électronique
+bd2a4cfb415943efd624;1b12a5528d93aaa5b901;CAR-100298;Grenoble;38000;Auvergne-Rhône-Alpes;46;F;Fidèle;144;2.7;2026-02-16;135;Bébé-Enfant
+4dcffc2417bcb0a8830e;c1e4eabfbcdd7efb9096;CAR-100299;Saint-Denis;93200;Île-de-France;33;H;Occasionnel;37;0.5;2026-03-02;171;Hygiène-Beauté
+c76fa7f3a0779d820a0d;f42b11b7cec9ef980d97;CAR-100300;Boulogne;92100;Île-de-France;28;F;Fidèle;106;2.9;2026-02-10;166;Alimentaire
+269c7667b4110bcfcb75;08edc1b81d14cf1062da;CAR-100301;Lille;59000;Hauts-de-France;30;F;Nouveau;48;1.4;2025-12-07;87;Électronique
+efa53a1a6a3a85eeb221;db3e65806aeefb68f232;CAR-100302;Versailles;78000;Île-de-France;46;F;Occasionnel;42;1.8;2026-01-31;148;Bébé-Enfant
+895084885056a70df212;e333e6fe5604336a7059;CAR-100303;Bordeaux;33000;Nouvelle-Aquitaine;18;F;Occasionnel;30;1.5;2026-01-10;145;Jardin
+ef6de3e19400a6aa3043;f1b21676b056594679aa;CAR-100304;Paris;75012;Île-de-France;52;F;Fidèle;111;2.1;2026-01-27;81;Alimentaire
+b496ff16547e6d743f8e;dadc2212bf3882009fc1;CAR-100305;Versailles;78000;Île-de-France;38;F;Fidèle;81;2.6;2026-01-18;42;Alimentaire
+d265166c9d1dec4adad1;e919dee823faa4a041b0;CAR-100306;Lille;59000;Hauts-de-France;71;F;Occasionnel;42;0.8;2026-02-27;176;Jardin
+ba4ff6a763290a298833;9fc41ab70cb0c4d394f5;CAR-100307;Versailles;78000;Île-de-France;51;F;Fidèle;87;2.3;2026-01-15;38;Jardin
+e893dd906d2239e63daf;4acdd397d1d0a1610ad8;CAR-100308;Rennes;35000;Bretagne;67;F;Occasionnel;56;0.9;2026-01-20;49;Électronique
+383c882513e56674cb00;a37c94b6f1d0dd642a1a;CAR-100309;Rennes;35000;Bretagne;42;F;Occasionnel;38;1.9;2026-02-13;112;Électronique
+b28cc939adb69c86081b;01b326c2654194183042;CAR-100310;Boulogne;92100;Île-de-France;45;H;Fidèle;134;3.5;2026-02-20;65;Mode
+b6adc1516f715a9dcfa1;3bf7608f831a40c0a449;CAR-100311;Montpellier;34000;Occitanie;34;H;Occasionnel;64;1.8;2026-03-30;121;Bébé-Enfant
+098405e211d2319d1ead;bc4b263c3a44e7d3dc1f;CAR-100312;Lyon;69003;Auvergne-Rhône-Alpes;43;H;Occasionnel;33;1.5;2025-12-15;77;Mode
+db05c07566750bb464cc;6aa503d9d9ea088dbe67;CAR-100313;Strasbourg;67000;Grand Est;49;H;Fidèle;82;3.0;2026-03-12;146;Jardin
+b58d42ad9622163f1a57;ebcb13755baa25d45f29;CAR-100314;Paris;75012;Île-de-France;74;F;Nouveau;60;1.5;2025-12-17;127;Mode
+46f669f71a7c3bd1961a;d3b13ab6db2e77def1ac;CAR-100315;Rennes;35000;Bretagne;43;F;Occasionnel;30;0.6;2026-03-27;132;Électronique
+2a18331fa31c44e4f477;0a647e253f04c47398a2;CAR-100316;Saint-Denis;93200;Île-de-France;58;H;Fidèle;113;3.6;2026-01-11;177;Électronique
+591c5ebb97100a5a9552;befe0484b86c30872c5e;CAR-100317;Marseille;13008;PACA;29;F;Occasionnel;57;1.7;2026-01-24;142;Hygiène-Beauté
+f414d7db7a98bf7e7758;2b9e1fcd3479f329a643;CAR-100318;Grenoble;38000;Auvergne-Rhône-Alpes;50;F;Fidèle;112;3.0;2025-12-18;30;Électronique
+70aa5eb0e17abccdbf3d;677d5950e088e770e0fd;CAR-100319;Montpellier;34000;Occitanie;66;F;Fidèle;93;3.1;2026-01-06;171;Mode
+101e558febb778777cb8;4b21db07d0662906428a;CAR-100320;Saint-Denis;93200;Île-de-France;26;H;Fidèle;92;2.0;2026-01-25;56;Maison
+13f7d0e2e005532e8edd;5330deb52b4f65e75924;CAR-100321;Rennes;35000;Bretagne;50;F;Nouveau;24;0.9;2025-12-29;38;Maison
+2969c4c1c1cfd22ffc06;3d27f1f0b7821720931b;CAR-100322;Grenoble;38000;Auvergne-Rhône-Alpes;33;F;Occasionnel;34;1.4;2025-12-02;132;Bébé-Enfant
+45393e675b9ed8ac296d;7f046ee43a612a0b8c67;CAR-100323;Lyon;69003;Auvergne-Rhône-Alpes;18;F;Occasionnel;74;1.4;2026-03-25;10;Bébé-Enfant
+0a9b3dffa24b66dc9bee;7f5817e4febb16bd32f2;CAR-100324;Versailles;78000;Île-de-France;67;H;Occasionnel;72;1.0;2025-12-17;63;Alimentaire
+cc5de80ce6932b2f8dfd;20c534640ec84e096c6b;CAR-100325;Paris;75012;Île-de-France;32;H;Nouveau;68;0.5;2025-12-12;21;Électronique
+0ff1ba0b0c33a5e6bf7c;04e371617db0e44d09c7;CAR-100326;Nice;06000;PACA;37;H;Occasionnel;31;1.1;2026-01-18;54;Hygiène-Beauté
+f3258d1d52f3c62bd7af;b19f4795f2dca1765980;CAR-100327;Toulouse;31000;Occitanie;30;H;Fidèle;161;2.3;2026-03-19;152;Alimentaire
+54c46334c24dc11b24d9;32aa8912573e8fd56d55;CAR-100328;Lyon;69003;Auvergne-Rhône-Alpes;39;F;Occasionnel;32;1.1;2026-02-15;50;Jardin
+73b3a86eedbc4841adc7;655f84f14493ef7c3077;CAR-100329;Strasbourg;67000;Grand Est;67;F;Occasionnel;42;1.0;2025-12-11;38;Bébé-Enfant
+6f7fedb8166b26fca04b;2d4b1a0a489b8929a4dc;CAR-100330;Rennes;35000;Bretagne;37;H;VIP;289;6.3;2026-03-01;16;Mode
+e0c5e460e42a4dad1dee;ae7b964bea1ca5fd9b5f;CAR-100331;Bordeaux;33000;Nouvelle-Aquitaine;45;F;Occasionnel;48;1.8;2026-03-21;139;Mode
+dfdea99d056c9b86b7a5;bd8a514cd5e90109ae9e;CAR-100332;Rennes;35000;Bretagne;24;H;Fidèle;153;2.1;2025-12-01;70;Jardin
+355d8be31899e2f36158;e0660bd4ec1829202340;CAR-100333;Grenoble;38000;Auvergne-Rhône-Alpes;55;F;VIP;266;5.3;2026-02-16;172;Alimentaire
+940d0f5229324f3b3478;66ca97f1db2b8cd75a45;CAR-100334;Nantes;44000;Pays de la Loire;46;H;Fidèle;178;3.5;2026-01-13;159;Alimentaire
+e072f2f6462c62e38224;51b150a276578a37723d;CAR-100335;Nantes;44000;Pays de la Loire;23;F;Nouveau;66;1.0;2026-01-28;80;Bébé-Enfant
+591edc5e1ac3f44a6a9e;2414fe8616e6ea199f7c;CAR-100336;Montpellier;34000;Occitanie;22;F;Occasionnel;33;1.3;2026-01-02;7;Mode
+46861c7c594ae2c54bfc;2fc0910e450f6b7f3c30;CAR-100337;Lyon;69003;Auvergne-Rhône-Alpes;66;H;Fidèle;173;3.4;2025-12-06;160;Maison
+4510cc70bb8a98cd9e00;24dc21a359a570e92c86;CAR-100338;Boulogne;92100;Île-de-France;28;F;Fidèle;130;3.2;2025-12-17;140;Mode
+0dea924878a69b52b5ad;56c0d14b8512246a614c;CAR-100339;Lille;59000;Hauts-de-France;50;H;VIP;183;4.3;2026-01-12;170;Hygiène-Beauté
+deaeaf3727e515b35f23;b0eba99f051c5ff554cc;CAR-100340;Toulouse;31000;Occitanie;51;H;Nouveau;50;1.4;2026-01-26;94;Bébé-Enfant
+fd431bbc0f27d467911f;1ee8006da0a821300be1;CAR-100341;Grenoble;38000;Auvergne-Rhône-Alpes;62;H;Fidèle;121;3.3;2026-01-20;131;Alimentaire
+a0dc406fb186501f3aea;87aef5df2f64c7e100c2;CAR-100342;Toulouse;31000;Occitanie;41;F;VIP;285;5.1;2026-02-19;144;Hygiène-Beauté
+ee3152f0e03e683580f5;6bb942819227a9608605;CAR-100343;Saint-Denis;93200;Île-de-France;36;F;Fidèle;79;3.5;2026-03-26;72;Maison
+779af1c8b8122a0e1031;e285130559a123e6442f;CAR-100344;Nantes;44000;Pays de la Loire;22;H;Occasionnel;35;1.2;2026-02-02;14;Hygiène-Beauté
+024c4d58bb75975ec8ad;388e8c0a7c3285e30a9e;CAR-100345;Paris;75012;Île-de-France;43;H;Fidèle;159;2.6;2025-12-04;158;Bébé-Enfant
+b74cc023f15f039d20b6;d49fccbd3f3e73d9b1fc;CAR-100346;Saint-Denis;93200;Île-de-France;35;H;Nouveau;57;1.0;2026-02-04;17;Bébé-Enfant
+6ee63c5fe13dd5c6c111;346c0739384dc7d45951;CAR-100347;Nice;06000;PACA;38;H;VIP;279;7.4;2025-12-22;135;Maison
+79de635dab3848225895;e83014acfb8e0faca68a;CAR-100348;Lyon;69003;Auvergne-Rhône-Alpes;22;F;Fidèle;134;2.0;2026-02-27;141;Maison
+c7a0dfc291b12beaacb4;10b532a5e5473e4f4947;CAR-100349;Nice;06000;PACA;49;H;Fidèle;79;3.3;2026-03-29;34;Maison
+852bc081c1005368da23;f07191ced6382e1b91ce;CAR-100350;Rennes;35000;Bretagne;20;F;Occasionnel;41;1.2;2026-01-08;145;Hygiène-Beauté
+861415e24ce9df14d9d3;d6ed24adb72b8eb623f1;CAR-100351;Versailles;78000;Île-de-France;48;F;Fidèle;85;3.9;2026-02-23;69;Bébé-Enfant
+9b82676d4f2344b7c359;e93c48720d21e932d010;CAR-100352;Marseille;13008;PACA;37;F;Fidèle;155;3.3;2026-01-02;132;Bébé-Enfant
+f874b1d6f5b236cc09d5;6c86ee8618fbe3ee5582;CAR-100353;Paris;75012;Île-de-France;39;F;Fidèle;80;3.9;2026-01-03;93;Mode
+f776a00197e57709ccf8;6183b0a2c2612fe6f648;CAR-100354;Lille;59000;Hauts-de-France;38;F;Occasionnel;52;1.3;2026-01-16;98;Bébé-Enfant
+8868bcdca19b839d0e98;efd74c17ad607328a9cb;CAR-100355;Lille;59000;Hauts-de-France;35;H;Occasionnel;71;1.0;2026-02-06;169;Maison
+96fa24ad4c0d83a6e1da;25b5e57dc831284d8df9;CAR-100356;Lyon;69003;Auvergne-Rhône-Alpes;48;H;Fidèle;154;2.6;2026-01-12;57;Bébé-Enfant
+fa79ebc83ba274c82c44;a1ad9c5bf1efcfa5cd0e;CAR-100357;Grenoble;38000;Auvergne-Rhône-Alpes;47;F;Fidèle;175;2.4;2026-03-11;100;Bébé-Enfant
+c76765efb69a05769eaa;d35304de70e90f3ede1c;CAR-100358;Grenoble;38000;Auvergne-Rhône-Alpes;48;F;Nouveau;56;0.7;2026-03-15;138;Bébé-Enfant
+d5ac803a53e60f0a8b6f;db4fad3b59ffd8ce2722;CAR-100359;Toulouse;31000;Occitanie;25;H;VIP;300;5.8;2026-02-16;65;Bébé-Enfant
+0f5b9ef193f987126fcd;034875b6fe588b26277f;CAR-100360;Boulogne;92100;Île-de-France;49;F;Occasionnel;59;0.9;2026-02-06;95;Alimentaire
+fe672b23c6992fd9038a;da33966d70a34daef75e;CAR-100361;Saint-Denis;93200;Île-de-France;31;F;Fidèle;84;2.5;2025-12-15;35;Mode
+cc6cf5c729108f8652c6;d0a8a8fbfd82b9a1746f;CAR-100362;Lyon;69003;Auvergne-Rhône-Alpes;35;H;Fidèle;161;2.5;2026-02-06;110;Mode
+a2d80e330f97c50e2f62;7484a1f0c15e9cb5fb93;CAR-100363;Nantes;44000;Pays de la Loire;36;F;Nouveau;69;0.4;2026-02-25;144;Jardin
+a8db7fc12c71cb1ae3d1;c5f3678bc48b0e2832da;CAR-100364;Strasbourg;67000;Grand Est;26;F;Nouveau;47;0.9;2025-12-03;102;Électronique
+87dd3e3bdbf9539a41c3;5d794ba381b486a9848f;CAR-100365;Nice;06000;PACA;53;F;Fidèle;164;2.2;2026-01-12;160;Alimentaire
+679dad2a10839fbb87b5;8bdbf59cd856bb3ce544;CAR-100366;Nantes;44000;Pays de la Loire;63;F;Nouveau;42;1.2;2026-02-21;125;Jardin
+fbe185ff41c1f79c1fb8;d1466b4c407b2203afae;CAR-100367;Nice;06000;PACA;41;F;Fidèle;167;3.9;2026-01-14;97;Jardin
+dc74a3bed73edd8cc687;f2e7b1ebcb1dfed1bf25;CAR-100368;Bordeaux;33000;Nouvelle-Aquitaine;31;H;Occasionnel;58;1.9;2026-01-26;90;Alimentaire
+f003734da6c752aafcba;47de452f1b0eff87da16;CAR-100369;Paris;75012;Île-de-France;57;F;Occasionnel;62;1.6;2025-12-16;56;Électronique
+ee0ce62ac15e74292ee8;bd282a3c11fea999eba1;CAR-100370;Toulouse;31000;Occitanie;47;H;Occasionnel;50;0.9;2025-12-07;46;Maison
+d60d28160d74a7c85fee;27139ad8a75bea2cabfa;CAR-100371;Saint-Denis;93200;Île-de-France;53;H;Nouveau;26;0.5;2026-01-24;46;Alimentaire
+f8d291fe5b1d2a96f58a;b717c50f88b8b69186e0;CAR-100372;Nice;06000;PACA;47;F;Occasionnel;64;0.5;2026-02-04;116;Mode
+a20ed6a1fa628d184f9f;0d58ac2d9d53559480bd;CAR-100373;Bordeaux;33000;Nouvelle-Aquitaine;38;H;Fidèle;112;3.7;2026-03-19;38;Maison
+af53b3e0f6e7d4cf9f6e;7d52e26e2bc93ba0f476;CAR-100374;Bordeaux;33000;Nouvelle-Aquitaine;28;F;Occasionnel;35;1.0;2026-01-31;164;Jardin
+bb8280327f2a846049e3;07e36d93057e9bb9ebc9;CAR-100375;Strasbourg;67000;Grand Est;31;F;Occasionnel;74;0.7;2026-02-18;51;Bébé-Enfant
+61b34182f51c393db70b;97aeda6b70f91a99a58e;CAR-100376;Montpellier;34000;Occitanie;75;F;Occasionnel;70;1.1;2026-03-05;70;Électronique
+7f62b8cb47b159b2f45b;890570e0f0c5117b0102;CAR-100377;Grenoble;38000;Auvergne-Rhône-Alpes;30;H;Fidèle;168;3.3;2025-12-25;57;Alimentaire
+acacca45b8c636ff16d3;b8b170e29c1c013f1251;CAR-100378;Montpellier;34000;Occitanie;24;F;Fidèle;146;2.1;2026-01-15;63;Jardin
+afc05fe3ec7c763f1b14;b133e97ddab40fcc8258;CAR-100379;Montpellier;34000;Occitanie;42;H;Fidèle;159;3.8;2026-02-08;156;Maison
+ca37c6be75c524150553;429abcf48e9873525ff2;CAR-100380;Rennes;35000;Bretagne;34;F;Occasionnel;44;1.6;2026-02-17;66;Jardin
+704c654fa7e15aeed6ab;ae0035a6d785ca329d0a;CAR-100381;Rennes;35000;Bretagne;53;F;Fidèle;134;3.4;2025-12-13;128;Mode
+2f687dffdbf7b448aa55;f2442213d7f475cc4b20;CAR-100382;Versailles;78000;Île-de-France;42;F;Fidèle;78;3.8;2026-02-17;69;Jardin
+54344c481f950be6412e;0006e91725d07a2cdff4;CAR-100383;Lille;59000;Hauts-de-France;31;F;Fidèle;178;3.8;2026-01-08;14;Maison
+59cef23713d2bd5f404b;fe4e8924e19d2e5039ed;CAR-100384;Lille;59000;Hauts-de-France;62;F;Fidèle;148;3.3;2026-03-14;157;Mode
+e9d878a4f3723ec65c33;518c8df8790182b2ea2a;CAR-100385;Lyon;69003;Auvergne-Rhône-Alpes;52;F;VIP;185;7.1;2026-01-06;15;Mode
+24a6ee24c406af0ef7ac;ff80c878c5456ba8f88f;CAR-100386;Lille;59000;Hauts-de-France;64;H;Fidèle;100;3.4;2026-02-16;108;Hygiène-Beauté
+8a36449471afb04c97a1;3f8ee5a41c342391f782;CAR-100387;Paris;75012;Île-de-France;51;H;Occasionnel;32;1.3;2026-03-10;75;Maison
+dfd03b75d4dfbb575402;2df75d141dbf6db582d6;CAR-100388;Grenoble;38000;Auvergne-Rhône-Alpes;62;H;VIP;243;4.5;2025-12-08;72;Bébé-Enfant
+e123eec862523536096a;d268dbd31a6bc86547ef;CAR-100389;Nice;06000;PACA;34;H;VIP;198;7.0;2025-12-03;41;Alimentaire
+8f712bded18d498e8156;379ae39148bd708792c2;CAR-100390;Rennes;35000;Bretagne;48;F;Occasionnel;68;1.6;2026-03-05;28;Maison
+e0d7b1b53593f2640890;0508362d5aea1ffc3697;CAR-100391;Bordeaux;33000;Nouvelle-Aquitaine;22;F;Nouveau;38;0.6;2025-12-04;139;Mode
+567cf735c18c120303e9;018a01f5fd0a71d8cc6c;CAR-100392;Nice;06000;PACA;35;F;Fidèle;138;3.5;2026-03-27;104;Bébé-Enfant
+8a21f3ffb183e4a2d2ab;9dc2e70f0537373f0bf1;CAR-100393;Lyon;69003;Auvergne-Rhône-Alpes;19;F;Fidèle;136;2.7;2026-01-18;46;Hygiène-Beauté
+480cccd4e7474e72706c;d306dce33d5b64627f4d;CAR-100394;Nice;06000;PACA;71;F;Occasionnel;45;1.2;2025-12-23;62;Alimentaire
+9de2418d58cb801e464c;636abb5889a2f1098013;CAR-100395;Nantes;44000;Pays de la Loire;34;H;Occasionnel;49;1.0;2025-12-09;4;Maison
+88088972f19dd1259a19;145b8e10ecb3bfcf3afe;CAR-100396;Rennes;35000;Bretagne;64;H;Occasionnel;61;0.9;2026-01-24;145;Bébé-Enfant
+5051e73ee922c99d5a97;1b1febb4636860315c63;CAR-100397;Lyon;69003;Auvergne-Rhône-Alpes;68;F;Occasionnel;57;0.5;2026-03-09;53;Électronique
+29b4085fbe787c791850;b620969e2cf3c71e70f3;CAR-100398;Strasbourg;67000;Grand Est;75;F;Occasionnel;57;1.2;2026-02-05;105;Alimentaire
+f797538a57c3b776af6b;1b16be8b573f3c5e2e5d;CAR-100399;Marseille;13008;PACA;24;F;Fidèle;112;2.6;2026-03-12;77;Mode
+5577f9c67a986f03f707;6fcdcf133eb2c3019116;CAR-100400;Grenoble;38000;Auvergne-Rhône-Alpes;65;H;Occasionnel;53;0.8;2025-12-28;37;Hygiène-Beauté
+2ebbacf9211afec73a0a;dab46fb0714f3fa828db;CAR-100401;Grenoble;38000;Auvergne-Rhône-Alpes;30;H;Occasionnel;50;2.0;2026-03-06;54;Jardin
+39bd8bb6ff77dbf64555;04466c94a56ad68249ce;CAR-100402;Boulogne;92100;Île-de-France;46;H;VIP;297;6.5;2026-03-02;91;Jardin
+5a64dc695adbf8ca1087;cf21ca9ebe7e53bca2a7;CAR-100403;Bordeaux;33000;Nouvelle-Aquitaine;42;H;VIP;229;6.3;2026-01-18;141;Jardin
+f69ba7077ec0223d9ffa;4b785f02ff3f2e1a867b;CAR-100404;Versailles;78000;Île-de-France;42;H;Occasionnel;39;0.9;2026-01-23;153;Jardin
+8f83cd4f6b6909d34037;e0f831bd75993b78328f;CAR-100405;Boulogne;92100;Île-de-France;73;F;Occasionnel;79;1.6;2026-01-29;56;Hygiène-Beauté
+c44d1545aca1b7a30445;6eb35aa530cb9b034307;CAR-100406;Boulogne;92100;Île-de-France;51;F;VIP;239;4.6;2026-03-24;38;Mode
+b01698663d01d5fa03cc;9464f97f87c0e0819ed2;CAR-100407;Versailles;78000;Île-de-France;69;F;Occasionnel;60;0.9;2026-02-09;124;Maison
+1fbceb23be8a1ead5570;7d1ee8abbbf97be8acfe;CAR-100408;Saint-Denis;93200;Île-de-France;25;F;Fidèle;115;3.7;2026-02-23;39;Bébé-Enfant
+225456e7409f0505c287;03a41aa5f08f22408653;CAR-100409;Marseille;13008;PACA;47;F;Fidèle;137;2.2;2026-03-27;96;Bébé-Enfant
+d5042454b035c2ee7755;295dbc76b0209e379894;CAR-100410;Lille;59000;Hauts-de-France;40;H;Fidèle;168;3.8;2026-03-08;5;Hygiène-Beauté
+7a08324955bc9915fba3;c6a6e314c562c92bdb02;CAR-100411;Boulogne;92100;Île-de-France;50;H;Fidèle;99;2.2;2026-03-29;158;Maison
+d91032c3b64cd05a89f3;d804ed5dcfe5a80d93fa;CAR-100412;Nice;06000;PACA;20;H;VIP;250;4.2;2025-12-15;10;Bébé-Enfant
+e2108ae5942bbdbaaa52;a410d5e604c0d25a53b5;CAR-100413;Versailles;78000;Île-de-France;49;F;Occasionnel;70;1.8;2026-03-17;12;Maison
+18f5da8119ff91c8d624;cc72cf8fdafbe5120450;CAR-100414;Paris;75012;Île-de-France;48;F;VIP;219;7.5;2026-02-02;166;Jardin
+3bf53f1e747fdd30658c;a573717f9627349dd0d6;CAR-100415;Boulogne;92100;Île-de-France;34;F;VIP;204;6.6;2026-02-18;46;Mode
+1d47023dda6a70d2a967;b570b0d0b46a746e4354;CAR-100416;Saint-Denis;93200;Île-de-France;47;H;Occasionnel;30;1.5;2025-12-23;131;Hygiène-Beauté
+4900595321b1e8b2cd7e;d8cc461ffa97db809713;CAR-100417;Grenoble;38000;Auvergne-Rhône-Alpes;23;H;Occasionnel;58;1.3;2025-12-13;3;Maison
+67f01ea93f6188877769;e3679fc0f7b1073f476c;CAR-100418;Lyon;69003;Auvergne-Rhône-Alpes;67;F;Fidèle;90;3.4;2025-12-03;26;Hygiène-Beauté
+da0dc466041ddb24b1be;748a888de574f398a65c;CAR-100419;Lille;59000;Hauts-de-France;31;F;Occasionnel;67;1.7;2026-01-31;23;Jardin
+317efd636b61ca2db6af;1c26bc3bf426a202b509;CAR-100420;Bordeaux;33000;Nouvelle-Aquitaine;49;H;Nouveau;32;0.7;2026-03-08;74;Hygiène-Beauté
+35fd0bb78970ca4d8738;164c766308d21ae36bf8;CAR-100421;Bordeaux;33000;Nouvelle-Aquitaine;22;H;Occasionnel;42;0.9;2026-03-19;128;Maison
+2af2b6231fb8033f6cc3;ed445b46dd18c0ec1231;CAR-100422;Saint-Denis;93200;Île-de-France;26;H;Occasionnel;71;1.7;2026-01-15;101;Hygiène-Beauté
+d086b158177f22e2cbb5;997c984b4ff5dc2dcdf6;CAR-100423;Strasbourg;67000;Grand Est;67;H;Occasionnel;57;0.9;2026-01-19;71;Alimentaire
+9138ef7701a12edd9a32;521069e588d7ea0daae7;CAR-100424;Rennes;35000;Bretagne;39;H;Occasionnel;43;1.3;2026-03-13;122;Mode
+ef140a99ddc262906fdf;e960ed7c46493301f89a;CAR-100425;Boulogne;92100;Île-de-France;27;H;Fidèle;123;2.6;2026-03-29;43;Électronique
+b6c24ed052b7d8e669e6;1e40d7848bfd406c55f7;CAR-100426;Paris;75012;Île-de-France;70;F;Fidèle;157;2.6;2026-02-02;160;Électronique
+e438a2e78ee57ada293e;5499ad7e9a784e8885e8;CAR-100427;Montpellier;34000;Occitanie;44;H;Occasionnel;55;1.1;2026-02-07;79;Alimentaire
+27074cd8c4de12963e61;4f3a56277afe4a1d6e1a;CAR-100428;Paris;75012;Île-de-France;19;H;Nouveau;26;0.7;2026-03-10;134;Hygiène-Beauté
+ef78673d723bbf4ded20;dbe05aa940fec36b6129;CAR-100429;Versailles;78000;Île-de-France;60;F;Nouveau;32;1.1;2026-03-24;26;Maison
+34235367bb5465f30a77;018e3dc7fe9dbd2cb7c9;CAR-100430;Marseille;13008;PACA;34;H;Occasionnel;52;1.5;2026-02-20;81;Alimentaire
+f2648dfa1bb192013d27;0ce7220430d152133c24;CAR-100431;Rennes;35000;Bretagne;41;H;Fidèle;130;3.4;2026-03-10;91;Alimentaire
+28676cc819ac9ca4a559;882b7e6432bf0503605e;CAR-100432;Lyon;69003;Auvergne-Rhône-Alpes;19;F;Fidèle;164;3.7;2026-02-09;35;Maison
+9b82d9adb076bd434120;3416958a4d490ad6dfa2;CAR-100433;Nantes;44000;Pays de la Loire;34;H;Occasionnel;79;1.6;2026-01-21;21;Maison
+6cad25c14173aa7bcd46;205a937e77b904e513a0;CAR-100434;Paris;75012;Île-de-France;52;H;Fidèle;78;2.5;2026-01-11;156;Bébé-Enfant
+9b267903dde374d768e0;7c90270028af4f6922a2;CAR-100435;Nantes;44000;Pays de la Loire;27;F;Fidèle;157;2.1;2026-01-06;49;Électronique
+9ba7482ebbb89d94a38c;d6402f80996ade303f61;CAR-100436;Montpellier;34000;Occitanie;54;F;Fidèle;124;3.9;2026-01-23;30;Électronique
+e81f5b7d3bfa6e08ffab;c938bf26783df0f122d4;CAR-100437;Marseille;13008;PACA;27;F;Occasionnel;76;1.7;2026-01-16;132;Électronique
+3a1b58e601ec0e18eaef;e87b6286a60d5b9fcff4;CAR-100438;Montpellier;34000;Occitanie;27;H;Occasionnel;71;1.0;2026-03-16;157;Bébé-Enfant
+5041b3c6d0f30751ecda;5076086d7a7b0826e841;CAR-100439;Versailles;78000;Île-de-France;45;H;Occasionnel;53;1.3;2026-03-08;111;Mode
+199e16e38af2d2d11ae9;eacf2a5f4b86168d4df7;CAR-100440;Nice;06000;PACA;31;F;Occasionnel;30;0.9;2025-12-27;119;Électronique
+f6daafbf162439e003fc;54ee43204d28b6f47204;CAR-100441;Nantes;44000;Pays de la Loire;41;F;VIP;252;5.8;2026-02-15;175;Maison
+1ec65689672b5517b4f2;84bb8552d8d7ebbe9133;CAR-100442;Paris;75012;Île-de-France;37;F;Occasionnel;47;1.2;2026-01-13;31;Maison
+6c6213e2fe60c7e2369e;d5594b1f724639b7ae96;CAR-100443;Rennes;35000;Bretagne;27;F;Occasionnel;55;0.7;2026-02-03;73;Maison
+30345ee544d910354070;8bbad71767cdcd2d098e;CAR-100444;Nice;06000;PACA;38;H;Nouveau;53;0.2;2025-12-28;166;Bébé-Enfant
+4e8a03f3a0d049ceb1e9;029eb277199034253faa;CAR-100445;Marseille;13008;PACA;23;F;Nouveau;25;0.7;2025-12-25;68;Jardin
+ade4589ed5a7b341ebf1;d8e1577bf671c0e12d62;CAR-100446;Saint-Denis;93200;Île-de-France;30;F;Occasionnel;37;1.0;2025-12-19;65;Jardin
+ff92b6ebeecec1e7031c;cda67c0978f152349d5f;CAR-100447;Bordeaux;33000;Nouvelle-Aquitaine;34;H;Occasionnel;60;1.6;2026-01-25;174;Alimentaire
+3057beeab1ef0a095d6e;f9adcebb84d81f81346b;CAR-100448;Bordeaux;33000;Nouvelle-Aquitaine;29;F;Occasionnel;48;1.7;2026-02-24;121;Mode
+2e4622c73eea79a3a6e6;2caead259727bc36dac3;CAR-100449;Grenoble;38000;Auvergne-Rhône-Alpes;19;F;Occasionnel;44;0.6;2026-01-12;120;Mode
+4afb31c1bad30edac4e0;7c4e3d2df66de5fead26;CAR-100450;Saint-Denis;93200;Île-de-France;60;F;Fidèle;117;3.1;2026-02-02;41;Électronique
+0d843db910b0faefe04a;c11b06876fb92a227608;CAR-100451;Nice;06000;PACA;65;F;Occasionnel;64;1.1;2026-03-20;164;Électronique
+d7a2c7581779341a2333;a8302deaf2c8a086af09;CAR-100452;Montpellier;34000;Occitanie;27;H;Occasionnel;43;0.9;2026-01-30;10;Hygiène-Beauté
+469da1dbfb585736e75c;b67fa4afd22925ca1e51;CAR-100453;Strasbourg;67000;Grand Est;33;F;Occasionnel;52;0.5;2025-12-25;128;Hygiène-Beauté
+6745deaa87a475822282;14f3fe044ec0e767ffe3;CAR-100454;Lyon;69003;Auvergne-Rhône-Alpes;41;H;Fidèle;91;2.2;2026-01-16;77;Hygiène-Beauté
+566765a538922f8fd433;4b03255eff7c828d24bb;CAR-100455;Lille;59000;Hauts-de-France;42;F;Occasionnel;56;1.4;2026-01-09;30;Jardin
+d05d95a6ea7cffa5fd2d;8504a085f98ac339b9e3;CAR-100456;Saint-Denis;93200;Île-de-France;34;F;Nouveau;54;0.8;2025-12-02;118;Hygiène-Beauté
+ab311af6d73e16fb60fd;d3c1ec900cf47dd1ae4c;CAR-100457;Boulogne;92100;Île-de-France;38;H;Nouveau;20;0.4;2026-03-18;101;Mode
+c7eadb65625e4a850931;e568ef55f6dfdb8ce1de;CAR-100458;Lyon;69003;Auvergne-Rhône-Alpes;28;H;Occasionnel;42;1.4;2026-01-13;149;Jardin
+4c5082677684c7a9e191;70abd370846b9511bfcb;CAR-100459;Paris;75012;Île-de-France;30;F;Fidèle;116;3.3;2025-12-25;156;Bébé-Enfant
+ae3f98dca6a615246ccf;0298e39263c3a111660f;CAR-100460;Grenoble;38000;Auvergne-Rhône-Alpes;58;F;Occasionnel;42;0.9;2025-12-03;54;Maison
+b2ee8b9593c703a833f6;cfd6efd18e9e3b77b820;CAR-100461;Versailles;78000;Île-de-France;40;H;Fidèle;78;2.5;2026-03-08;121;Mode
+ddb61a0d342a77608a15;6de311376814c11d4a37;CAR-100462;Montpellier;34000;Occitanie;21;F;Occasionnel;40;0.5;2026-02-06;136;Électronique
+6122b39996a9054f7a2c;1583aeb36ea68f19968f;CAR-100463;Strasbourg;67000;Grand Est;42;H;Occasionnel;56;1.6;2025-12-29;9;Électronique
+3c2116c111b4713f2265;46e6de4014a61a02a765;CAR-100464;Montpellier;34000;Occitanie;55;F;Fidèle;112;2.7;2026-02-02;112;Bébé-Enfant
+1a47cb79601cab67da51;0aa3f2ea7f49ee1cc308;CAR-100465;Lille;59000;Hauts-de-France;37;F;Fidèle;108;2.2;2026-03-12;65;Bébé-Enfant
+a35cc3c8a8b27f9fb0c7;54ab200462dae1beb8a2;CAR-100466;Versailles;78000;Île-de-France;31;F;Fidèle;87;2.9;2026-02-25;90;Maison
+5825ff99bf85eb2c9020;bf9ad92933008a3d23cd;CAR-100467;Strasbourg;67000;Grand Est;30;F;Occasionnel;58;0.6;2026-02-22;9;Hygiène-Beauté
+8d455781670405795b4a;cbb76270878a335314f3;CAR-100468;Grenoble;38000;Auvergne-Rhône-Alpes;40;F;Nouveau;38;0.6;2026-02-02;175;Maison
+4d307d3b5e33dfc41c80;b8cfe50844c8aa6a274b;CAR-100469;Nice;06000;PACA;63;F;Fidèle;93;2.5;2026-02-20;40;Mode
+271b5e9a421f52dfcdae;ce4356f548519264120c;CAR-100470;Lille;59000;Hauts-de-France;26;H;VIP;273;7.5;2026-01-07;42;Mode
+acf3c9d540954daf2ee3;03bcc45dc25a8ab09c8a;CAR-100471;Marseille;13008;PACA;50;H;Occasionnel;53;0.8;2026-01-28;100;Alimentaire
+33f4dfaefe1fdc7a3cee;60b26a189b683d4316ed;CAR-100472;Lyon;69003;Auvergne-Rhône-Alpes;20;H;Occasionnel;44;1.4;2026-01-06;53;Maison
+5ce6fd0d21ea6ddeccb0;1cd88637d04dba9852d5;CAR-100473;Toulouse;31000;Occitanie;30;F;Fidèle;156;3.6;2026-02-12;173;Alimentaire
+d6ff91deeba6ecae730a;cceab42055a9006426be;CAR-100474;Lyon;69003;Auvergne-Rhône-Alpes;42;F;Fidèle;117;3.9;2025-12-18;17;Électronique
+ccc0698f9497caa516fa;3a416ae08fab498ab1f6;CAR-100475;Grenoble;38000;Auvergne-Rhône-Alpes;24;F;Occasionnel;46;1.8;2026-01-31;48;Alimentaire
+0eb110d553627f43db9d;23fd4b85c0150424a611;CAR-100476;Marseille;13008;PACA;52;F;Nouveau;25;1.4;2026-01-23;80;Alimentaire
+56a8c8a11c149404bd1f;d51272984b544ce038ab;CAR-100477;Versailles;78000;Île-de-France;52;H;Fidèle;149;2.2;2026-01-08;21;Hygiène-Beauté
+8afdfa29386bb5087876;4978c336f22fb1940446;CAR-100478;Paris;75012;Île-de-France;25;H;Fidèle;85;3.2;2026-01-15;113;Bébé-Enfant
+95806ed7e7c371f12089;f8adfbe43bc37ea700a2;CAR-100479;Bordeaux;33000;Nouvelle-Aquitaine;37;H;Nouveau;32;1.5;2025-12-24;107;Mode
+0e53b651d6ef18d80434;58ae5fc5377e971479cd;CAR-100480;Toulouse;31000;Occitanie;24;F;Fidèle;117;3.9;2026-02-15;73;Jardin
+23ffc365de92549dacb9;8d0103c1fd5e49243d8a;CAR-100481;Strasbourg;67000;Grand Est;62;F;Occasionnel;58;1.2;2026-01-29;129;Hygiène-Beauté
+9ff7896842307729188f;c70731617001117f17d1;CAR-100482;Marseille;13008;PACA;31;H;Fidèle;161;2.9;2026-03-06;30;Bébé-Enfant
+510771576e8bb99b1da2;34e126d631fdfb58d091;CAR-100483;Toulouse;31000;Occitanie;61;H;Fidèle;139;2.9;2026-01-16;175;Hygiène-Beauté
+0e387833425fd254cb70;59f6094bd6d369df7767;CAR-100484;Strasbourg;67000;Grand Est;50;F;Fidèle;173;2.3;2026-01-29;170;Mode
+622b2a3f794b97488bb3;75d935efe4b3ae613080;CAR-100485;Grenoble;38000;Auvergne-Rhône-Alpes;57;H;Occasionnel;46;1.1;2026-02-13;83;Électronique
+96cfc6027105c86e8ee0;33515efb36fb1607a830;CAR-100486;Montpellier;34000;Occitanie;52;F;Fidèle;125;3.9;2025-12-17;38;Électronique
+f1f09816fe98683b2d98;8049f21d6d231be656c8;CAR-100487;Lille;59000;Hauts-de-France;33;H;Occasionnel;75;0.9;2026-02-04;100;Maison
+c68aa0312c3e001baa7e;f1a117dc5488e808d77e;CAR-100488;Lille;59000;Hauts-de-France;33;H;Occasionnel;43;0.7;2025-12-28;125;Jardin
+e29f88ff9d167bc203af;095b9db3c32d2a53034c;CAR-100489;Nice;06000;PACA;37;H;Occasionnel;72;1.2;2026-01-14;99;Alimentaire
+bcbcc6964b5917e4a37f;6096ee31c7b0e4562faf;CAR-100490;Lyon;69003;Auvergne-Rhône-Alpes;40;H;VIP;267;5.8;2026-02-17;108;Bébé-Enfant
+47c3b6a3b856db63e373;7e9a22d18f7537fd9ed4;CAR-100491;Versailles;78000;Île-de-France;59;H;Fidèle;150;2.2;2026-01-05;69;Mode
+ebf6f34a2d2e98d7ff39;74475a88f7bdb4ff6f26;CAR-100492;Lille;59000;Hauts-de-France;36;F;Occasionnel;31;1.7;2025-12-11;95;Bébé-Enfant
+b969f181fb9e623f2ef7;89adaf718a807b9541b3;CAR-100493;Bordeaux;33000;Nouvelle-Aquitaine;44;F;Fidèle;98;2.7;2026-02-26;157;Jardin
+942f8f76a14582258768;19deacbf86a02dac0bc1;CAR-100494;Paris;75012;Île-de-France;69;F;Nouveau;46;1.3;2025-12-04;134;Maison
+752092d62e1f8fdcd1c2;915a2192797c31dc30d0;CAR-100495;Grenoble;38000;Auvergne-Rhône-Alpes;19;F;VIP;291;7.2;2026-03-21;147;Alimentaire
+d654ba848694e0e22081;83cab804afe1be3dfd99;CAR-100496;Toulouse;31000;Occitanie;40;H;Nouveau;52;1.0;2025-12-24;21;Bébé-Enfant
+1a80befbf1ef74ec459d;11fa4de35f6e0ada6207;CAR-100497;Rennes;35000;Bretagne;29;H;Occasionnel;58;0.8;2026-01-22;180;Jardin
+4936792e708480e9cc95;cd9259cb48a99275563e;CAR-100498;Lille;59000;Hauts-de-France;42;H;Occasionnel;55;1.1;2026-02-04;41;Maison
+aef7f6fb39961d80ad31;a7b03705b9b1d6c9eda2;CAR-100499;Boulogne;92100;Île-de-France;42;H;Occasionnel;79;0.8;2026-02-13;150;Hygiène-Beauté
+869b9cd1a260404f345e;7781e892ed96946d5aac;CAR-100500;Marseille;13008;PACA;68;F;Fidèle;101;3.1;2026-01-20;92;Alimentaire
+cf555e6f50f35cdf30ce;ac8109347bacb51915f3;CAR-100501;Boulogne;92100;Île-de-France;57;H;Fidèle;104;2.3;2026-03-03;93;Alimentaire
+717da777b7ef4e745d78;517dbfd3b19dade47dbe;CAR-100502;Rennes;35000;Bretagne;45;F;Fidèle;90;3.5;2026-02-02;105;Hygiène-Beauté
+0dc16b723545079a9317;4bf8cb242153e5626da1;CAR-100503;Marseille;13008;PACA;45;F;Fidèle;150;3.0;2025-12-24;56;Alimentaire
+fadc135244f0771cbbc2;c6c0c923a0c6e2d2e35b;CAR-100504;Rennes;35000;Bretagne;68;F;Nouveau;40;0.9;2026-02-26;133;Alimentaire
+d54eb560e665d19a4151;405bc49da6833d9c6252;CAR-100505;Saint-Denis;93200;Île-de-France;38;F;Nouveau;46;1.4;2026-03-22;114;Bébé-Enfant
+077478b11f01947f57ce;389d6d1e28f3b13a453c;CAR-100506;Bordeaux;33000;Nouvelle-Aquitaine;43;F;Occasionnel;35;1.2;2025-12-27;168;Maison
+e0dffac87588bf3bc930;3ea0b9b8b054a8cdc386;CAR-100507;Paris;75012;Île-de-France;70;H;VIP;243;4.5;2026-01-13;56;Bébé-Enfant
+b82d3ea98480a78d84d6;98b1b07f17a08ac0bd4c;CAR-100508;Marseille;13008;PACA;28;H;Occasionnel;69;0.8;2025-12-26;174;Hygiène-Beauté
+d32ef699044dcbc28b2a;88c780d4d1c61a49d79c;CAR-100509;Bordeaux;33000;Nouvelle-Aquitaine;26;F;Fidèle;175;2.6;2026-01-10;85;Alimentaire
+75343ed58c4b80fea1f3;1141a550c56ae3a8eb76;CAR-100510;Versailles;78000;Île-de-France;35;F;Occasionnel;60;1.1;2026-01-13;137;Hygiène-Beauté
+b0b5df14581767f1ea5e;83cdc97fb70a274f49e1;CAR-100511;Nantes;44000;Pays de la Loire;39;F;Fidèle;119;2.1;2025-12-11;140;Électronique
+5cbee23dc260e77a5087;9eb54dfc119fd567fefd;CAR-100512;Montpellier;34000;Occitanie;53;F;Fidèle;178;2.9;2026-01-20;96;Mode
+30d2022e1d1578676e6d;b9c6acbb904f746a9fc9;CAR-100513;Versailles;78000;Île-de-France;53;H;Occasionnel;61;0.7;2025-11-30;39;Hygiène-Beauté
+208da00a5d05b2caaa44;1444d5a52d7e7565e2cf;CAR-100514;Montpellier;34000;Occitanie;54;F;Occasionnel;55;0.8;2026-02-20;87;Jardin
+3eea83bf0a56a7a1c334;d6423c187f1a3037ec5e;CAR-100515;Lille;59000;Hauts-de-France;20;F;Nouveau;56;0.6;2026-01-05;40;Mode
+65dbfa9cf47f01d08615;0ac7b2ac342754a1766d;CAR-100516;Paris;75012;Île-de-France;36;H;Occasionnel;54;0.8;2025-12-14;63;Hygiène-Beauté
+2ab375f19ee88ae9fda8;0450184bf57155d19bdd;CAR-100517;Nantes;44000;Pays de la Loire;32;H;Fidèle;148;2.4;2026-02-01;57;Électronique
+8849389889278c31b33c;22746e10b1c2bb7d6116;CAR-100518;Boulogne;92100;Île-de-France;20;F;Occasionnel;37;1.9;2026-03-07;68;Maison
+5d4ad7b80adea6a998ff;68360829a7296443612b;CAR-100519;Lyon;69003;Auvergne-Rhône-Alpes;48;F;Occasionnel;65;1.0;2025-12-20;96;Électronique
+43e40a7784992bca2453;5fa538dd32a0aba8f328;CAR-100520;Marseille;13008;PACA;40;H;Occasionnel;36;0.7;2025-12-09;91;Maison
+75a03031d407f4ca3d10;fa225a1ceab0a0dadede;CAR-100521;Saint-Denis;93200;Île-de-France;60;H;Fidèle;85;3.9;2026-01-02;59;Bébé-Enfant
+e0b513dbc18c50cc172f;c6f6997960b3676c7009;CAR-100522;Lille;59000;Hauts-de-France;75;F;VIP;270;4.6;2026-01-20;61;Jardin
+5d1f7420c35ed4f0a4fe;cdaad2df82d86a0d1578;CAR-100523;Saint-Denis;93200;Île-de-France;23;F;Nouveau;30;1.0;2025-12-01;41;Mode
+6f4905e8981800563df3;341034460dd281eda0df;CAR-100524;Strasbourg;67000;Grand Est;69;F;Nouveau;37;0.7;2026-02-05;124;Électronique
+293de2231a704626cff4;509e3592fa333847a203;CAR-100525;Nice;06000;PACA;61;H;Fidèle;75;3.3;2026-03-22;18;Bébé-Enfant
+90d09bf760087aa9f388;4659eff3825cf011a4c1;CAR-100526;Marseille;13008;PACA;49;F;Fidèle;136;4.0;2026-01-07;110;Électronique
+5d5af108c6246ad9f3ae;ec753f8be5f2704cfbd8;CAR-100527;Grenoble;38000;Auvergne-Rhône-Alpes;35;F;Occasionnel;34;1.8;2026-01-15;175;Hygiène-Beauté
+35e34b1e50ac47f2a00a;717532ad448d3260415f;CAR-100528;Versailles;78000;Île-de-France;39;F;Fidèle;161;3.3;2026-01-09;156;Électronique
+0b81441e432ccc0e8767;bb205a6d80d6eda03be5;CAR-100529;Boulogne;92100;Île-de-France;30;F;Fidèle;113;2.9;2025-12-28;90;Maison
+027b172ed57f64f68e5b;c0a57b92b036ae7bd4c3;CAR-100530;Saint-Denis;93200;Île-de-France;38;F;Nouveau;27;1.1;2025-12-19;127;Bébé-Enfant
+fc55ff02764051a7cdc6;b441e6b0eb3ac3bc4de1;CAR-100531;Montpellier;34000;Occitanie;74;H;Fidèle;88;3.2;2026-01-26;113;Électronique
+b13da4fd4a3302f142f8;1145af26221516d8f86d;CAR-100532;Montpellier;34000;Occitanie;28;F;VIP;206;6.9;2025-12-13;67;Maison
+850b3e06ab511cb8e3ec;03157e4bb0aa071dd17e;CAR-100533;Versailles;78000;Île-de-France;38;H;VIP;205;6.3;2025-12-15;127;Mode
+b33abd4907d720ebd5ae;ccce430c9206957cd4f3;CAR-100534;Saint-Denis;93200;Île-de-France;73;F;Occasionnel;68;0.6;2025-12-19;167;Alimentaire
+1d090845cbada4d2b0ee;7037bc69e31d082b6b61;CAR-100535;Grenoble;38000;Auvergne-Rhône-Alpes;25;F;Occasionnel;45;1.4;2025-12-25;13;Maison
+7bd866adbbb0d97d5fa8;e7d31ed665ca130d9493;CAR-100536;Nantes;44000;Pays de la Loire;40;H;Occasionnel;66;1.7;2026-01-04;9;Hygiène-Beauté
+e1aef345e9cca7f8009e;a1abd6dea68a2551ed5c;CAR-100537;Boulogne;92100;Île-de-France;35;F;Occasionnel;51;0.5;2026-02-26;94;Bébé-Enfant
+efa18efab47449d1e883;d01c877d72e369a31fa5;CAR-100538;Versailles;78000;Île-de-France;39;F;Occasionnel;47;1.5;2025-12-19;44;Hygiène-Beauté
+35e9298923cc19f36061;0ee7dcad566e978ec2be;CAR-100539;Saint-Denis;93200;Île-de-France;40;F;Occasionnel;50;1.7;2026-03-19;88;Maison
+8efbf3f9de62e3d9f2ea;1aed78e77841beeff33d;CAR-100540;Montpellier;34000;Occitanie;38;H;Occasionnel;49;1.1;2026-03-07;100;Hygiène-Beauté
+fbe2c116491506681e33;3cee24e2ccbf6c0aad39;CAR-100541;Lyon;69003;Auvergne-Rhône-Alpes;52;F;Fidèle;119;3.5;2026-03-06;151;Maison
+360baf131b424789d46a;b41672bd1107bb292599;CAR-100542;Lyon;69003;Auvergne-Rhône-Alpes;31;H;Nouveau;55;0.5;2025-12-29;156;Jardin
+70fa37b36eba0c23c448;d6add07d0ca482dd3114;CAR-100543;Grenoble;38000;Auvergne-Rhône-Alpes;29;F;Fidèle;93;2.8;2025-12-16;78;Mode
+7e8568aeed8e166df7a5;cdf43a042b7bc6624972;CAR-100544;Paris;75012;Île-de-France;23;F;Occasionnel;44;0.7;2026-01-26;60;Bébé-Enfant
+beaa953736f5c569f8b2;d1f79b190534b5d8c471;CAR-100545;Paris;75012;Île-de-France;54;H;Occasionnel;44;0.5;2025-12-11;159;Électronique
+97cf700f810bab3dc140;094df7ba19ff6b9024f7;CAR-100546;Nice;06000;PACA;64;F;Occasionnel;65;1.3;2025-12-07;102;Jardin
+331740df705b642b01b6;f7f83e36a7cc2c2f967e;CAR-100547;Lille;59000;Hauts-de-France;29;F;Fidèle;177;3.8;2026-03-21;180;Hygiène-Beauté
+d51d1541b338466fcbb3;1a8cb97690b28c034511;CAR-100548;Rennes;35000;Bretagne;48;F;Fidèle;176;4.0;2026-01-21;83;Alimentaire
+073db065fe4b2cea3e5d;1ab69594a2fc8cc6a788;CAR-100549;Rennes;35000;Bretagne;41;F;Occasionnel;76;1.3;2026-02-24;150;Bébé-Enfant
+bca3d789b495ef7e4430;a2334bb973070dad73f5;CAR-100550;Strasbourg;67000;Grand Est;75;F;VIP;338;5.7;2026-01-06;17;Maison
+365486de1c107ac98bc9;951234e0567ca36f18f0;CAR-100551;Grenoble;38000;Auvergne-Rhône-Alpes;73;H;Fidèle;83;3.4;2026-03-27;156;Électronique
+75a5c2d838291cab71d4;7f60d1d09478258389fe;CAR-100552;Nice;06000;PACA;22;F;Fidèle;125;3.1;2025-12-18;133;Électronique
+b549eb3e2fd62447855d;733a5a90454a38de08a3;CAR-100553;Nice;06000;PACA;57;H;Fidèle;162;3.9;2026-03-15;21;Mode
+41cf37a0ac8f40de85b5;909f6dc2023cb2d83953;CAR-100554;Saint-Denis;93200;Île-de-France;40;F;VIP;285;4.8;2026-03-07;10;Jardin
+d9e4b1461a9ef7e064f3;ff84a214223f69551569;CAR-100555;Nantes;44000;Pays de la Loire;46;F;Nouveau;26;0.7;2026-02-10;124;Hygiène-Beauté
+bd531bae726dfdd6b98c;1c99208370f4e1ebe983;CAR-100556;Bordeaux;33000;Nouvelle-Aquitaine;36;F;Occasionnel;49;0.9;2026-02-07;54;Hygiène-Beauté
+f7adba711b491f7c048d;2632d10c19b7243bbb4a;CAR-100557;Strasbourg;67000;Grand Est;19;F;Fidèle;118;2.5;2026-03-23;177;Maison
+44d95352842d364e3fd6;7f62296ef3ddcc5f008f;CAR-100558;Lille;59000;Hauts-de-France;38;H;VIP;180;5.3;2025-12-11;20;Hygiène-Beauté
+6cb8b1a31b534d7e04d8;369d1c796208955f2f0e;CAR-100559;Nice;06000;PACA;21;F;Fidèle;138;2.7;2026-02-11;149;Hygiène-Beauté
+770a1859fa3cc27f0d9e;dbf0a788a2bd76aed3af;CAR-100560;Lyon;69003;Auvergne-Rhône-Alpes;35;F;Nouveau;48;1.4;2025-12-17;82;Maison
+79c4a751a3b917a66222;eeca730135d467097ce5;CAR-100561;Boulogne;92100;Île-de-France;33;F;VIP;226;7.6;2026-02-15;119;Jardin
+11e874541b33fdae7e86;bb42a2ec0416104d29c4;CAR-100562;Saint-Denis;93200;Île-de-France;52;H;Occasionnel;58;0.9;2026-01-27;51;Bébé-Enfant
+d862ce9d48927d8c3e20;1715863aaea2049d6b17;CAR-100563;Montpellier;34000;Occitanie;45;H;Fidèle;82;3.7;2026-01-06;85;Mode
+e355077f5cfa2e98621e;224299cd560b981e3b71;CAR-100564;Toulouse;31000;Occitanie;50;F;Occasionnel;55;1.0;2026-02-21;163;Électronique
+91efb83c4d9cf6cd570e;91a9ac3e56902c7c4b59;CAR-100565;Rennes;35000;Bretagne;27;F;Fidèle;85;2.6;2025-12-20;76;Bébé-Enfant
+3c6e58ffeac83d346cf6;680a6d031f950956bc08;CAR-100566;Strasbourg;67000;Grand Est;26;H;Occasionnel;32;1.4;2026-03-08;167;Maison
+acec3d42749f2992e0b4;68eee374c193e66a68f3;CAR-100567;Montpellier;34000;Occitanie;53;F;Occasionnel;33;1.3;2025-12-09;114;Jardin
+382a37724ab04405be54;aaf0090065b282083982;CAR-100568;Boulogne;92100;Île-de-France;60;H;Occasionnel;53;0.6;2026-03-02;84;Alimentaire
+b2123c05e756a03a0e3a;588496810dbf3d60e376;CAR-100569;Lyon;69003;Auvergne-Rhône-Alpes;44;F;Occasionnel;66;1.1;2025-12-02;77;Alimentaire
+41480fb55908d3bf02d9;8a7c6d284bbdc234c5c9;CAR-100570;Toulouse;31000;Occitanie;37;F;Nouveau;34;0.4;2026-01-10;174;Maison
+374b05c0e007e1232394;c4b5c81520b0f7e8708c;CAR-100571;Grenoble;38000;Auvergne-Rhône-Alpes;36;F;Nouveau;65;1.3;2025-12-04;72;Électronique
+db351d4bf5357f9ccf27;639fd762461fac56813f;CAR-100572;Nice;06000;PACA;36;H;Occasionnel;56;1.7;2026-03-29;163;Jardin
+5bf8a60765be4b0d676e;174c2c887ed30807776e;CAR-100573;Rennes;35000;Bretagne;39;H;Fidèle;91;3.3;2026-03-22;49;Mode
+0260df3f445b7ec21dbe;c4a5aa08ac9b86bca1ba;CAR-100574;Lyon;69003;Auvergne-Rhône-Alpes;38;H;Fidèle;162;3.1;2025-12-23;33;Électronique
+8c872bc9ad242bd8bbe3;d5633253bd1649a6c518;CAR-100575;Lyon;69003;Auvergne-Rhône-Alpes;33;F;Occasionnel;65;0.6;2026-03-01;12;Bébé-Enfant
+d3d896e196c219369a38;6db40d51ac41597f6159;CAR-100576;Nice;06000;PACA;48;F;Fidèle;172;3.2;2025-12-22;13;Jardin
+817bc727fe33f3d9644f;59e23fc3f31be76c5aaa;CAR-100577;Bordeaux;33000;Nouvelle-Aquitaine;42;F;Nouveau;66;0.6;2025-12-03;47;Maison
+e0c7542c5c1a697940c8;8f2c4499c0ddc038771f;CAR-100578;Lille;59000;Hauts-de-France;46;F;Fidèle;125;3.0;2026-01-05;115;Alimentaire
+2cec5281cab945bc601b;987cf7c1b7da8cbf9a9e;CAR-100579;Lyon;69003;Auvergne-Rhône-Alpes;60;F;Occasionnel;68;1.3;2026-01-02;19;Électronique
+5b6b7ef3947edf7d4f27;e224f37aa5b99bd58f73;CAR-100580;Montpellier;34000;Occitanie;43;F;Occasionnel;76;0.6;2026-03-01;4;Électronique
+d75db438fd25b34853bd;323c46b0575f5916c1ea;CAR-100581;Strasbourg;67000;Grand Est;41;H;VIP;194;6.3;2026-03-21;8;Jardin
+65b4dfcb71d78066486b;238f20cf8f13ec46711d;CAR-100582;Montpellier;34000;Occitanie;39;F;Occasionnel;71;1.2;2026-01-27;159;Maison
+02b298acfdc94d47bd93;d4f64d02bf172e8f7c96;CAR-100583;Marseille;13008;PACA;73;F;Fidèle;136;2.7;2026-02-09;68;Hygiène-Beauté
+f206b0e95b0c7eb53766;389db3105d0db3b58fe4;CAR-100584;Nantes;44000;Pays de la Loire;40;F;Fidèle;130;2.8;2026-03-14;163;Maison
+52a237780dc8c62e5855;fd5861ffe46597fb3442;CAR-100585;Lille;59000;Hauts-de-France;41;H;Fidèle;128;2.9;2026-01-04;105;Hygiène-Beauté
+660dee6be873105671e0;af9b4eb51601a7b7d537;CAR-100586;Nice;06000;PACA;54;F;Occasionnel;43;1.8;2026-02-12;121;Mode
+e64ad08c0eba6a81699b;9265e141fdbbe7e83b93;CAR-100587;Bordeaux;33000;Nouvelle-Aquitaine;62;H;Occasionnel;71;0.7;2025-12-05;162;Électronique
+6e3181e2eb3599c952fe;9cb2149845b56fe91bd5;CAR-100588;Paris;75012;Île-de-France;55;F;VIP;235;6.6;2026-01-01;55;Électronique
+db6fdeb93061d3ec1bd3;29e8b76a86bf12f7f3bb;CAR-100589;Toulouse;31000;Occitanie;39;H;Occasionnel;77;1.1;2026-03-11;108;Maison
+9379c61fdafccaec6257;f71e39c3f8d1c8cc5010;CAR-100590;Paris;75012;Île-de-France;75;H;Fidèle;172;3.5;2026-01-03;27;Bébé-Enfant
+8486f76df36b31900858;c01fbcef557a54231d16;CAR-100591;Marseille;13008;PACA;33;H;VIP;185;7.4;2026-03-03;81;Bébé-Enfant
+e80692cf1857693518e5;d9a24775d10027393f35;CAR-100592;Strasbourg;67000;Grand Est;63;F;VIP;339;5.9;2026-03-10;41;Hygiène-Beauté
+725a701967c684f53cbc;46711ca8ebb3f7b107c9;CAR-100593;Saint-Denis;93200;Île-de-France;70;F;Fidèle;154;3.3;2025-12-05;66;Alimentaire
+b9b1a98e0fb9b31d36ad;3dad6e370761102c0383;CAR-100594;Versailles;78000;Île-de-France;47;F;Occasionnel;36;1.2;2026-03-28;153;Jardin
+2b49cdde04344b0aff4a;1bde645bd8d66cf03dda;CAR-100595;Nice;06000;PACA;24;F;Nouveau;56;1.4;2026-02-14;89;Alimentaire
+6ca4780415f7a61dcc50;bb25826f77f29582982d;CAR-100596;Versailles;78000;Île-de-France;28;H;Nouveau;59;1.5;2026-01-04;53;Jardin
+edae7527c30f2ae8e7a5;0556d775a4452477fd39;CAR-100597;Saint-Denis;93200;Île-de-France;65;H;Fidèle;120;3.8;2026-02-26;52;Mode
+c5d4df78789f3699b7ab;d404f00245112112f6e8;CAR-100598;Rennes;35000;Bretagne;61;H;Fidèle;78;2.1;2026-02-03;89;Alimentaire
+205de9f5b0e0747498f7;c6132cf8ed972e04522d;CAR-100599;Grenoble;38000;Auvergne-Rhône-Alpes;41;F;Fidèle;159;2.3;2026-01-16;7;Maison
+06f03200aa8bd6a23d27;218371a74fec130644a2;CAR-100600;Strasbourg;67000;Grand Est;56;F;Fidèle;123;2.5;2025-12-11;111;Électronique
+28a8c8e11b3ca8ee0da2;ae890d65011f32d6714b;CAR-100601;Boulogne;92100;Île-de-France;56;F;Occasionnel;76;0.9;2026-01-04;24;Bébé-Enfant
+e7d091bdf4f5ec93274b;aed51b7430b6bef025cb;CAR-100602;Lille;59000;Hauts-de-France;18;H;Occasionnel;37;0.7;2026-03-22;42;Mode
+3f30c5bb38d5ae03e74e;b634a369c1726af2b7a6;CAR-100603;Marseille;13008;PACA;44;H;Occasionnel;30;1.8;2026-01-15;163;Bébé-Enfant
+23d1a0bd3d5084f8cfea;53b6483348188f7678ba;CAR-100604;Boulogne;92100;Île-de-France;35;F;Nouveau;26;1.4;2026-03-20;50;Alimentaire
+a9fda17dd5b9f1a5f086;8bb14d24a7cab3e21d3d;CAR-100605;Montpellier;34000;Occitanie;36;H;Occasionnel;57;1.6;2026-01-22;52;Électronique
+727811ae95d55523a55d;c6b885b6dbf24c2c075f;CAR-100606;Rennes;35000;Bretagne;59;F;Occasionnel;75;1.4;2026-03-07;132;Alimentaire
+82fb67ad40338771eb30;09558a73b6be47c8f7a7;CAR-100607;Toulouse;31000;Occitanie;39;F;VIP;230;6.3;2026-03-07;85;Bébé-Enfant
+7de83bd1a3c1e018f1fe;9fbb1dae66e61ca2621a;CAR-100608;Bordeaux;33000;Nouvelle-Aquitaine;51;F;Nouveau;57;0.5;2025-12-15;91;Jardin
+e07c2f6832e8d8a06d09;3e5abef17afdcb451839;CAR-100609;Boulogne;92100;Île-de-France;51;H;Fidèle;158;2.3;2025-12-27;18;Mode
+62939721df56156c1293;fba5e713291b796e9b43;CAR-100610;Lille;59000;Hauts-de-France;25;H;Occasionnel;73;2.0;2026-01-14;95;Jardin
+e30a73f3f1f4c4dcbea6;9bbb04582b1c30dfb3dd;CAR-100611;Rennes;35000;Bretagne;28;F;Occasionnel;46;1.6;2026-02-20;128;Maison
+4a609e097518a9239555;1c0c60a18140862dba7d;CAR-100612;Boulogne;92100;Île-de-France;35;H;Occasionnel;67;1.2;2025-12-19;106;Électronique
+b9589fb190693ed0bf3f;ecefad224a59640806bc;CAR-100613;Versailles;78000;Île-de-France;35;F;Occasionnel;39;1.9;2026-02-18;100;Bébé-Enfant
+e27ff77225e1901d7a83;1916027766f426825ba6;CAR-100614;Marseille;13008;PACA;45;F;Occasionnel;30;0.8;2026-03-03;27;Alimentaire
+3ec7b5aec815d4e68d16;e1fcce2c18d5f22debae;CAR-100615;Strasbourg;67000;Grand Est;24;H;Fidèle;109;2.8;2026-02-23;61;Hygiène-Beauté
+a755f581613f7da4dac4;5905a2e213e583f12233;CAR-100616;Lille;59000;Hauts-de-France;53;F;Fidèle;130;3.3;2025-12-30;125;Mode
+ea215d8eb0c329c0c40c;73f36b304c9def63106f;CAR-100617;Montpellier;34000;Occitanie;48;F;Fidèle;141;2.0;2026-02-19;178;Mode
+698265f4d9a8fbbd8805;53000080b76171989840;CAR-100618;Lille;59000;Hauts-de-France;37;H;Fidèle;151;3.4;2026-01-17;124;Alimentaire
+041614fc337097c0d97e;ad35219c9d4d5d7a420b;CAR-100619;Montpellier;34000;Occitanie;40;H;VIP;274;7.8;2025-12-03;124;Bébé-Enfant
+b16967e5aeded622b8ab;c901f18e3b64e26f39db;CAR-100620;Nice;06000;PACA;39;F;Fidèle;148;3.8;2025-12-04;61;Jardin
+0829a5fed7e7de0a737d;03eaeef6e118a8058c04;CAR-100621;Nantes;44000;Pays de la Loire;38;F;Occasionnel;45;1.0;2025-12-24;40;Mode
+0687c72596cb89ec6ed8;d1d2528b4054b9994bb5;CAR-100622;Nantes;44000;Pays de la Loire;30;F;Fidèle;137;3.9;2025-12-21;52;Bébé-Enfant
+f7695fdc76985a9e4880;a8a7fb9c88ea44324cbe;CAR-100623;Nice;06000;PACA;39;H;Occasionnel;79;0.5;2026-01-28;146;Hygiène-Beauté
+68545cc10de0765b520a;eab47420326702f7be52;CAR-100624;Boulogne;92100;Île-de-France;42;F;Occasionnel;50;1.7;2026-01-13;157;Alimentaire
+34932f7421a4a647e9d3;c14b6fb9a44a9fb505e0;CAR-100625;Saint-Denis;93200;Île-de-France;71;F;Fidèle;169;2.6;2025-12-11;5;Maison
+a02d4eea9e7b216b6406;4e34be85b164718991f8;CAR-100626;Boulogne;92100;Île-de-France;75;F;Fidèle;112;3.5;2026-03-12;117;Jardin
+71ca921cc40f3eceabf5;e5751b90789030d4957c;CAR-100627;Nice;06000;PACA;43;F;Fidèle;151;3.9;2026-01-31;75;Hygiène-Beauté
+7939bdcc46384882ad10;3343d18a028407d71eed;CAR-100628;Grenoble;38000;Auvergne-Rhône-Alpes;55;H;Occasionnel;37;1.1;2026-02-10;143;Alimentaire
+997bccab48f35ec56482;77d9b404c0f165e64e8e;CAR-100629;Versailles;78000;Île-de-France;63;F;Occasionnel;41;1.5;2026-01-17;13;Mode
+50203e228a5d33fb90e5;20a3006f5a20481a7378;CAR-100630;Lyon;69003;Auvergne-Rhône-Alpes;49;F;VIP;213;4.6;2025-12-24;95;Maison
+bef9ae346384a6b3af00;f84410ee84f2519e58a0;CAR-100631;Nantes;44000;Pays de la Loire;28;F;Fidèle;118;3.1;2026-01-01;42;Mode
+45e0d19ae87fa4480c67;df21fc184233f6f2d82f;CAR-100632;Montpellier;34000;Occitanie;71;H;Occasionnel;40;0.8;2026-01-18;9;Alimentaire
+b5f8bcfc016f8e20f79f;4b1d01896d24d754c7b8;CAR-100633;Strasbourg;67000;Grand Est;41;F;Occasionnel;32;0.7;2026-02-18;85;Électronique
+aeca0b23898896ef15ac;91e7538192aef692d191;CAR-100634;Lyon;69003;Auvergne-Rhône-Alpes;29;F;Occasionnel;62;1.6;2026-03-25;54;Mode
+7cb7c8d008711326186e;af1a1963f0086d09f319;CAR-100635;Saint-Denis;93200;Île-de-France;63;H;VIP;238;5.4;2026-03-09;104;Hygiène-Beauté
+5ace456afdfd08ae5fd7;d38c072488ff26483d16;CAR-100636;Toulouse;31000;Occitanie;46;F;Fidèle;155;3.1;2025-12-24;158;Maison
+2801aeed5c0725d13d2b;b7263229cc34b05a9488;CAR-100637;Montpellier;34000;Occitanie;61;H;Fidèle;108;2.9;2026-01-24;106;Hygiène-Beauté
+8349cf095760e97e5a67;7e29bfab11593ba77882;CAR-100638;Bordeaux;33000;Nouvelle-Aquitaine;35;F;Fidèle;124;2.4;2025-12-14;179;Jardin
+9769d14981e025d7aa0b;edfa4290bb35b792370f;CAR-100639;Saint-Denis;93200;Île-de-France;32;F;Fidèle;179;3.3;2026-02-26;58;Mode
+e788a894a0e5de1a7d60;0f4edad1e6613defb149;CAR-100640;Nantes;44000;Pays de la Loire;58;F;VIP;183;4.8;2026-01-12;45;Électronique
+e0abcc39fa9f906b8c33;b473e41f617b46b8f920;CAR-100641;Saint-Denis;93200;Île-de-France;39;F;Fidèle;111;2.5;2026-03-27;161;Alimentaire
+63c910c4320bf5ce6cac;d4d9acd70742f08a09f7;CAR-100642;Toulouse;31000;Occitanie;23;F;Occasionnel;49;0.7;2026-01-07;51;Électronique
+e8b0f8dd9155e3f2b4b1;51e3c434d1fb5fe7e572;CAR-100643;Marseille;13008;PACA;68;H;Occasionnel;47;0.6;2026-02-25;119;Bébé-Enfant
+c67885f69e8ebd7d799c;d6848e10d145a60b7448;CAR-100644;Lyon;69003;Auvergne-Rhône-Alpes;62;F;Nouveau;63;0.4;2026-03-19;63;Électronique
+9591c6d18fead2770951;9c78430cf361643ab457;CAR-100645;Marseille;13008;PACA;28;F;Occasionnel;65;1.2;2026-03-03;19;Électronique
+7c8f01bd83fd28a85f94;460c64ad0c65fc4f1f93;CAR-100646;Paris;75012;Île-de-France;36;H;Occasionnel;61;2.0;2026-01-05;19;Bébé-Enfant
+a454235d392b3ec05d80;9428d859b86abf951ab4;CAR-100647;Toulouse;31000;Occitanie;66;F;Occasionnel;60;0.9;2026-01-01;117;Bébé-Enfant
+1b6d64b46a26713d3668;d86aa37e90faf8adee42;CAR-100648;Paris;75012;Île-de-France;42;H;VIP;191;7.8;2026-02-22;96;Alimentaire
+6c30f065da17cf932bc1;28a73eac2d7dd9a54693;CAR-100649;Marseille;13008;PACA;42;H;Occasionnel;60;1.1;2026-02-17;166;Maison
+52151e285d1f8e949abd;4b274dcddf7c8b2a14eb;CAR-100650;Boulogne;92100;Île-de-France;49;F;Fidèle;126;3.5;2026-01-26;175;Mode
+c7aea01bfcd387cd0697;f9554afbf0f602d07b8f;CAR-100651;Versailles;78000;Île-de-France;43;H;Fidèle;86;2.7;2026-01-20;177;Hygiène-Beauté
+81519366b7c253e474c2;9d7df54d2d449c6768c5;CAR-100652;Versailles;78000;Île-de-France;25;H;Nouveau;29;0.4;2026-01-16;38;Bébé-Enfant
+f735cb46771b759040e4;63db0b72502020422695;CAR-100653;Bordeaux;33000;Nouvelle-Aquitaine;34;H;Occasionnel;56;1.3;2025-12-01;143;Jardin
+58544b8735e8112747ed;a060a0e45197001c5baf;CAR-100654;Strasbourg;67000;Grand Est;20;F;Nouveau;70;1.2;2025-12-01;104;Mode
+99515bf6cd060c41b364;a50de5bc070f3ab8ec99;CAR-100655;Montpellier;34000;Occitanie;43;H;Occasionnel;66;2.0;2026-01-31;42;Bébé-Enfant
+71a32958ac560d37ca63;814970f29de9344178c2;CAR-100656;Grenoble;38000;Auvergne-Rhône-Alpes;59;F;Occasionnel;30;1.2;2026-02-19;64;Bébé-Enfant
+d698e063ce0dae593a06;83d06e8b58ed7dddc680;CAR-100657;Toulouse;31000;Occitanie;30;F;Fidèle;144;2.4;2026-03-07;177;Alimentaire
+c2a664f13ab395bcd32e;30441e1a5bd4c2f79fad;CAR-100658;Lille;59000;Hauts-de-France;49;F;VIP;295;6.6;2026-03-04;80;Électronique
+62b590f7d5cfc049a482;bdcd374d84dd89ef4ad5;CAR-100659;Paris;75012;Île-de-France;38;F;Occasionnel;69;0.5;2026-02-26;124;Bébé-Enfant
+54d46297bcd748b15ea8;f8f7fce7d5daf04b55d7;CAR-100660;Rennes;35000;Bretagne;41;H;Occasionnel;36;1.0;2026-03-27;100;Alimentaire
+f1076ee02b3d99718cba;d91dafec0efd8315f9fb;CAR-100661;Lyon;69003;Auvergne-Rhône-Alpes;43;F;Nouveau;54;1.0;2026-01-31;100;Jardin
+44fd51e4297dad212143;7880e1a165611085fac6;CAR-100662;Nantes;44000;Pays de la Loire;64;F;Fidèle;135;3.6;2026-03-18;5;Jardin
+0237e14a74b1c84365e5;7c799128f19655477794;CAR-100663;Boulogne;92100;Île-de-France;32;F;Fidèle;139;2.9;2026-01-21;170;Jardin
+a3f819672db08b5640e8;dd856bf8d6f672804da4;CAR-100664;Bordeaux;33000;Nouvelle-Aquitaine;52;H;VIP;329;6.0;2026-01-13;87;Électronique
+eee88b5a223386405104;2b1835bde49d45907f9a;CAR-100665;Boulogne;92100;Île-de-France;73;H;VIP;219;5.9;2026-03-08;99;Alimentaire
+16008c225a02479aeca8;21ad768d230ee75374e3;CAR-100666;Boulogne;92100;Île-de-France;47;H;Fidèle;118;2.5;2026-03-16;28;Hygiène-Beauté
+80a77c9cd3bec259c1ad;327eb88812e66b27cbdc;CAR-100667;Boulogne;92100;Île-de-France;56;F;Fidèle;147;3.6;2026-01-01;97;Jardin
+7f41005a4f58cb3d369a;528ade389207100741dd;CAR-100668;Boulogne;92100;Île-de-France;36;F;Occasionnel;32;0.6;2026-01-04;94;Électronique
+2bb3fb90398987f00c19;0d0132fa292bddaeeaba;CAR-100669;Strasbourg;67000;Grand Est;29;F;Fidèle;92;3.1;2026-02-11;145;Maison
+7d7fefcde5edb22d4357;f8132e08d9bf6df01528;CAR-100670;Grenoble;38000;Auvergne-Rhône-Alpes;38;H;Fidèle;149;2.5;2026-02-08;5;Maison
+f799c677230f6e4889a3;76088d1ccec0c0c4debe;CAR-100671;Lille;59000;Hauts-de-France;21;H;VIP;183;5.1;2025-12-03;65;Bébé-Enfant
+3b422c9876bef11a3699;8f6b1c3824f61efbe6a2;CAR-100672;Montpellier;34000;Occitanie;43;F;Fidèle;99;2.4;2026-01-20;21;Hygiène-Beauté
+342e555aa419ed41c3a4;4ba0ab3f3157666cb5e3;CAR-100673;Montpellier;34000;Occitanie;28;F;Occasionnel;78;0.6;2025-12-24;108;Bébé-Enfant
+6683b82065e3af05896e;dd602e002b53e61d6da8;CAR-100674;Paris;75012;Île-de-France;23;H;Occasionnel;46;1.8;2026-03-06;174;Jardin
+2b9018f8dee60b2473d5;2daf4c946cf89dae09d9;CAR-100675;Boulogne;92100;Île-de-France;42;F;Nouveau;34;1.2;2026-02-06;168;Bébé-Enfant
+2e540d1143d0b2ef957b;7a760e070a761d3c7cc2;CAR-100676;Lyon;69003;Auvergne-Rhône-Alpes;53;F;Occasionnel;68;1.1;2026-01-18;24;Jardin
+1a50996668192ebbf8ea;1adcecdb65c16675c11b;CAR-100677;Boulogne;92100;Île-de-France;50;H;Nouveau;22;1.2;2026-02-15;80;Bébé-Enfant
+c4f2d758e39850104404;aa579120eb7ef1b62c3b;CAR-100678;Strasbourg;67000;Grand Est;55;F;Occasionnel;60;1.8;2025-12-02;177;Mode
+cbe67b834c537583339a;6f2aaede1d624d9ff193;CAR-100679;Montpellier;34000;Occitanie;62;H;Occasionnel;60;1.0;2026-03-22;67;Jardin
+a1aba7960b82281b7321;f9de5fa33ac617319ddb;CAR-100680;Toulouse;31000;Occitanie;69;F;Fidèle;111;3.9;2026-02-14;81;Hygiène-Beauté
+320f53f6d66628506c45;e04cb6ca4a23a56de9a1;CAR-100681;Boulogne;92100;Île-de-France;55;H;Occasionnel;56;1.5;2025-12-20;38;Bébé-Enfant
+d77c47e6302b1a97eda2;baf7f6a1f99595916434;CAR-100682;Nice;06000;PACA;35;H;Occasionnel;73;1.0;2026-01-23;47;Alimentaire
+a6262a824dd61d65062d;8c2e806daeddddf94712;CAR-100683;Versailles;78000;Île-de-France;40;H;Occasionnel;45;1.0;2026-01-26;98;Hygiène-Beauté
+89be6a1d42f9072314a6;5745079182ce402bdfc1;CAR-100684;Nantes;44000;Pays de la Loire;43;F;Fidèle;147;2.5;2025-12-16;143;Électronique
+4fc02749524c10af114f;d3ef68853e5844763023;CAR-100685;Nice;06000;PACA;72;F;VIP;228;5.8;2026-02-05;53;Maison
+c372ad6095d0bb1eb6fe;5851f317e0d58080eaf1;CAR-100686;Lyon;69003;Auvergne-Rhône-Alpes;59;F;VIP;289;4.4;2026-02-12;16;Alimentaire
+540821295e2c14fa5cd7;880ee0ef676ab3b7f816;CAR-100687;Toulouse;31000;Occitanie;39;F;Occasionnel;65;1.9;2026-03-25;172;Mode
+aad3e6781eb069791f85;def847155904b7b963eb;CAR-100688;Nice;06000;PACA;52;F;VIP;208;5.1;2025-12-24;71;Mode
+2ee4918f3dc41de2b8bf;91cf785c7831be5349cd;CAR-100689;Nantes;44000;Pays de la Loire;40;H;Fidèle;94;3.5;2026-03-04;141;Mode
+8280f62d5a4032f6dd1a;14444a3c078d0512dc30;CAR-100690;Toulouse;31000;Occitanie;43;H;VIP;221;6.5;2025-12-12;107;Hygiène-Beauté
+bd9f2bb06a451011a0d8;64617efaa3d26b008d96;CAR-100691;Saint-Denis;93200;Île-de-France;59;H;Fidèle;96;2.0;2026-01-13;101;Électronique
+7d05b7aa33886877518c;b9413bb3cda900aadb68;CAR-100692;Versailles;78000;Île-de-France;48;F;Fidèle;85;2.3;2026-02-10;8;Mode
+a85af9d954739cc2eeb0;bef1f26f7ab5d68e568d;CAR-100693;Nice;06000;PACA;40;F;Occasionnel;61;1.0;2026-02-09;116;Mode
+2d8d313fa08a0bb0d644;7fe7c4959aa982968ad3;CAR-100694;Toulouse;31000;Occitanie;35;F;Fidèle;165;3.4;2026-02-18;93;Électronique
+a1e0212d8b7f23a4e7ae;e0da4f3f30c145085f08;CAR-100695;Montpellier;34000;Occitanie;45;F;Fidèle;104;3.9;2025-12-31;19;Électronique
+25cc80eacd2e22fd77ef;0a42056971d1a74bf825;CAR-100696;Nantes;44000;Pays de la Loire;66;H;Occasionnel;66;1.2;2026-03-19;114;Maison
+b6a3da54d0b9337e29a0;c8fd8d68f00bbbf5ea87;CAR-100697;Strasbourg;67000;Grand Est;54;F;Fidèle;121;2.4;2025-12-17;53;Bébé-Enfant
+fe31e6b93a215b7f1595;3876a21d2b5234bf0394;CAR-100698;Strasbourg;67000;Grand Est;70;F;VIP;277;4.9;2026-03-24;67;Alimentaire
+d1a8123821fbaf574c6c;6a1faf0a62e0333bdf75;CAR-100699;Nantes;44000;Pays de la Loire;67;F;Occasionnel;39;1.8;2026-02-19;45;Mode
+812efd754b8d66e2c5e1;14503f961808e3f5af85;CAR-100700;Marseille;13008;PACA;34;H;VIP;203;6.6;2026-02-22;143;Électronique
+755589e99a8790045f34;4c3a6fd8e500c436fec2;CAR-100701;Versailles;78000;Île-de-France;25;F;Nouveau;32;0.5;2026-03-08;139;Alimentaire
+3b08343c520169d83e31;b9c576cad1ac3c72a717;CAR-100702;Lille;59000;Hauts-de-France;42;F;Occasionnel;53;0.8;2025-12-11;46;Bébé-Enfant
+0077172b008bd8e94cbe;4a230663ad880f29aae9;CAR-100703;Toulouse;31000;Occitanie;44;H;Fidèle;139;2.3;2025-12-10;158;Bébé-Enfant
+f3b9e1310c16fb252831;1b3d0e1ee3a650f6d202;CAR-100704;Versailles;78000;Île-de-France;36;H;Fidèle;134;2.2;2026-03-25;20;Électronique
+15f16d64e90a894a944a;c9dfeaeda8d4a553891a;CAR-100705;Strasbourg;67000;Grand Est;48;F;Fidèle;133;2.8;2026-01-30;168;Mode
+7b113d096a4b4295290b;79b5f48bed08e496e3ac;CAR-100706;Saint-Denis;93200;Île-de-France;67;F;Fidèle;148;2.5;2026-01-26;35;Bébé-Enfant
+6a4e7a8de633e89b52d2;27357d4e82fb7a7ad6a7;CAR-100707;Paris;75012;Île-de-France;42;F;VIP;198;4.5;2026-02-18;127;Hygiène-Beauté
+f530cd3673dba113fe63;db217681b4b84817e82a;CAR-100708;Marseille;13008;PACA;54;H;Occasionnel;79;1.4;2026-01-06;80;Électronique
+8487ff4eae468aad296e;c36634415c8473569bff;CAR-100709;Rennes;35000;Bretagne;53;F;Fidèle;104;2.9;2026-03-14;109;Alimentaire
+9337de7b95ee9acd7a54;a41a163bbcc2d8821677;CAR-100710;Saint-Denis;93200;Île-de-France;73;H;Fidèle;156;2.7;2026-02-03;22;Mode
+f7fea958afa83ad681f1;38ac5a5fccd990014f9c;CAR-100711;Toulouse;31000;Occitanie;67;F;Fidèle;145;3.7;2026-02-19;132;Hygiène-Beauté
+227c8303b5ceaf2bffa4;0033b50f84d1c5eaca19;CAR-100712;Lille;59000;Hauts-de-France;57;F;VIP;205;6.2;2026-03-27;117;Électronique
+fbee12e49b6a5824429c;b0adf8a08f6f431dec61;CAR-100713;Boulogne;92100;Île-de-France;67;F;Fidèle;133;2.7;2026-02-02;127;Électronique
+b236e2e37a359427782a;b4cd01431e40a888e5de;CAR-100714;Boulogne;92100;Île-de-France;28;F;Occasionnel;79;0.6;2025-12-15;99;Maison
+f6c9119c4a64f7d7f58c;c84cbe74b884b6a56dca;CAR-100715;Nantes;44000;Pays de la Loire;49;F;Occasionnel;76;1.9;2026-02-23;103;Hygiène-Beauté
+768fe11edb3970e8561c;1c0b12bb3fd9ef7e8dd5;CAR-100716;Nantes;44000;Pays de la Loire;56;H;VIP;257;5.7;2026-01-19;148;Maison
+b74763eed2a4eefa089e;0dc09e8cd64a7a286999;CAR-100717;Rennes;35000;Bretagne;18;F;Nouveau;30;0.3;2025-12-03;45;Jardin
+f991ceb346f804461a2a;3f08112e6d44da041ef5;CAR-100718;Bordeaux;33000;Nouvelle-Aquitaine;54;H;Fidèle;160;4.0;2026-01-16;145;Mode
+9e2f407cefc7264b7de8;5b5c953d97a25e605dc5;CAR-100719;Montpellier;34000;Occitanie;58;F;Nouveau;40;1.0;2026-02-23;155;Bébé-Enfant
+0b71a0ec3fe6afe6e833;3c726fe97a3a92480226;CAR-100720;Grenoble;38000;Auvergne-Rhône-Alpes;31;F;Nouveau;47;0.8;2026-02-07;16;Mode
+00e41fb46133eab7b578;7fa2d31a60861e03761c;CAR-100721;Boulogne;92100;Île-de-France;24;F;Fidèle;88;3.6;2026-03-11;28;Jardin
+6c78b3674eb6640c18fa;4cce95e6019ad0bb9473;CAR-100722;Rennes;35000;Bretagne;25;F;Occasionnel;77;0.6;2025-12-02;172;Alimentaire
+07111ba780d645ee08a7;667ce7ec0d0d6fd82b57;CAR-100723;Lyon;69003;Auvergne-Rhône-Alpes;42;H;Occasionnel;55;0.5;2026-02-19;63;Électronique
+7352fd8e6507433c3048;106af8a8a99162acd215;CAR-100724;Marseille;13008;PACA;43;H;Occasionnel;67;0.9;2026-02-15;43;Mode
+c0e8b8d354309632545d;1d8f6c16cb870fa9bbdd;CAR-100725;Boulogne;92100;Île-de-France;21;H;Fidèle;85;3.5;2026-03-19;168;Hygiène-Beauté
+88ab7dc6dd0db3722864;44c54cf1e475e8c3d8d8;CAR-100726;Saint-Denis;93200;Île-de-France;64;F;Nouveau;22;1.1;2025-12-31;94;Jardin
+5fbdeb9d52285d7bcc68;27937454ca4c7cf758d8;CAR-100727;Paris;75012;Île-de-France;36;H;Occasionnel;49;0.6;2025-12-15;52;Bébé-Enfant
+7d16a9b2695ea30d94a4;4398cc4476461ec06155;CAR-100728;Nice;06000;PACA;35;F;Fidèle;180;2.6;2026-02-22;38;Alimentaire
+374111d822884fddc154;74c174049420adef933a;CAR-100729;Paris;75012;Île-de-France;53;H;Fidèle;95;2.2;2026-02-08;89;Jardin
+6ace976fd8ea996b2413;75fdb96a9d41d3cf7fce;CAR-100730;Nantes;44000;Pays de la Loire;53;H;Fidèle;178;2.6;2025-12-17;63;Bébé-Enfant
+4101b6aef637808932b6;fec3f3785377bb4e8713;CAR-100731;Nice;06000;PACA;68;H;Nouveau;33;0.3;2025-12-08;33;Hygiène-Beauté
+7aa819884aaaa3343797;5f4020cb0c0ccdb45c5b;CAR-100732;Grenoble;38000;Auvergne-Rhône-Alpes;26;F;VIP;294;4.3;2026-01-28;114;Électronique
+7ec322823c653c00cd2b;f779d167f7b00e2c4bc5;CAR-100733;Marseille;13008;PACA;60;H;Fidèle;168;2.4;2026-02-08;52;Maison
+e163047ea33ae852ced9;513a2419146a2b2b7f7d;CAR-100734;Grenoble;38000;Auvergne-Rhône-Alpes;61;F;VIP;188;4.7;2025-12-10;85;Électronique
+ac19dd97da0dab2b0c98;81e693a744e8f70f1168;CAR-100735;Marseille;13008;PACA;67;H;Fidèle;170;3.9;2026-03-30;45;Maison
+d140c4839dd0e45f0a6e;d2370cbe3e9e9527d44c;CAR-100736;Boulogne;92100;Île-de-France;49;F;Fidèle;117;2.5;2026-03-05;49;Électronique
+4829843186b4fc0d5898;5b629a1b2e10bcbd09e4;CAR-100737;Versailles;78000;Île-de-France;59;F;VIP;182;5.4;2025-12-15;131;Hygiène-Beauté
+7ba91b1d10849d20c55c;79caf029e4177606bf2f;CAR-100738;Nice;06000;PACA;37;F;Fidèle;162;2.5;2026-01-11;159;Hygiène-Beauté
+a44d930fd8a0860dc8d1;2d35077387fe5662b4c8;CAR-100739;Lille;59000;Hauts-de-France;41;F;Fidèle;133;3.1;2026-03-28;107;Mode
+0533523bda2aad73bbea;2d8846f66950a3bb2ad8;CAR-100740;Nice;06000;PACA;33;F;Occasionnel;56;0.8;2026-03-02;118;Maison
+73098e4b3f6625fdc629;a2417c1417326903013f;CAR-100741;Paris;75012;Île-de-France;47;H;Fidèle;179;2.5;2026-03-02;118;Hygiène-Beauté
+e731e83cd2cf9f22f128;6427290a7ddef059ba76;CAR-100742;Saint-Denis;93200;Île-de-France;64;H;Fidèle;81;3.8;2025-12-27;166;Bébé-Enfant
+4c4c2099ff34f5032518;80fd6db03190f934de09;CAR-100743;Lyon;69003;Auvergne-Rhône-Alpes;31;H;Fidèle;159;2.4;2025-12-11;63;Électronique
+e38758f07a25d5ac71e9;3b395e60638ae7dabbd3;CAR-100744;Rennes;35000;Bretagne;24;F;Occasionnel;64;0.6;2026-03-28;28;Hygiène-Beauté
+1f915332fc0dcb529e80;faaa21e9fc7ace9b2de6;CAR-100745;Marseille;13008;PACA;51;H;Nouveau;38;0.5;2026-02-12;27;Bébé-Enfant
+bda7276d0c578a10cf19;5c8e664c3a9a3728d834;CAR-100746;Boulogne;92100;Île-de-France;38;F;Nouveau;55;0.4;2026-03-30;64;Alimentaire
+8b3c8252c2120b3b2ce3;ac6aa480153dc46877cb;CAR-100747;Rennes;35000;Bretagne;41;H;Occasionnel;37;1.6;2026-01-24;34;Électronique
+ef3d9fd88b5c6d4f6bf4;69f54827cfbb077aba0e;CAR-100748;Bordeaux;33000;Nouvelle-Aquitaine;37;H;Occasionnel;35;1.1;2025-12-28;7;Mode
+5b6c4e6e5f6ad2c418da;40c1ba1cafcda3ab136d;CAR-100749;Boulogne;92100;Île-de-France;52;H;Occasionnel;40;1.5;2025-12-24;164;Maison
+dbe1816cd8235dc0be35;759d3110c053d8fb8715;CAR-100750;Toulouse;31000;Occitanie;37;H;VIP;279;4.4;2026-01-10;166;Électronique
+24611d13f86b127670b2;e273e484a587d6782737;CAR-100751;Lille;59000;Hauts-de-France;44;F;Occasionnel;44;1.3;2026-01-07;97;Hygiène-Beauté
+ea6acf1fb35f46671f6b;f53002a00fbabf1fd2e8;CAR-100752;Lille;59000;Hauts-de-France;46;F;Nouveau;20;0.7;2026-02-05;4;Maison
+d9aab9edc5b36159bdce;4ec0fdacefeb50c2ffe2;CAR-100753;Strasbourg;67000;Grand Est;26;F;Occasionnel;36;1.4;2026-01-19;90;Alimentaire
+4adf27bc8e8d1fe08b0a;3518a4dad230f1f425b6;CAR-100754;Lyon;69003;Auvergne-Rhône-Alpes;35;H;Occasionnel;70;1.1;2026-03-23;79;Jardin
+245c3e3effa2dabcf9b7;eaeceed43332c528fddb;CAR-100755;Strasbourg;67000;Grand Est;23;H;Nouveau;44;1.5;2026-02-12;22;Électronique
+dc2c87693fa4494ed691;480e12d01210adc446d6;CAR-100756;Boulogne;92100;Île-de-France;33;H;Fidèle;127;2.7;2026-01-22;157;Mode
+b94f40569165a266485b;f1430942812b605dff15;CAR-100757;Nice;06000;PACA;50;F;Occasionnel;36;0.7;2025-12-18;23;Hygiène-Beauté
+57c119edab2302e0b1c1;585d827dfd3d3cd0335a;CAR-100758;Nice;06000;PACA;31;H;VIP;259;6.2;2025-12-09;179;Mode
+664ddda426a3adce7130;0e339358cbd29d2d83a8;CAR-100759;Nantes;44000;Pays de la Loire;21;F;Fidèle;159;3.5;2026-03-19;171;Maison
+11a058cf4e610a3bb831;6578b0675cac9dc93a72;CAR-100760;Rennes;35000;Bretagne;71;F;Fidèle;92;3.2;2025-12-17;95;Électronique
+07fe5acfcc20416d78cc;313d8cecde5f899848c9;CAR-100761;Boulogne;92100;Île-de-France;39;F;Occasionnel;67;1.0;2026-01-17;29;Jardin
+43f0c2f358aeda1e7867;a604cb3ccc9702ea8999;CAR-100762;Toulouse;31000;Occitanie;63;F;Occasionnel;76;1.7;2026-02-06;4;Jardin
+c86c35100d5d80742626;619d1f37965d946204ea;CAR-100763;Toulouse;31000;Occitanie;23;F;Occasionnel;80;1.3;2026-01-11;173;Électronique
+4835f8e45f90ecbfa9d8;9b75570033915ad98008;CAR-100764;Toulouse;31000;Occitanie;23;F;Fidèle;112;3.2;2026-01-11;34;Jardin
+a615bd64dbf0a25adefb;abd2beb512156a5d1338;CAR-100765;Marseille;13008;PACA;59;F;Fidèle;138;2.4;2025-12-16;167;Mode
+f2fe13047ab1db245bce;0f8593f7ee6e564c8da3;CAR-100766;Nantes;44000;Pays de la Loire;43;F;VIP;243;4.9;2026-03-13;58;Maison
+9897e1082ce73e49807e;107853d62a2c76dc9f13;CAR-100767;Toulouse;31000;Occitanie;59;H;Nouveau;33;0.3;2026-02-01;39;Hygiène-Beauté
+07bb230531646fc6e221;31566a66fda8392d0421;CAR-100768;Saint-Denis;93200;Île-de-France;36;F;Occasionnel;50;0.9;2026-01-08;40;Hygiène-Beauté
+0b1cc8bb1459e2adab22;44750f44a192baeb4c4f;CAR-100769;Nantes;44000;Pays de la Loire;72;F;Fidèle;160;3.9;2026-01-30;43;Alimentaire
+800638f4540b4b550ad1;de5df7b6216cc915c5f8;CAR-100770;Bordeaux;33000;Nouvelle-Aquitaine;46;F;Occasionnel;59;1.8;2026-03-08;112;Bébé-Enfant
+d8d52c1c60fa6da84d3f;fd82c5c928568a75116f;CAR-100771;Bordeaux;33000;Nouvelle-Aquitaine;61;F;VIP;315;5.4;2025-12-13;125;Électronique
+25cef2165306eb175844;0abe3690e993f7439155;CAR-100772;Strasbourg;67000;Grand Est;50;F;Fidèle;103;2.5;2026-01-24;167;Hygiène-Beauté
+a5b738a3be08d5bdf883;bc06b121e970cf24a9b0;CAR-100773;Nantes;44000;Pays de la Loire;29;F;VIP;274;4.4;2026-03-28;19;Mode
+58731d9e7d9a13f3bfec;056afbb8ef7444c9c7ea;CAR-100774;Nice;06000;PACA;39;F;Nouveau;36;0.9;2026-01-16;138;Hygiène-Beauté
+cfbd1337d8fb2abdf258;067d8fa7dc2183cb14db;CAR-100775;Paris;75012;Île-de-France;37;F;Occasionnel;39;1.3;2026-01-28;52;Hygiène-Beauté
+9efd92afcf5eb9a2b0bf;4f92f04ee7c967f549e4;CAR-100776;Montpellier;34000;Occitanie;41;F;VIP;258;5.0;2025-12-13;157;Mode
+930a3bb534baa7e33bbe;ca07dc88efdf6a6b3dd0;CAR-100777;Rennes;35000;Bretagne;55;F;Occasionnel;60;0.6;2025-12-23;64;Mode
+edbb100b4f3302536fc1;840f201d89d75666a1c2;CAR-100778;Saint-Denis;93200;Île-de-France;31;F;Fidèle;130;2.2;2026-03-25;55;Électronique
+115cd5cabfa33d8b7b96;f97e3365df2be80b99e6;CAR-100779;Lyon;69003;Auvergne-Rhône-Alpes;29;H;Fidèle;88;2.3;2026-03-26;68;Alimentaire
+e67fdea5b20d6c80206a;7c916f37098b890240c1;CAR-100780;Toulouse;31000;Occitanie;34;F;Nouveau;61;0.6;2026-01-11;33;Alimentaire
+a5fcbc1e63f35d2ed957;f41bb9ea9ed894cce1e9;CAR-100781;Marseille;13008;PACA;47;H;Occasionnel;77;1.2;2026-01-05;4;Bébé-Enfant
+0b56989772c2b45826db;01c35a10933362a53a6b;CAR-100782;Paris;75012;Île-de-France;36;F;Fidèle;176;3.0;2026-02-04;92;Maison
+15c90e029aa8e8367df9;7b52ef106e0b04195270;CAR-100783;Toulouse;31000;Occitanie;31;F;Occasionnel;40;1.4;2026-03-08;43;Hygiène-Beauté
+4a21a9ad5e3149c0d413;cbb7d6cae917865d73b3;CAR-100784;Marseille;13008;PACA;65;H;Occasionnel;43;1.5;2026-03-26;33;Jardin
+a92c5405dedb5f6c5474;b6bcefe0df6910ddc4c2;CAR-100785;Lyon;69003;Auvergne-Rhône-Alpes;30;F;Nouveau;68;0.4;2025-12-14;43;Électronique
+473532b35892ee712d2f;cd7f235738f45151be7d;CAR-100786;Marseille;13008;PACA;50;H;Fidèle;122;3.7;2026-03-03;21;Hygiène-Beauté
+6e7e694a35f74488eacb;323136b11b43bcf8208d;CAR-100787;Boulogne;92100;Île-de-France;43;H;Fidèle;104;3.0;2025-12-01;154;Mode
+17d31d6b471da44b2380;348f18e588ec1f9ee224;CAR-100788;Saint-Denis;93200;Île-de-France;40;H;Nouveau;54;0.4;2025-12-19;116;Maison
+3ab838f34c6d35631a98;c307c2336ec0a1ec0b80;CAR-100789;Rennes;35000;Bretagne;34;H;Fidèle;102;2.4;2025-12-02;26;Bébé-Enfant
+62d0f8b03c28c094a617;6730cc9c7de2b58969dc;CAR-100790;Boulogne;92100;Île-de-France;36;H;Occasionnel;44;0.7;2026-01-06;151;Jardin
+b5ecdc60eaa2a51d90c8;054c89bd74f69d380d67;CAR-100791;Strasbourg;67000;Grand Est;25;F;Occasionnel;63;0.7;2025-12-11;158;Mode
+bcd73bee77a8a8619935;6a8da80fca7468703bfc;CAR-100792;Marseille;13008;PACA;45;F;Nouveau;25;0.6;2025-12-15;48;Alimentaire
+1cb17b45a1c451d3c2a7;6956f356006ba23bc18f;CAR-100793;Nantes;44000;Pays de la Loire;43;H;Fidèle;92;2.2;2025-12-28;165;Mode
+68dec0982293d9adbac5;7fbe2b56b7dd1669e6f0;CAR-100794;Versailles;78000;Île-de-France;40;F;VIP;262;5.1;2026-03-27;173;Jardin
+33c13fdd97ec61459400;86d36ae408593a915a3e;CAR-100795;Toulouse;31000;Occitanie;36;F;VIP;187;7.0;2026-01-28;28;Électronique
+46da2116b854b93e7597;046490cacf54faf106b7;CAR-100796;Lille;59000;Hauts-de-France;35;F;Occasionnel;53;1.4;2026-02-18;100;Jardin
+b41afa32f899b0c08a73;7d838c5231aac63468c0;CAR-100797;Montpellier;34000;Occitanie;20;H;VIP;309;5.2;2026-01-16;141;Électronique
+8907e2648a9a5ca7f689;4505d43194ea34695794;CAR-100798;Lille;59000;Hauts-de-France;29;F;Fidèle;173;3.5;2026-02-10;123;Alimentaire
+73943eb4ed2f06f291a0;12ddec74415942703228;CAR-100799;Montpellier;34000;Occitanie;25;H;Occasionnel;32;1.8;2026-02-15;25;Maison
+df80078b80db01ffd9e5;2784df6a4e243765cf4b;CAR-100800;Strasbourg;67000;Grand Est;42;F;Occasionnel;39;1.1;2026-03-01;85;Maison

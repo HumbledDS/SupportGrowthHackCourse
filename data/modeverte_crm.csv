@@ -1,0 +1,801 @@
+hash_email;hash_phone;client_id_mv;segment;ltv_eur;nb_commandes;derniere_commande;categorie_pref;age;genre;ville;opt_in_email
+bd4afd50f8f9fccdd315;39013ad6493440305dab;MV-200001;Dormant;166;2;2025-05-12;Sneakers upcyclées;27;H;Toulouse;Oui
+6be88c7ae99ba6be0e2e;f40c1dab21ad2d4238e9;MV-200002;VIP;1183;21;2026-01-17;Accessoires;24;F;Paris;Oui
+bdd06d8fc856020438c6;40f04ec87ba22bb8bff9;MV-200003;Active;242;8;2026-02-25;Lingerie bio;58;H;Montpellier;Oui
+26cd27d26807a72a8042;2163172d2ac5381889a2;MV-200004;Active;533;6;2025-05-22;Sneakers upcyclées;32;H;Toulouse;Non
+8863608edd8ae10a21e6;d6be076793504e3a2631;MV-200005;Dormant;158;1;2025-11-09;Accessoires;52;F;Paris;Oui
+a99a4be9d5b79e897e98;6a6e62f9592a5e1477be;MV-200006;Dormant;85;3;2026-01-17;Outerwear;33;H;Versailles;Oui
+90335404a7910d4d4519;b18be2b5bcf22558ada3;MV-200007;New;91;1;2025-08-05;Accessoires;48;F;Nice;Oui
+dbb1e28e9aaaffd2c91c;5506475fad97c00d7a8b;MV-200008;New;136;1;2025-03-05;Accessoires;36;F;Bordeaux;Oui
+87e6286d7dd00a31a39c;ac9f0e789ca005e029ee;MV-200009;New;141;1;2025-07-13;Lingerie bio;47;F;Lyon;Oui
+9f22110bf8c4766cf901;6586924e924f4c708cab;MV-200010;Active;489;5;2025-10-16;Sneakers upcyclées;32;H;Strasbourg;Oui
+059e011cf78926ff6208;9bd095a5beb133bc894b;MV-200011;Active;517;8;2025-04-06;Accessoires;40;H;Boulogne;Oui
+b108c242673bf1dd3f87;ea16d4832c7da1a9b31f;MV-200012;Dormant;187;3;2025-04-11;Sneakers upcyclées;38;F;Marseille;Non
+622edf2eb9e0fe5bb3be;a61ae72a0e4720c844bb;MV-200013;New;135;1;2025-12-28;Denim éco;30;H;Boulogne;Oui
+38e91dba4cd9b37d51c8;42ed0f12adedb6f8e5a0;MV-200014;Active;332;4;2025-12-30;Accessoires;48;H;Nice;Oui
+d78da0647c9073262882;48d008b1591079b0878f;MV-200015;New;146;1;2025-02-15;Outerwear;36;H;Nice;Non
+bae26c4dc1a80c7eab61;79cb0b644f835409a843;MV-200016;Active;214;4;2025-11-19;Denim éco;38;H;Grenoble;Oui
+1bef117c719711e2dba0;a63fefe58a4ab87702f6;MV-200017;Active;380;5;2025-12-08;Sneakers upcyclées;21;F;Grenoble;Oui
+c832617f7e233ae5e422;f0619fc32af6f9bf67f4;MV-200018;Dormant;66;1;2025-09-24;Lingerie bio;33;F;Strasbourg;Oui
+c6fd2c241be2baef161f;845b8b4e48b13379ddb8;MV-200019;Dormant;132;1;2025-11-22;Accessoires;65;F;Paris;Non
+4d0def0a7336c6022e18;facf56c49f8b983d7a7f;MV-200020;Dormant;75;1;2025-08-03;Denim éco;51;H;Toulouse;Non
+f71541ed0ad3dde6aab9;0bd7ebe21fa8df22cad3;MV-200021;Dormant;91;3;2026-01-01;Outerwear;67;F;Montpellier;Non
+f421570975f7f50ae41f;d5534e9352de546bfc53;MV-200022;Dormant;129;1;2025-12-25;Denim éco;38;F;Paris;Oui
+2193dd05f0666c0f0930;e9f52206e682ea97689d;MV-200023;Dormant;75;3;2025-11-20;Kids;32;F;Saint-Denis;Oui
+3f43e5643a6fc2393ba2;048e7bb5826607a7d853;MV-200024;Dormant;93;3;2025-10-13;Kids;51;F;Lyon;Oui
+76d6ce0272e3798e1092;1bd4c9554146ff9c75be;MV-200025;Active;543;2;2025-09-24;Denim éco;59;F;Boulogne;Oui
+bef840263071c4792d82;c50f3e994661cca35991;MV-200026;Dormant;72;3;2025-08-22;Denim éco;41;H;Boulogne;Oui
+2725e2390cfd8850a6cd;e99026ebd272d69fd90b;MV-200027;Active;248;7;2025-10-16;Accessoires;51;F;Paris;Oui
+94499b27a24c9075b4c5;503d455ba8fc61dddf3b;MV-200028;Dormant;109;2;2025-02-03;Sneakers upcyclées;51;H;Montpellier;Oui
+fed90ac040bb0f37ba7c;8bc6e583c9bea09b0922;MV-200029;Dormant;186;2;2025-06-16;Kids;66;H;Paris;Oui
+c2be79951f2df3eebc04;c17ac0eee7e64158b046;MV-200030;Active;493;2;2025-03-22;Lingerie bio;43;H;Montpellier;Non
+7e80314b5faa9007979a;346f1e772e7af113ed4c;MV-200031;Active;645;5;2026-03-20;Sneakers upcyclées;39;F;Nantes;Oui
+a5530761dab943ee89e6;5727cabfe4d0d0cfa006;MV-200032;VIP;2304;18;2025-02-19;Denim éco;27;F;Grenoble;Oui
+89111a14fea31103a4d8;e660342f125dd746f47a;MV-200033;Dormant;116;1;2025-06-05;Accessoires;20;F;Nantes;Oui
+5f11d548bdd76c772be1;436ed4ef7dc300b72418;MV-200034;Active;183;6;2025-04-29;Kids;70;F;Nice;Oui
+3177b006aecc7b289835;4357e8df79749a6875e5;MV-200035;Dormant;124;3;2025-04-01;Lingerie bio;71;F;Lille;Oui
+ae12c263c251971add69;22bad7c3988557e258d1;MV-200036;Active;204;7;2025-06-22;Kids;28;F;Toulouse;Oui
+1ebcb9acac03364a9588;a7786614a6f711c3d62b;MV-200037;Active;558;4;2025-07-18;Kids;38;H;Nantes;Oui
+00abd798442a6a23b412;0c80df084d34d018fb87;MV-200038;Active;224;4;2025-02-25;Kids;41;H;Marseille;Oui
+b80ac506fe66a1c65afd;09f06734d3d9a6dcb456;MV-200039;Active;540;2;2025-09-05;Sneakers upcyclées;64;F;Paris;Oui
+da96bb9a2a03da2ece0b;1710d5d1c776d9af3133;MV-200040;VIP;1387;25;2025-02-12;Denim éco;45;F;Boulogne;Oui
+05dae1246605a3d1e618;13ce1e8a63cd4483ca11;MV-200041;Dormant;179;1;2026-02-23;Lingerie bio;63;F;Versailles;Oui
+76b6c8204df31b8b5260;ffffd70a354aa8199c77;MV-200042;New;105;1;2025-04-25;Denim éco;57;F;Grenoble;Oui
+7f88d6bbabb1fa4adfb6;df9e8ade54e333ec7131;MV-200043;Dormant;153;3;2025-08-14;Lingerie bio;44;F;Rennes;Oui
+34be8c7bf9fa857df075;67808bb95470e41180dd;MV-200044;New;108;1;2025-03-06;Outerwear;41;H;Lille;Non
+66bb8a7e8b57bc463f1d;3e9af12f8e0056fdf9cf;MV-200045;Active;233;6;2026-03-29;Outerwear;52;F;Strasbourg;Non
+d9977548620328b3c694;c6547e685fb1f518a88f;MV-200046;VIP;1123;14;2025-12-27;Kids;44;H;Lyon;Oui
+932e3a86b7c3500121bc;300e2b6060a9a9809155;MV-200047;Dormant;171;3;2025-11-10;Denim éco;45;F;Rennes;Oui
+682bf76ffbfcaf1588b5;0d71fcae89aba965a762;MV-200048;Dormant;172;2;2026-03-26;Denim éco;54;F;Montpellier;Oui
+de20cbd2facc28e6527d;f2cf2d59a4967274fb52;MV-200049;Dormant;186;1;2025-06-07;Kids;48;F;Boulogne;Non
+aed0f391247fa8673ad5;66b4322c3f3e95126ba5;MV-200050;Active;204;7;2025-07-06;Accessoires;25;F;Montpellier;Oui
+c2d7cdfdc9dcf1a32c6f;ef9dc179f2238b5283ea;MV-200051;New;131;1;2025-07-10;Lingerie bio;45;H;Montpellier;Non
+6168fd83369b63603aef;3bdd78e22720a813d97d;MV-200052;Active;304;3;2025-05-03;Accessoires;44;F;Paris;Oui
+7251ecb9adbf8a6ffe9f;b9298311d66017445ba3;MV-200053;Dormant;116;2;2025-10-20;Sneakers upcyclées;68;H;Rennes;Oui
+d10cf86f581f8b8566ac;20ebade09fe13f7d7a09;MV-200054;New;73;1;2025-03-14;Sneakers upcyclées;44;F;Nantes;Oui
+ea4f6088e569189c4e39;0cde104aa51f9595209b;MV-200055;Active;605;8;2025-04-11;Sneakers upcyclées;35;F;Nantes;Oui
+0a4bba47c11245760416;24dae8d57b5326f018a0;MV-200056;Dormant;196;3;2025-05-13;Kids;39;F;Montpellier;Oui
+72603bfd1206fb7e48c1;16305e2713ebebb2c733;MV-200057;New;145;1;2025-07-13;Sneakers upcyclées;26;F;Versailles;Oui
+3bb25abeb82147e96eea;dd56209dbb6918552427;MV-200058;New;152;1;2025-07-03;Denim éco;44;F;Bordeaux;Oui
+54e8c3ea0445b44810bc;06ba016d32b9da0e35c0;MV-200059;New;55;1;2025-02-10;Denim éco;29;F;Montpellier;Non
+5e3097da47a66914400b;8e272c636d1c26f72621;MV-200060;Dormant;46;2;2025-07-21;Accessoires;69;H;Strasbourg;Oui
+1ff1875caf195bfab77c;aa8c6de5472df9d2dc0d;MV-200061;Active;544;3;2025-11-05;Accessoires;69;H;Paris;Oui
+29d566f4506453f605d2;07235f0676690b3ddff2;MV-200062;Active;350;8;2025-12-05;Outerwear;52;F;Lyon;Oui
+9284700bf652b88e8766;354363ddef478cee7c21;MV-200063;Active;340;3;2025-11-04;Accessoires;28;H;Nice;Oui
+8d96786dbdabcde77d80;94bd715ebbd150e2f7a3;MV-200064;Active;305;5;2025-07-23;Sneakers upcyclées;43;F;Lyon;Non
+12c2850058d20200cb38;4df8f03d4ef4abb1e6be;MV-200065;Dormant;120;1;2025-10-04;Denim éco;66;F;Grenoble;Oui
+3f59c8e59439d8d6a5cc;fe0fa4d3645e66c94b35;MV-200066;Active;217;6;2025-10-22;Outerwear;37;F;Bordeaux;Oui
+9496cd6063bc91829238;c599d5cc0a98a95e0427;MV-200067;Active;235;7;2025-04-24;Outerwear;40;F;Nice;Oui
+e83089687b7cdb47dda9;c94d405cd34eb0d733b1;MV-200068;Dormant;147;1;2026-03-14;Lingerie bio;62;F;Rennes;Non
+8a82b5ae8d5f9153da48;255e3691434880aa77ca;MV-200069;New;36;1;2025-09-24;Accessoires;52;F;Nantes;Oui
+6ea985545ec3d995f56e;399e21864e398a5cb74b;MV-200070;Active;311;6;2025-10-15;Denim éco;47;F;Versailles;Oui
+84e69c465ba9ecbe72db;264b67d070a105537fa2;MV-200071;Active;350;8;2025-07-17;Accessoires;33;F;Rennes;Oui
+6bbaa0b2b710b7ebb334;52cfc12906cb495bba22;MV-200072;Active;298;6;2025-09-01;Accessoires;54;H;Saint-Denis;Oui
+8473be2ab9b303323764;235fd283d156acdfe2c8;MV-200073;Dormant;47;3;2025-04-08;Outerwear;27;F;Grenoble;Oui
+d4cfa8e49cbf56050acf;ed81b79e0643cf6a15ff;MV-200074;New;34;1;2025-12-25;Accessoires;42;H;Montpellier;Oui
+b3aea791a56e75d1c65e;f70e708855e50b5da937;MV-200075;New;56;1;2025-08-07;Outerwear;48;F;Versailles;Oui
+19b872d0357ed981824e;6758b922e9a0abc81d55;MV-200076;Dormant;67;1;2026-03-10;Sneakers upcyclées;74;F;Paris;Oui
+8d3a80fc085aab9e720b;9fb61697534e677bd1cc;MV-200077;VIP;1793;13;2026-01-30;Accessoires;54;F;Nantes;Oui
+716bed8fb1ebc9a8496c;1100fa9c180f91bc7772;MV-200078;Dormant;99;2;2025-03-15;Kids;31;F;Nice;Oui
+f21c60d3cfe3f03242dc;4b263e48b7f7b3d2c65b;MV-200079;Active;294;5;2026-02-14;Denim éco;41;F;Marseille;Non
+acd461d994d306ff1298;85400ff48654455893bd;MV-200080;Active;441;3;2025-08-14;Denim éco;36;F;Grenoble;Oui
+9c5d32059c61a95deb6a;0301c50b056ede99e4d1;MV-200081;Dormant;178;1;2025-02-18;Outerwear;36;H;Marseille;Oui
+d89eb3da67f60113e759;b1e2835c27ab4b2f44e3;MV-200082;Active;445;2;2026-01-03;Sneakers upcyclées;52;F;Nantes;Oui
+868d53addb9b0c82d2ea;80d7def1f9a8ea729625;MV-200083;Active;476;5;2025-03-15;Denim éco;30;F;Boulogne;Non
+b7b691322c0d7f29e787;bd047844d4d9684afd03;MV-200084;Active;600;7;2025-11-14;Sneakers upcyclées;32;H;Rennes;Non
+6d5c417323422ed71c0f;8993d71c3060bc4be036;MV-200085;New;85;1;2025-08-10;Outerwear;66;F;Strasbourg;Oui
+ade4e95c7b2fd130a456;5bf299329a36a799e1ae;MV-200086;New;30;1;2025-02-08;Outerwear;52;F;Grenoble;Oui
+d9bf7fee97fb26a85be3;4f9475d76923440e86b6;MV-200087;Dormant;62;2;2025-05-19;Lingerie bio;40;H;Strasbourg;Oui
+222abda3bda2f2c36869;18cfe18f591fabdc2680;MV-200088;Active;211;5;2025-07-10;Kids;39;H;Versailles;Oui
+d993a5aaede9f22f64fc;5341fe6186aef76b3d42;MV-200089;Dormant;70;2;2026-03-16;Denim éco;62;H;Paris;Oui
+e2cc5688bd8546940502;6e7342c05dc36d523310;MV-200090;New;131;1;2025-06-25;Denim éco;38;F;Strasbourg;Oui
+b19f0223ea3887d9e701;7686d15396098f0ef9bf;MV-200091;New;150;1;2025-06-07;Lingerie bio;20;H;Saint-Denis;Oui
+83ad401e2a461eca7940;551a6e14dbda3758cc9d;MV-200092;Dormant;84;2;2026-01-20;Kids;33;H;Strasbourg;Oui
+90ad5e27b28c2cd19786;bdb4add003011afebdb1;MV-200093;Active;585;6;2025-06-07;Kids;52;H;Nice;Oui
+73152dfbc94eb0bc40fc;866412f1744e659d2560;MV-200094;VIP;1801;24;2026-03-29;Kids;68;H;Grenoble;Oui
+3925c302ba7c2febd4ac;27c630d90aba9e87827a;MV-200095;New;40;1;2025-07-27;Outerwear;36;F;Rennes;Non
+0802c6ca068965f11b25;89a69f41d1740169d5c1;MV-200096;VIP;1363;20;2025-03-20;Lingerie bio;39;H;Rennes;Oui
+1c09cdbc745a1f598d55;e9967fb0e6f50a77960c;MV-200097;Active;522;8;2026-02-23;Denim éco;35;F;Lyon;Oui
+a8e9eefb34e9577cb925;55ad09ecdd90f9a7667d;MV-200098;Active;434;2;2026-03-15;Denim éco;64;H;Grenoble;Oui
+393895f51af26741933f;aa7421718bb58ca04626;MV-200099;Dormant;81;1;2025-04-03;Denim éco;35;F;Montpellier;Non
+c12dca1c67e46d2a0d57;b789857602d085ab3b24;MV-200100;Active;366;7;2025-11-12;Kids;53;H;Montpellier;Oui
+de81a06cf606be232c58;ee0ceabc5eea96e2bc07;MV-200101;New;138;1;2025-10-16;Sneakers upcyclées;44;F;Nice;Non
+0818c5a2caf0fff09306;c5148bec5ada272ef861;MV-200102;Active;376;2;2025-04-21;Denim éco;44;F;Montpellier;Oui
+cc8556f528ed3f8bbef9;f89b487ee41c368a2d02;MV-200103;Active;288;2;2026-03-09;Lingerie bio;59;F;Versailles;Oui
+e1c0061b1cdedd99d458;d880cd715e69d15fc57f;MV-200104;Dormant;98;3;2025-02-18;Kids;56;F;Nantes;Oui
+323570cc60b8af8f151d;7dc4efdd68f8d2d866a3;MV-200105;Active;560;5;2025-07-01;Outerwear;31;F;Lille;Oui
+e21a025fc10fc2bea0e7;89165b7116fd43190dac;MV-200106;Dormant;116;2;2025-07-08;Accessoires;68;H;Strasbourg;Oui
+80520bdf4c741a49390c;28293f47b6ce1c2a7342;MV-200107;Dormant;126;1;2025-09-05;Kids;55;H;Marseille;Oui
+54ea46fe7fb2583a286c;aa3cb64532fb3ca8082a;MV-200108;Active;193;4;2025-12-12;Sneakers upcyclées;36;F;Marseille;Oui
+6c0b668e156fb5f09c75;8526618fafd46c2045de;MV-200109;Active;235;7;2026-02-11;Sneakers upcyclées;54;H;Grenoble;Oui
+e7ee541d83ec800292c5;516f96be2bbfa5f653e2;MV-200110;New;138;1;2025-07-11;Sneakers upcyclées;53;F;Nice;Oui
+25861e28f604ab861a1a;bb48e46892ced1bb700a;MV-200111;Dormant;131;3;2026-01-28;Outerwear;40;H;Strasbourg;Oui
+25db70871764b10736ca;3107683799807ffba9e8;MV-200112;Active;534;3;2025-03-06;Outerwear;39;H;Paris;Oui
+fa92990221b47b786527;ba55887db59d89d6303c;MV-200113;Active;519;4;2025-10-09;Lingerie bio;24;F;Saint-Denis;Non
+f46ebc7bf8848310d75d;22273a761ffefefd73ca;MV-200114;Dormant;180;2;2025-03-27;Outerwear;38;H;Nice;Non
+2e95e0944ab589663e97;827c9f8ff9fa6dd99bc2;MV-200115;Active;456;4;2025-10-24;Accessoires;44;F;Nantes;Oui
+b2294fb103380c417021;1f4be0c9cea17dd04285;MV-200116;Active;426;2;2025-04-14;Outerwear;35;H;Rennes;Oui
+dc7c283a4ea33a35ace5;37d1434d16750d14d437;MV-200117;Active;454;6;2025-10-04;Outerwear;53;F;Versailles;Oui
+bfe197a8710afcbe7b30;73dcbd853200dac8f0e1;MV-200118;New;146;1;2025-06-01;Sneakers upcyclées;37;F;Strasbourg;Oui
+918c9b81b514beea2aa2;bbf0ad92f96edb0d82c5;MV-200119;Active;632;2;2026-02-22;Accessoires;36;H;Toulouse;Non
+84c6232a5bb97835c2c7;f5db413e08663ea5781c;MV-200120;Active;534;6;2026-03-28;Lingerie bio;27;F;Grenoble;Oui
+9564112d3e46f34b6f05;c791ed8f8c06a5c7cbd0;MV-200121;Active;537;6;2025-11-21;Denim éco;44;F;Nantes;Oui
+b242db489db84caf32fc;9fcf19ca61147f6c2fd6;MV-200122;Dormant;115;3;2025-05-24;Sneakers upcyclées;28;F;Toulouse;Oui
+efb71d9c840b06c40cca;f0af1a04baaeb51ee42f;MV-200123;New;132;1;2026-01-19;Denim éco;75;F;Grenoble;Non
+7eb1e7e339e1e04a21b2;0d7837020c1c67b6737c;MV-200124;Dormant;147;2;2025-05-19;Lingerie bio;30;F;Bordeaux;Oui
+46232a84cfce03d768f5;65a8504d17c3563efcc2;MV-200125;VIP;2347;9;2025-11-26;Kids;30;F;Toulouse;Oui
+53473bbfd43d3666de1d;ad9537b6004d31ee8c43;MV-200126;New;47;1;2025-06-28;Outerwear;50;F;Nantes;Non
+0a959e73878e3a31432a;886cdeb769a310b53219;MV-200127;Active;621;3;2026-01-22;Kids;47;H;Montpellier;Oui
+5ddffb8fea46ed195e62;e196218a0f5667f551ee;MV-200128;Dormant;164;3;2025-09-08;Sneakers upcyclées;54;H;Nantes;Oui
+d28d0c5840b00ad106c3;eb4b807929ccbd221876;MV-200129;New;126;1;2025-12-01;Sneakers upcyclées;25;F;Lille;Oui
+6281c76fc28c69bdee60;ef8232b7a824f27a0475;MV-200130;New;75;1;2025-10-07;Accessoires;40;H;Marseille;Oui
+5c20e8bf54460be6ff77;fccd7728ffc7d4aeb420;MV-200131;Active;201;8;2025-09-11;Lingerie bio;48;F;Nice;Oui
+98b0f3fa7f67d54838f7;6b1f370c9dd912f77fd9;MV-200132;New;103;1;2025-08-12;Denim éco;30;F;Boulogne;Oui
+3a5d549af4086ea9c172;f42bc045964d160e9301;MV-200133;Dormant;197;3;2026-02-11;Lingerie bio;32;H;Versailles;Non
+2c6123195367158aab30;88615e01de5fa050e6d3;MV-200134;Active;375;8;2025-10-30;Outerwear;29;H;Marseille;Oui
+88de32275ee413e6db59;d3cf2782aaf239cd3cb1;MV-200135;Active;539;5;2025-07-31;Outerwear;38;H;Marseille;Non
+3ddd6f544d6bece12acf;b6e1966cbb19c61da58f;MV-200136;Dormant;169;2;2025-08-12;Outerwear;25;F;Strasbourg;Non
+63506d1bb3da32b9c0eb;3c12da4c750e12b59633;MV-200137;New;88;1;2025-12-06;Kids;31;H;Bordeaux;Oui
+5bbd2ad976545f8729a1;514bc88bd78f5d296c0c;MV-200138;Active;268;5;2025-02-11;Kids;63;H;Saint-Denis;Oui
+cb105505094c1ecd8e92;50a00b4b5286513478d2;MV-200139;VIP;1577;23;2025-04-02;Lingerie bio;19;H;Nice;Oui
+537e203936ee8a005ad5;1d4a3bca9ca4f88a5c05;MV-200140;Active;522;2;2025-06-21;Kids;30;F;Lille;Oui
+4b5f6854d1b6922fd3a6;721f08eda75d630d0196;MV-200141;Active;258;6;2025-10-08;Kids;39;F;Bordeaux;Oui
+35a9fa0e96a40f7c142a;37b64cf9ceff2af5dff1;MV-200142;Dormant;155;1;2025-05-01;Outerwear;46;F;Paris;Oui
+817af8f3da39a2c84bb6;d2e5f00534aff5f52bbe;MV-200143;Dormant;189;3;2025-05-07;Outerwear;63;F;Versailles;Oui
+2fd2104e5b2bf8d5c85e;cb3d39d1a8ee8cf4c65d;MV-200144;Active;374;7;2025-10-28;Kids;49;F;Bordeaux;Oui
+bd740c66ef83371ad661;a359181ef464c00756a8;MV-200145;Active;286;7;2025-05-14;Sneakers upcyclées;29;F;Saint-Denis;Oui
+54215d1e2d72314dfdc5;487a4dde50d29a13a5fa;MV-200146;Active;418;3;2026-03-24;Kids;65;F;Montpellier;Oui
+394c73c75cbe314b3692;01a8c36f5d0233f81f9f;MV-200147;New;101;1;2026-01-07;Outerwear;35;F;Nantes;Oui
+b015782b897b65cef62e;71a82bec0fad57596e38;MV-200148;Dormant;55;1;2026-01-23;Accessoires;45;H;Grenoble;Oui
+bc38bd6208ca3ace92da;0cd3d4f3abe203fd8357;MV-200149;Dormant;169;3;2026-02-11;Lingerie bio;29;F;Saint-Denis;Oui
+6c84c6479d3cab7bca1c;2ad8bc673c484b3f84ff;MV-200150;Active;207;2;2026-03-10;Lingerie bio;51;F;Strasbourg;Oui
+2e2c484383ed2175e43c;116b7f33ccd318688ad8;MV-200151;Active;346;5;2026-03-19;Accessoires;30;F;Marseille;Oui
+71a8edfcca38a9478d7b;8b56a379cd3245af7eab;MV-200152;VIP;1552;19;2025-04-26;Accessoires;26;F;Nice;Oui
+921346bfd5aefe992d20;0de81fdb28e9c04e1935;MV-200153;Active;354;4;2025-05-20;Sneakers upcyclées;35;F;Nice;Oui
+16d073c55471e3569451;a914c898747d927a9470;MV-200154;Dormant;139;1;2025-06-14;Sneakers upcyclées;42;F;Grenoble;Oui
+cad1da66d628ad64ed3a;a39b38d60a7f7f5a35d1;MV-200155;New;87;1;2025-05-14;Lingerie bio;47;H;Lille;Oui
+56d1c0cefdb76de96e5e;19cb385b878566f19cd1;MV-200156;Dormant;55;3;2025-04-21;Lingerie bio;27;F;Versailles;Oui
+8a0e2742e12f7554a071;76f8a4b3b1db22d46a0b;MV-200157;VIP;2231;13;2025-05-21;Sneakers upcyclées;31;F;Montpellier;Oui
+2f426bd6f47c90214670;c406f1ac6a5fef6ac0d0;MV-200158;Dormant;55;3;2026-03-09;Outerwear;45;F;Versailles;Oui
+31d0fd6e7dfb675f5214;f1047beaaa1675b4e2ee;MV-200159;New;66;1;2025-10-27;Sneakers upcyclées;32;F;Paris;Oui
+9505a12b2d123ba01a65;23fc757920bc9f33c9db;MV-200160;Active;226;6;2025-11-03;Outerwear;44;F;Paris;Oui
+1f36a1551c5f9d1238a8;da1e9d70cdcc27842fef;MV-200161;Dormant;104;3;2025-12-29;Denim éco;45;F;Versailles;Oui
+97b9c8419b0782a01ed9;4416a2252301fa65d488;MV-200162;Dormant;162;1;2025-06-04;Sneakers upcyclées;29;F;Nice;Non
+ea24c5fbc7873cb24f81;47f870e69bdfdb9c4994;MV-200163;Active;225;5;2026-01-10;Denim éco;25;F;Lille;Oui
+ccf8c7813963fd3c2e6e;59c71d279b5d938d1642;MV-200164;Dormant;117;2;2025-11-15;Outerwear;74;F;Versailles;Oui
+4769d4251cf8fb5422e0;9e72f4c4a317d93cd9e9;MV-200165;Active;499;5;2025-08-05;Lingerie bio;19;H;Nantes;Oui
+8d755949a037c014c6e2;b7e4f96786e3fa0fdd2c;MV-200166;Active;239;6;2026-03-16;Kids;60;F;Versailles;Oui
+090ca0da48d51b4991c1;da332028cba9d90cc99a;MV-200167;Dormant;63;1;2025-05-30;Lingerie bio;36;F;Saint-Denis;Oui
+87330d9163627db93473;b3210277f12af49f82d9;MV-200168;New;47;1;2025-06-06;Lingerie bio;59;F;Nantes;Oui
+031d9749e8cde2f737a4;73781dd680e44b7ac021;MV-200169;Dormant;187;1;2025-07-10;Lingerie bio;18;H;Marseille;Oui
+6fff1c04969534e967f8;1299dd8de01881f0ef6a;MV-200170;New;54;1;2025-08-15;Kids;26;F;Marseille;Oui
+1fc9f57caaed39165ef2;ac9d6e0ab760d696dcad;MV-200171;VIP;1515;14;2026-02-14;Accessoires;32;H;Paris;Oui
+71b99ae80cf4b83cd6c0;3411306641ecef75ec18;MV-200172;Active;586;2;2026-03-11;Kids;48;H;Lille;Oui
+7577a757fae709641889;fc05f0e7e1ff3728c4b7;MV-200173;Active;319;2;2025-08-21;Accessoires;38;F;Paris;Oui
+6138513128289ea65ad4;595e3ac061ca3ce945a7;MV-200174;Active;603;4;2025-10-03;Kids;19;H;Versailles;Oui
+13dffd47d6e59c2543aa;dad61ec682816e4aefb0;MV-200175;Active;567;7;2025-09-09;Kids;33;F;Paris;Oui
+af8abcd918d3d104bd17;52d0b660bf2318c87c24;MV-200176;VIP;2235;22;2025-02-28;Lingerie bio;71;F;Boulogne;Oui
+f7a80aec65d9fec7044e;b895c071a4280fa9ef30;MV-200177;Dormant;92;1;2025-08-24;Sneakers upcyclées;39;F;Nantes;Oui
+aaba60fa30f376d2f6d5;3a181c15ba27e5818e53;MV-200178;Active;621;8;2025-04-12;Lingerie bio;56;F;Nice;Non
+2b790f1ed77e91cbe260;3ba7f7184f22afba234e;MV-200179;Active;416;6;2025-07-20;Denim éco;62;H;Lyon;Oui
+4121f6e44800f53feda8;40e26c0f18ccc1cd8921;MV-200180;New;137;1;2025-12-18;Lingerie bio;59;H;Toulouse;Non
+fc861e5b4bd31fe938d7;a0f1e2e06e0400aa3b67;MV-200181;Dormant;176;3;2025-10-30;Accessoires;38;F;Bordeaux;Oui
+16411d9515ffb6b132c5;64d081324237d2be90ee;MV-200182;New;115;1;2025-05-26;Outerwear;29;F;Grenoble;Oui
+c726e03e72bdcdb43b10;16870276ca053d4c343a;MV-200183;Dormant;178;3;2025-04-12;Sneakers upcyclées;57;F;Lille;Oui
+308b80dbc3532989df68;7ace19ad0b28ffdb40d8;MV-200184;New;59;1;2025-06-08;Accessoires;41;F;Nantes;Non
+0286d8c35e3d3648c691;2eb312714666c0ceb893;MV-200185;Dormant;166;2;2025-06-22;Accessoires;59;H;Grenoble;Non
+895952e9fe042642c9e1;4341b399afe6ac28d4f9;MV-200186;Active;452;5;2025-11-17;Outerwear;57;H;Grenoble;Oui
+7e25685bd7e23218d58a;8838703db212fe9adf53;MV-200187;Active;640;2;2025-03-17;Lingerie bio;55;F;Rennes;Oui
+2f1cdc9078bf3522c049;6b477dd6a5552c65a91f;MV-200188;Active;384;3;2025-08-07;Outerwear;46;H;Lille;Oui
+b671148e649f170d020d;ca583f50a520d2b7a8ac;MV-200189;VIP;1432;11;2026-03-27;Sneakers upcyclées;58;F;Strasbourg;Oui
+ecaa552a4e72d1d08d7a;fba0430440d84941ab8c;MV-200190;VIP;1799;14;2025-04-02;Denim éco;25;H;Bordeaux;Oui
+430128cd5491a29bc257;8d63e66b41d6a5b4bbe3;MV-200191;Dormant;118;1;2026-03-14;Denim éco;47;H;Saint-Denis;Oui
+210f20fce6903618c840;06683b94f84c5efaa4ce;MV-200192;Active;580;5;2025-10-07;Sneakers upcyclées;51;F;Grenoble;Oui
+d8627d8870bdc65fe320;faeb9b7ab87052131567;MV-200193;Active;374;5;2025-02-24;Denim éco;31;H;Saint-Denis;Non
+9345f5c4d7c164591ea3;04077d047d8c1c92b1eb;MV-200194;Dormant;109;2;2025-11-06;Outerwear;18;H;Lille;Oui
+9232e77afd740471cd54;6acbedacca7d654e8d5f;MV-200195;Active;615;3;2025-05-26;Lingerie bio;42;H;Nantes;Non
+ba083427eb4f05dd6ca2;e9d62144edb6a402c88b;MV-200196;New;150;1;2025-11-13;Kids;29;H;Montpellier;Non
+86b825b0fd4056ec9e58;aaad51c32d24d8b0a5ff;MV-200197;New;129;1;2025-02-14;Kids;45;F;Strasbourg;Oui
+e7cef748623f16c92a17;78d68158cd0c975968a6;MV-200198;VIP;2089;14;2025-02-18;Kids;34;F;Nice;Oui
+d1040cd013fc96cf2aab;7fe835f429997ca7c5fd;MV-200199;Active;650;3;2025-06-24;Kids;49;H;Lyon;Oui
+a5f155d4d67c417ea84d;3f317b91b938b7d6ec7d;MV-200200;New;94;1;2025-06-15;Outerwear;39;H;Bordeaux;Oui
+424277365b123dc7b364;b3ae1bb46eee282ffa66;MV-200201;VIP;2315;18;2025-06-10;Sneakers upcyclées;54;F;Lille;Oui
+abc974ddf685c4d5849f;f63a689432c55cb4044e;MV-200202;Dormant;112;1;2025-08-22;Denim éco;59;H;Nice;Non
+19643d1d9f433255b917;33fd594147e1d742d8f2;MV-200203;Dormant;130;3;2026-01-22;Denim éco;39;H;Rennes;Non
+b1ae65af6c77f5aa194a;193bc0b60e18aed6038d;MV-200204;Active;622;5;2025-12-15;Kids;43;F;Bordeaux;Oui
+9d2057eebb5fd875c30a;73206a1b1b4016860283;MV-200205;Dormant;87;2;2025-10-20;Kids;54;F;Montpellier;Oui
+f42d5c309444d12f9b73;0f5c9ab9b585257808b5;MV-200206;Active;396;2;2025-03-27;Outerwear;50;H;Lyon;Oui
+6de1697692ada03bca4f;c1bb7c92dda13d9cd643;MV-200207;Dormant;199;2;2025-05-08;Denim éco;41;F;Montpellier;Oui
+00b1a4f127d3c58c354e;bfb4f863094edad300ba;MV-200208;Active;627;7;2025-06-16;Lingerie bio;48;F;Bordeaux;Oui
+196d664d5dffefa48a8b;bb435f74dc30ddd7cf55;MV-200209;New;68;1;2025-02-19;Lingerie bio;58;F;Boulogne;Oui
+63e4093c8d22c871105a;a40ef0f86b0c78cf3806;MV-200210;Dormant;131;3;2025-04-26;Lingerie bio;51;F;Rennes;Oui
+35a7cb5de5007fafb6a7;c98a7df34b0da57bbe22;MV-200211;Active;373;8;2025-03-30;Sneakers upcyclées;24;F;Rennes;Oui
+dabfe7a8e7b441858f1a;14c760a7a1648ce34c1e;MV-200212;Active;553;8;2026-03-10;Sneakers upcyclées;28;F;Montpellier;Oui
+7e3571cdbf132136b959;931fbd424588d151c589;MV-200213;Dormant;187;2;2026-01-29;Outerwear;49;H;Nantes;Oui
+61e9311910667496eb7d;59c364ad6aa98719b64f;MV-200214;Active;221;4;2025-11-26;Lingerie bio;61;H;Paris;Oui
+0bcc3d11ada47d8e2b56;cbcd98f6dfa60b2f41e2;MV-200215;Active;288;5;2025-03-31;Kids;29;F;Marseille;Oui
+3d2ef6018cd584024103;c52029db8b3b1e67de3d;MV-200216;Active;609;6;2026-03-27;Denim éco;18;F;Paris;Oui
+1ae120300b5cc1873fff;ddcf5b069c3a27e9aeb6;MV-200217;Active;351;8;2026-02-13;Accessoires;43;H;Versailles;Non
+952a48c3cdf80037c040;aebe0610ed5daa15eacb;MV-200218;Dormant;186;3;2025-05-19;Denim éco;36;F;Nantes;Oui
+e607bec1745a41194e55;24da7f46915e48ece996;MV-200219;Active;611;5;2025-06-10;Outerwear;35;F;Montpellier;Oui
+f9a89b0b31dea28e0370;5a42e11bae3ff450240f;MV-200220;Dormant;74;1;2025-03-01;Lingerie bio;53;H;Grenoble;Oui
+c7ee4504fc7fe029d2b4;9d8024f43fb6c6dd3db1;MV-200221;Dormant;191;3;2025-08-13;Denim éco;30;H;Paris;Oui
+0a5df75e8a3db1720050;ed706cecde7fad3c2e12;MV-200222;Dormant;151;3;2026-01-04;Denim éco;58;F;Paris;Oui
+0c2383ee78b1673a48a1;50ebe0aad9b7f55b4736;MV-200223;New;159;1;2025-11-11;Kids;29;F;Nice;Oui
+ef6e83d221f5a2da80ac;ff751f52054c81f16bd4;MV-200224;Dormant;144;2;2025-05-18;Sneakers upcyclées;51;F;Nantes;Oui
+90fd8e4e9690269a977d;535f733bb65dfc448860;MV-200225;Active;382;5;2026-01-20;Kids;53;F;Nantes;Oui
+1ebf2f30a2ad26b26578;55fa157a6a0cfb4c76eb;MV-200226;Dormant;168;2;2025-08-13;Accessoires;72;F;Nice;Oui
+3a86e39be4e641d7f6fc;aed417e81a68d3c6f1d2;MV-200227;New;115;1;2025-03-03;Outerwear;25;H;Marseille;Non
+6913cff9ce44fbae8e48;90fd7ccf8f6fcf11031b;MV-200228;Active;209;4;2025-03-14;Sneakers upcyclées;58;H;Nantes;Non
+da05c257a5d61ab2318c;c9e26bbcc5ab3404667a;MV-200229;Active;493;8;2025-03-09;Kids;37;F;Versailles;Oui
+a275f0a418df9b8c05da;6eb340d663fbc6f8bc55;MV-200230;Active;443;5;2025-05-02;Kids;42;F;Marseille;Oui
+95532d4803e4c1a8e4c0;e78b7a72062f465693a9;MV-200231;Active;542;2;2025-07-26;Sneakers upcyclées;44;H;Versailles;Non
+dac9d77a01043bfb73fe;633400bede1595d3bbe2;MV-200232;New;83;1;2025-12-20;Lingerie bio;41;F;Marseille;Non
+dacc03a27475bbe071cb;a2c6dbe800c2be887f1a;MV-200233;Active;361;3;2025-02-27;Lingerie bio;54;F;Versailles;Non
+b2d13e4d909dca98b2df;2a82362005979b35c1d2;MV-200234;Dormant;85;1;2025-10-08;Lingerie bio;26;F;Versailles;Oui
+d88ba75d55ff6c709612;8389e7954d3451ab8299;MV-200235;Dormant;53;3;2025-06-24;Lingerie bio;63;H;Grenoble;Oui
+358e3aa3095447a48900;874f25829dffaacda2f8;MV-200236;New;32;1;2025-11-13;Kids;36;H;Toulouse;Oui
+0d336eec0c3421c0166c;ebef694a717a81fa7d1e;MV-200237;Dormant;176;2;2025-09-23;Kids;45;H;Nantes;Oui
+17ae8ccbdd11c58ba65b;f5d781d979dd413c111c;MV-200238;Dormant;158;3;2025-08-16;Kids;22;F;Lyon;Oui
+d4ae698f460d95719d41;dff273deab19c3f72e13;MV-200239;Dormant;69;1;2025-08-26;Kids;32;F;Nice;Oui
+1cdf8521bdb376346afa;2311c656042e71bcd9f3;MV-200240;Active;362;2;2025-03-22;Outerwear;53;F;Saint-Denis;Oui
+e03140479d5ab122ecf8;c0c2ec850763ab5bb987;MV-200241;Dormant;198;1;2025-08-19;Kids;41;F;Bordeaux;Oui
+e3afc61151574dd1131e;a6c276f8bc7d0e6ea0e4;MV-200242;Dormant;194;1;2025-07-05;Sneakers upcyclées;66;H;Strasbourg;Oui
+15634e07e65d91b6f58c;221c67dab12582ac9db1;MV-200243;Active;289;6;2025-12-06;Outerwear;18;H;Nice;Non
+e31e71a12604458cfe6d;2029fd4339d3b56be7f7;MV-200244;Dormant;95;1;2026-02-16;Lingerie bio;49;F;Grenoble;Oui
+5279fcd15ad11c2ce066;d32f53ee31bb371cac71;MV-200245;Dormant;147;3;2025-02-14;Kids;32;H;Lille;Oui
+7679e523ed9d28e15b18;77b6a324accb7be1d7f8;MV-200246;Active;403;5;2025-05-07;Outerwear;72;F;Montpellier;Oui
+6f177f9ba77dfa89f5c7;b1d00d73c0254cb23a5c;MV-200247;Active;421;5;2025-06-12;Lingerie bio;41;H;Nice;Oui
+9083e632f9989b0476e2;4abff0d0cada05748252;MV-200248;Active;225;4;2025-07-02;Outerwear;25;F;Lille;Oui
+46ea134dd4a83c5009c0;dc9d29f764ab1cf1ae88;MV-200249;Active;360;4;2025-11-26;Accessoires;18;H;Boulogne;Oui
+ce88547d1c09bd151c6e;2927dee85e0794b025d9;MV-200250;Active;489;3;2025-05-28;Accessoires;44;H;Bordeaux;Oui
+bcb762eb37d4af99c778;e386412d56afe484706f;MV-200251;Dormant;132;1;2025-02-24;Outerwear;53;H;Montpellier;Oui
+7244cf3e5c121fe61f41;e2a8131a3c6d9066906a;MV-200252;Active;207;7;2026-03-21;Lingerie bio;38;H;Montpellier;Oui
+11fb1413d4139d58ef0b;57973abd0d6ea2f5dfd7;MV-200253;Active;560;3;2025-03-18;Kids;52;H;Nantes;Non
+3449e6a6b4b031a8a891;ec173bdd847ebfcdac49;MV-200254;Active;284;6;2025-08-10;Outerwear;67;F;Bordeaux;Oui
+d0e19d9b2dd9b396853c;f7d59839870be17269ae;MV-200255;VIP;1096;17;2025-05-25;Outerwear;30;F;Paris;Oui
+264b658c1f81074942f2;685d714c9acd812dc01e;MV-200256;New;83;1;2025-03-13;Outerwear;38;F;Marseille;Oui
+982c825ea050c9636908;7782d335a1a4baa99a4d;MV-200257;Dormant;90;2;2025-07-09;Denim éco;68;H;Lille;Oui
+79b86eaa511cedf3e354;f376da14f946b25a2c3c;MV-200258;Active;582;2;2025-05-27;Sneakers upcyclées;67;H;Toulouse;Non
+b97bcaec7516e0c1a03d;89869ce3ae8c7d86ac65;MV-200259;Dormant;133;2;2026-03-22;Lingerie bio;42;H;Bordeaux;Oui
+dc1091ef8df1390b9e77;db21252a70ad507e135f;MV-200260;Active;607;7;2025-07-20;Accessoires;45;F;Versailles;Oui
+f25176e27afa44ffe557;9ace14f2f8d2cb0e4c9d;MV-200261;Dormant;123;2;2025-07-16;Outerwear;47;H;Nice;Oui
+09062e1d565cf95aae2f;04d7f18616c96549b8df;MV-200262;New;143;1;2025-06-25;Outerwear;32;F;Versailles;Oui
+ab995e20963941604736;fc1a9214212b74c6804d;MV-200263;Dormant;100;1;2025-11-09;Accessoires;43;H;Toulouse;Oui
+564b0cf0e13a0d47473a;7e885d9bbad2ff817825;MV-200264;Dormant;168;1;2025-09-08;Lingerie bio;63;F;Marseille;Oui
+e47fedbd5296543cf5fc;9ea7563ec87dd3a69321;MV-200265;New;101;1;2025-09-09;Sneakers upcyclées;49;F;Versailles;Oui
+18d6670fca5cf4b80885;5060da8b969c08b79e07;MV-200266;Active;450;8;2025-12-29;Kids;61;F;Lyon;Oui
+b0adcd00f760abdf7db9;8f00d5eff9fea893205c;MV-200267;VIP;1381;25;2026-03-27;Sneakers upcyclées;27;F;Strasbourg;Non
+fe46119eb7c7c9ce3fdb;ed831c226da9568ce19d;MV-200268;Active;375;3;2025-10-27;Outerwear;27;H;Nice;Oui
+0f3b4612969c3912bdee;63dd1f772aafd4e6d6cd;MV-200269;Active;556;5;2025-04-27;Lingerie bio;34;H;Grenoble;Oui
+1ecd33a91a32680c50de;2b15986e41cd6eb8f25d;MV-200270;Dormant;100;2;2025-04-06;Kids;58;F;Lille;Oui
+e1a3a737b0d7051829e1;7e5fd1bf57d38cd7110b;MV-200271;New;41;1;2026-03-08;Accessoires;51;F;Versailles;Oui
+24f78603f8cb2f837345;4bbd13d152c3ae3adad8;MV-200272;Active;247;2;2025-03-29;Lingerie bio;37;H;Grenoble;Oui
+ea0352351e1666b886b6;90018ec3ca125060f293;MV-200273;Active;572;3;2025-06-02;Denim éco;21;F;Lille;Oui
+a5135ec119a147703870;2a7761db246f9a243170;MV-200274;New;105;1;2025-02-07;Denim éco;71;F;Lille;Non
+1a1d66db225662458375;cb615fa30a5a764186d5;MV-200275;Dormant;63;2;2025-05-22;Kids;27;F;Nice;Oui
+d6f34e413a0d7912f1e8;e2fc064ae5921c431e85;MV-200276;Active;352;8;2025-04-20;Outerwear;46;F;Saint-Denis;Oui
+c87b44712aa8013c2491;f1e8c7d793763e37143c;MV-200277;Active;587;2;2025-07-25;Sneakers upcyclées;63;F;Paris;Oui
+154bfbe081b9130413cc;e1b204b3e7e9a5df7abd;MV-200278;Active;542;6;2026-03-21;Denim éco;64;H;Rennes;Oui
+3f12529653b572dba1f9;5c5ad16a83c4bc0cb3e4;MV-200279;Dormant;75;2;2025-03-04;Lingerie bio;22;F;Toulouse;Non
+584010283b0637137477;d2258804cb4521d365de;MV-200280;VIP;1443;10;2025-07-28;Sneakers upcyclées;43;H;Saint-Denis;Oui
+88d3ef151190e486c99f;5b80784a7364034a7084;MV-200281;Active;546;5;2025-06-26;Denim éco;38;H;Paris;Oui
+baf9d1a6c242af5e3492;ce2ac89fffe34f9b2308;MV-200282;New;63;1;2025-03-25;Accessoires;26;H;Paris;Non
+7cd6ab3c96d45bd60373;1780c6a221f165de1715;MV-200283;Active;399;2;2025-04-19;Accessoires;30;H;Lyon;Oui
+1d88410c7ac250a17d06;2b46a5f9c0497ab0ca5f;MV-200284;Dormant;60;3;2025-04-22;Kids;63;F;Grenoble;Oui
+ce4eea46c2af5bf0f46a;04f0b5d8c4a94dcf3524;MV-200285;Active;494;4;2025-12-19;Accessoires;59;F;Paris;Non
+c354e05e9ab1f80ece25;9fa436eaee475aa22610;MV-200286;Dormant;74;1;2025-08-22;Sneakers upcyclées;31;H;Versailles;Oui
+29b446a332051aaf5ace;c94c78a588331bc17d57;MV-200287;Active;464;7;2026-03-19;Accessoires;23;F;Boulogne;Oui
+bc40b91c420dd7f1f34e;6e9b732fab0c2ad6df36;MV-200288;New;37;1;2025-10-04;Denim éco;62;F;Marseille;Non
+8dde6d06841848498464;e8aa9b68a0f156971381;MV-200289;Dormant;71;3;2025-02-20;Denim éco;58;H;Bordeaux;Oui
+6db55327cd3cc0ffc9f9;4a7dcb16b2c9b098da21;MV-200290;Dormant;50;2;2025-04-09;Denim éco;59;H;Nice;Oui
+43e047b9729642caac80;334fc8651ded5d5716cf;MV-200291;Dormant;148;2;2025-11-15;Denim éco;32;H;Bordeaux;Oui
+8d59f91ae552e86b249a;87895153c6a6f48841e6;MV-200292;Dormant;168;2;2025-08-30;Sneakers upcyclées;24;F;Saint-Denis;Oui
+0096dbb77d720be8b5c6;50c4a93b473741f2f516;MV-200293;Active;292;5;2025-06-10;Lingerie bio;37;F;Montpellier;Oui
+dd503d900d64808ea7f8;5f1cf7f9a410cd1ce80d;MV-200294;Active;253;5;2025-11-01;Outerwear;32;H;Nice;Non
+f62a8ebee9ea166ae755;8d0aef4178bb2635466f;MV-200295;Active;525;6;2025-08-09;Accessoires;56;F;Nantes;Oui
+ece327c66e11f71a58d2;c31f5f05397c6992ea00;MV-200296;Active;380;2;2026-01-17;Sneakers upcyclées;27;H;Strasbourg;Oui
+682b69e1f06f230c5a7d;8afd0b110cfef9f85474;MV-200297;Active;343;3;2026-01-20;Outerwear;53;F;Versailles;Non
+234a1a8717378217e687;66872b0dbc5523126d36;MV-200298;Active;378;4;2025-08-19;Accessoires;68;F;Paris;Oui
+ac68312d4382640b7df1;ebb6743e8575b25e6c1b;MV-200299;Dormant;180;2;2025-07-25;Sneakers upcyclées;19;F;Montpellier;Oui
+f6858dfd250850d0b000;80900e9fc92e15bbe059;MV-200300;Dormant;115;2;2026-01-08;Lingerie bio;25;F;Lyon;Oui
+675cf3e55a4dda59ee0e;c23bb2925d458ee8642b;MV-200301;Dormant;77;2;2025-12-28;Kids;42;F;Toulouse;Oui
+fe9fb7b3c00d50f8601b;623e3ecef3ef8a72c40d;MV-200302;VIP;1967;10;2025-05-26;Denim éco;50;F;Nantes;Oui
+81ea4a098560ca896fa1;82c568a766a22b6299f8;MV-200303;Dormant;78;1;2025-05-13;Denim éco;64;H;Lille;Oui
+d6dda4e3a965614f3c53;3bcc6f26d353c28d9544;MV-200304;Active;370;4;2025-10-12;Lingerie bio;44;H;Nice;Oui
+246523bc41f2af352c04;4c5077b190b7b1ac4cac;MV-200305;Active;544;6;2025-05-24;Sneakers upcyclées;33;F;Lyon;Non
+3c12fceac8eecb65e0a0;2b2edbaaacbe4708f478;MV-200306;Active;585;8;2025-11-06;Outerwear;59;F;Saint-Denis;Oui
+e7fe7029f9eef42b598a;48ffd8fd54375e3da3cb;MV-200307;Active;528;3;2025-05-31;Sneakers upcyclées;43;H;Versailles;Oui
+486b6a18aac0adf01520;6fb92df09928f5e9f536;MV-200308;Active;398;5;2025-12-03;Accessoires;29;F;Lyon;Non
+d29a0f4d1594aba16979;42d06134efc11a23aed6;MV-200309;New;57;1;2025-04-29;Accessoires;34;F;Paris;Oui
+fdd1b464e8d51d37d9cf;d34f3ae9c38456cc30e4;MV-200310;New;148;1;2025-07-07;Kids;46;F;Versailles;Oui
+288d71daca0e53490f9a;46d6329b7b8449a5fe31;MV-200311;Dormant;128;3;2025-08-28;Accessoires;74;F;Toulouse;Oui
+80a2cdafe5a3f5459dc7;bcea3aaf31763f08e399;MV-200312;Dormant;200;1;2025-10-19;Lingerie bio;32;F;Bordeaux;Oui
+e875b58a271673ce4a03;cdd71f8a203a5ef5b7fe;MV-200313;Active;214;2;2025-06-19;Sneakers upcyclées;49;H;Paris;Oui
+9eaef264c8f84f9e3547;9421ce8f01f79f7ebc10;MV-200314;Active;275;5;2026-01-07;Outerwear;58;H;Paris;Oui
+f7b69a5a439d61197023;76f7dfe44d92af567961;MV-200315;New;62;1;2025-06-26;Kids;61;F;Strasbourg;Oui
+17632a0aa515eea6c1ae;67c5b5fae06c2e71e004;MV-200316;Dormant;73;1;2025-05-13;Kids;21;H;Rennes;Non
+fd413fd724cabbaef473;3d8147733c20d91be141;MV-200317;Active;464;5;2026-02-05;Denim éco;33;F;Lille;Oui
+2b94873d8c687cbec0cf;981cbaee83986b5d2bf8;MV-200318;VIP;1505;15;2025-02-18;Denim éco;37;H;Bordeaux;Oui
+3989b734c53c990decac;052a9f96ae4d7abdbe47;MV-200319;Active;326;4;2025-05-31;Kids;39;F;Versailles;Oui
+9842f6c9f128f869650d;7b7e1c0f5d1b4f87165f;MV-200320;Active;289;7;2026-02-08;Lingerie bio;28;F;Versailles;Oui
+d22eb7bff98000a801d9;f107a129d305484aa5b3;MV-200321;Active;582;8;2026-01-04;Outerwear;46;F;Nice;Oui
+8f220a606e01d01de8ce;b559e88d182b3ee03b51;MV-200322;VIP;993;17;2025-12-04;Outerwear;42;F;Bordeaux;Oui
+e54c9a909751fc0f15f6;3c02c3a711fe7bdd45d4;MV-200323;Dormant;181;3;2025-05-13;Denim éco;26;H;Lyon;Non
+1593a5d110eb89ec8c2c;119f5cf8b613a5e17c0a;MV-200324;Active;207;5;2025-09-23;Sneakers upcyclées;64;F;Nice;Oui
+a1cd7f057d5ccb5de410;d6cf6b3eedfdeb8bbd37;MV-200325;Active;443;3;2025-11-02;Denim éco;31;F;Nice;Oui
+30aeffa567ec1ec4219a;5283fa990e5800c4d0ab;MV-200326;Active;344;5;2025-08-17;Kids;22;F;Paris;Oui
+8ce7912d0b35e5a5a376;06d46b3aa2dc5c37de8d;MV-200327;Active;291;7;2025-10-22;Sneakers upcyclées;39;F;Rennes;Oui
+83d85e8bcf28cdf85a14;a5d0c6e62638aa86d453;MV-200328;VIP;1724;8;2025-09-05;Outerwear;73;F;Paris;Non
+86ab1c655db205e0d797;8a3fc835b897a6e8ff1b;MV-200329;Active;616;3;2025-12-27;Accessoires;42;H;Versailles;Non
+ad23a2be60adc09dc723;b5cd499282e53e395e63;MV-200330;Active;392;8;2025-07-26;Lingerie bio;39;F;Strasbourg;Oui
+68be6664570adeec9902;7a67f164c575da08a06c;MV-200331;Dormant;92;2;2026-03-24;Kids;37;H;Boulogne;Oui
+5a21b296b5dd49d0efaa;26b65c8b5f82fda571b1;MV-200332;Dormant;49;2;2025-09-05;Accessoires;33;F;Montpellier;Oui
+6ca3216491ed4c096f78;b2f47cf3cc07715f1e67;MV-200333;Active;283;8;2025-12-14;Sneakers upcyclées;41;H;Lille;Oui
+3e3a8744a97a0c0887d2;e41533ca0a6c08ef5c8c;MV-200334;New;109;1;2025-02-14;Sneakers upcyclées;63;F;Nantes;Oui
+a060e951aa3e014a250c;09620a2b81a6be0e0511;MV-200335;VIP;1696;10;2025-06-17;Denim éco;18;H;Montpellier;Oui
+f527902f6bc6746d1a91;b234147a1b407c8af29e;MV-200336;Dormant;136;3;2025-05-13;Outerwear;25;F;Strasbourg;Oui
+9c09651794f720765d24;e958dda393985ad48a7a;MV-200337;Dormant;181;1;2025-06-09;Accessoires;75;H;Boulogne;Oui
+cb9dc1fb4782b5d71242;74d6dec12bdb3ee38f5e;MV-200338;Dormant;93;3;2025-12-20;Outerwear;45;F;Boulogne;Oui
+30fc427caad6d66e6ecf;a9616f652c03767f119e;MV-200339;Active;446;4;2025-07-23;Outerwear;46;H;Lille;Oui
+a660342e0acbe7e3cbf0;e8372f9d2beed65b2c48;MV-200340;Dormant;164;3;2025-05-29;Denim éco;37;F;Lyon;Non
+105228508e402b01778f;7f72a88e3fe983abe29e;MV-200341;Dormant;150;3;2026-01-22;Denim éco;38;H;Toulouse;Oui
+625de18ee53d7c26b6df;e4940f950f6dfaeda1b3;MV-200342;Active;238;2;2026-03-13;Accessoires;38;H;Lyon;Oui
+7602a0cf298e7c59451f;91fe3e85e6d7ba7a0f15;MV-200343;Active;337;4;2025-03-11;Accessoires;67;H;Toulouse;Oui
+6f8dced122f50b0d0bd3;d2fe7242e3275a0b3398;MV-200344;VIP;2098;24;2026-03-28;Outerwear;46;H;Saint-Denis;Oui
+765bac7d07db91102176;4bfc375e3c07abd9996d;MV-200345;New;34;1;2025-10-21;Lingerie bio;43;F;Saint-Denis;Oui
+2c6673e825a30dc081b5;013e93871d24af819fe5;MV-200346;New;127;1;2025-08-05;Lingerie bio;26;F;Montpellier;Non
+b506a55f39a8ea20091f;a1141b11f4bac94eebf3;MV-200347;Dormant;51;2;2025-03-05;Sneakers upcyclées;44;F;Toulouse;Oui
+e0be3247d00cab2ae044;f3af4117fa199bd3b59a;MV-200348;Active;440;4;2026-01-07;Outerwear;71;F;Boulogne;Oui
+cf1527486696325e7dc1;f43bb7abdad2cc2c059e;MV-200349;Dormant;132;2;2025-05-17;Outerwear;53;H;Toulouse;Oui
+e58b4d68b3f1f4c83109;4cdb609047beca3ee817;MV-200350;Active;337;3;2025-08-03;Lingerie bio;48;H;Montpellier;Oui
+3fcb6413ab6c9a5f14bc;aa650476e14c1bcf718e;MV-200351;New;138;1;2025-07-12;Kids;45;F;Lille;Oui
+2a2b631d2c51134b8065;2d3a098e9d733e517bb2;MV-200352;Dormant;56;3;2025-03-07;Outerwear;46;H;Strasbourg;Oui
+49d9a4b24c9921a12fa2;c6f0e8c28677d4d1b66f;MV-200353;Active;425;8;2025-12-11;Sneakers upcyclées;56;F;Grenoble;Oui
+cd5c9d70e3641d442436;3a21ac09112afab17a70;MV-200354;Active;375;7;2025-07-22;Sneakers upcyclées;36;F;Nantes;Oui
+a6744621332784aa99c8;ba572eed005827f30886;MV-200355;Dormant;125;3;2025-04-28;Sneakers upcyclées;48;H;Grenoble;Oui
+35cb5dd750ec12ecd6b9;3c804346dd891c7b1757;MV-200356;Dormant;60;2;2025-09-29;Sneakers upcyclées;39;F;Saint-Denis;Non
+273fccdf4294d2a75ebe;84bda8666467eed78966;MV-200357;Dormant;73;2;2026-03-17;Outerwear;22;H;Versailles;Oui
+e677ef61eb2ae7d599a8;b5634d4f7d1f6a107629;MV-200358;Dormant;109;3;2025-10-19;Sneakers upcyclées;60;H;Boulogne;Oui
+08cc130bb84759b67580;5e290c2a41ee04b686a0;MV-200359;VIP;1803;9;2025-06-19;Accessoires;39;F;Saint-Denis;Oui
+9b5ce91f879d8f5c5df9;bf07efdb868f72fc2087;MV-200360;Active;281;3;2025-09-04;Accessoires;50;F;Nice;Oui
+dcb999d73a84e2af7f58;6748de6e6432b5b26c14;MV-200361;Active;335;8;2025-04-07;Outerwear;63;H;Boulogne;Oui
+d9d34bf0678f754c4517;d6989159eb16ccbd5d72;MV-200362;Active;224;3;2025-03-25;Kids;44;F;Boulogne;Oui
+deb8f04bdb7203681fff;25f966526b9e118d4af5;MV-200363;VIP;1111;15;2025-09-26;Outerwear;41;F;Strasbourg;Oui
+d97122c1bfc349b1089f;4b35140493e5026ba83a;MV-200364;Active;636;4;2025-08-02;Outerwear;66;F;Bordeaux;Non
+240471a46ca2c7ee0967;a9f64e5eb681edac0fad;MV-200365;Dormant;74;1;2025-12-19;Sneakers upcyclées;59;F;Saint-Denis;Oui
+9029a1cffaec46ebd729;ff52d7407a71cb70d04a;MV-200366;Dormant;187;1;2025-02-04;Denim éco;29;H;Saint-Denis;Oui
+31ce5fa5098a308dd943;0538e780e4309bbcb258;MV-200367;Active;427;2;2025-04-14;Sneakers upcyclées;62;H;Saint-Denis;Non
+e11d82a4ee3c65707f83;a21b190fad05b93ca224;MV-200368;Active;423;3;2025-12-16;Outerwear;25;F;Strasbourg;Oui
+fb3edaf7eda5149dda9f;1059a37d90cd8cc19d90;MV-200369;Active;408;6;2025-04-02;Sneakers upcyclées;21;F;Rennes;Oui
+72f0f0a12d40ef30e1fd;b65baaf100df4a76dc50;MV-200370;Dormant;86;3;2026-03-13;Outerwear;23;F;Marseille;Non
+6d46a888c16e4a583ae7;aa873a707bc4152afe14;MV-200371;Active;567;7;2025-07-26;Lingerie bio;32;F;Lyon;Oui
+4e18691f021729e025f1;4e31674146edcabf1af2;MV-200372;Active;384;3;2025-06-11;Outerwear;21;H;Lyon;Oui
+8215e12860dff6ef8209;c178ba988cec8350d348;MV-200373;Dormant;116;2;2025-04-05;Outerwear;38;H;Grenoble;Non
+8d91cb11d5720a2095b2;e823e357f95821abae35;MV-200374;Active;649;8;2025-07-22;Kids;63;F;Nice;Oui
+452264ef29b407dd461c;4b75c0bc863fa22e3b9e;MV-200375;Active;366;2;2025-02-03;Denim éco;64;H;Nantes;Non
+bb03f689a83050b98b76;2f9e4d372645fe81d754;MV-200376;Dormant;117;1;2025-07-01;Denim éco;27;F;Grenoble;Oui
+94fd85260004af79e8fe;be0bf16a217acad7b35c;MV-200377;Dormant;94;3;2025-10-12;Denim éco;37;H;Montpellier;Non
+a7a6f6818a2be7de219b;e8f24290ff1251c06e96;MV-200378;New;77;1;2025-07-09;Outerwear;48;H;Paris;Oui
+c98c057d4001045dd919;036daad00ec54e0b14a8;MV-200379;Dormant;139;2;2025-11-24;Kids;45;H;Grenoble;Oui
+280796cc024ce24f9fef;eac5060e9d04b31321bc;MV-200380;Dormant;108;3;2025-11-13;Kids;40;H;Boulogne;Oui
+590fe255f58028b02de9;cb252581053f3991710c;MV-200381;Active;290;5;2025-12-24;Sneakers upcyclées;53;F;Montpellier;Oui
+9ad66fc5436a6ac486bf;da0b8c699cf92d5aabac;MV-200382;Dormant;148;1;2026-01-25;Kids;43;H;Grenoble;Oui
+bb8d203351568529ed35;e85bfef1b1e698cb6564;MV-200383;Active;517;2;2025-09-15;Lingerie bio;45;F;Toulouse;Non
+f922d796c641b5e7b155;27928822786dc87e8db1;MV-200384;Active;360;6;2025-11-24;Accessoires;18;F;Paris;Oui
+35d073248bb4aab82a68;8272e109d1f57c7cd53e;MV-200385;Active;591;2;2025-12-13;Lingerie bio;66;H;Boulogne;Non
+b3ae97f471a2df70a040;cd07d6ec117cb52b7b30;MV-200386;Dormant;63;1;2026-03-27;Denim éco;25;H;Paris;Oui
+ef55120fd1ef4f33ca6e;f1ef10ecb5b006cebaf5;MV-200387;Dormant;138;3;2025-02-09;Denim éco;41;H;Boulogne;Oui
+037b7a05557e44eedb5e;f2ad9fb99f50234f267e;MV-200388;VIP;1386;17;2025-10-28;Lingerie bio;39;H;Strasbourg;Non
+e6ca0e503cd61374dde3;73a13291db10897077f2;MV-200389;Active;487;7;2025-06-02;Sneakers upcyclées;69;H;Versailles;Non
+5f5c489e45cc14ba17cf;fbee13a34dbfd1719861;MV-200390;Active;347;6;2025-09-19;Outerwear;47;F;Saint-Denis;Oui
+00d96885af4f6d902b32;a7b545be639784a14bc9;MV-200391;Dormant;75;2;2025-11-09;Denim éco;71;H;Saint-Denis;Oui
+867822f2b50d0d009aa2;d3187e74f72785805b79;MV-200392;Active;366;7;2025-02-26;Denim éco;22;F;Strasbourg;Oui
+0a536da26a59dcc76c77;27536453c058910775b7;MV-200393;Active;304;8;2025-06-08;Sneakers upcyclées;32;F;Nantes;Oui
+b649d8082e1f78eea8cc;72e87dfa38faa07b91b5;MV-200394;Active;525;6;2025-04-01;Sneakers upcyclées;25;H;Versailles;Oui
+3fd2b70d7336662131c7;0146483cfeec1aee9b25;MV-200395;Active;612;7;2025-07-11;Sneakers upcyclées;26;H;Nice;Oui
+dbbf2161b33b92cac86e;bf3186a9c8ec10fb1df6;MV-200396;Active;649;6;2025-08-14;Sneakers upcyclées;30;F;Boulogne;Oui
+c9bae89606c7f27c146b;7c57f9a0d6c9e2bf7cf6;MV-200397;Dormant;125;3;2025-07-11;Lingerie bio;25;H;Lyon;Oui
+d7057e25b7f25196d70d;54df3de7dad6e6f64852;MV-200398;Active;333;4;2025-05-12;Accessoires;64;H;Rennes;Non
+7130c84dfda535d8d1fd;205ba2d6a808913575a2;MV-200399;Active;240;8;2025-07-09;Kids;64;F;Rennes;Oui
+2035af3b13c163306a3f;7a48bd259a3319cd407c;MV-200400;Dormant;160;2;2026-03-21;Sneakers upcyclées;45;H;Rennes;Non
+0275bb510c2283f5673b;f6e4063f9686642dff75;MV-200401;Dormant;119;1;2025-08-05;Outerwear;61;H;Boulogne;Oui
+d78cc0950907f03b3c53;dc917d5e1582b137fa2a;MV-200402;Active;354;4;2026-01-28;Lingerie bio;42;F;Marseille;Oui
+36f1737c50c8069f3b2b;77f65dbdbaaca0c809be;MV-200403;VIP;1245;8;2025-08-13;Denim éco;64;H;Bordeaux;Oui
+3ae4f7ac47fd3252409a;fe383daa8a708739a10b;MV-200404;New;153;1;2025-09-07;Sneakers upcyclées;34;F;Lille;Oui
+de4d86793a41c3771953;1626ada9af10b6298b6b;MV-200405;New;100;1;2026-02-05;Sneakers upcyclées;53;F;Rennes;Non
+374b65acf189b47a00b6;731f8d81ca353d269d24;MV-200406;Active;584;8;2025-09-28;Outerwear;48;F;Nice;Oui
+9e1ca5804c44b63bd5d5;f1b94f78a63f34c27380;MV-200407;New;82;1;2025-09-20;Outerwear;29;H;Versailles;Oui
+ec8d274f50276e8ebdd3;4c7531d26db45d8f3882;MV-200408;Dormant;41;3;2025-02-11;Outerwear;34;H;Grenoble;Oui
+38c31fe8f6ca8e988be3;a3de7861925ae54f095c;MV-200409;VIP;1311;18;2025-09-21;Accessoires;51;F;Boulogne;Oui
+9c43841a42f388e97793;9ecd5b72d5471cf19687;MV-200410;Active;547;5;2025-06-04;Outerwear;28;H;Toulouse;Non
+16415bce5517487bcf97;97227a281cccf056fcc2;MV-200411;Dormant;102;3;2025-04-21;Accessoires;60;F;Montpellier;Non
+cc1e7d12e95d0de3ad8e;b09d529f54dd878dd8f6;MV-200412;New;36;1;2026-02-12;Lingerie bio;25;H;Paris;Oui
+6d289dff2160be927ed7;d89b7e9219bf35fc2ffe;MV-200413;Active;610;4;2026-03-07;Denim éco;49;F;Marseille;Oui
+c6b95c69eeaa0f035a0b;60f674319e0c2f4cb600;MV-200414;Active;555;5;2025-06-10;Denim éco;71;H;Nantes;Oui
+870b00bd7e86d751d6f3;8e7eedf1ebb243b8f9c2;MV-200415;VIP;2270;10;2025-07-07;Accessoires;39;H;Marseille;Oui
+4c30b9522f51256d89aa;95b2e83b55a166c3ade1;MV-200416;Active;446;5;2025-02-27;Kids;72;F;Rennes;Non
+086362380879d7c19328;de4f77a5913d145310f2;MV-200417;New;89;1;2025-10-27;Lingerie bio;39;F;Strasbourg;Oui
+6f9f7191ad7aef290bf6;89d9960628db67302bee;MV-200418;Active;426;4;2025-03-22;Denim éco;48;F;Saint-Denis;Oui
+7af6da7d95d20b2ae25d;ecb42c414a0922910d89;MV-200419;Dormant;82;1;2025-05-27;Outerwear;41;F;Saint-Denis;Oui
+2da1c416924420c31757;9f78e984fed7a6437790;MV-200420;Dormant;180;3;2025-08-14;Accessoires;41;H;Saint-Denis;Oui
+3f647a74d6fb8ac55ab2;df174176abed004080b0;MV-200421;Active;519;8;2025-11-18;Accessoires;53;F;Nantes;Oui
+75c83afbc77c5cf61c92;d7e70c4281706a3b5114;MV-200422;Active;349;3;2025-10-21;Sneakers upcyclées;37;F;Montpellier;Oui
+bbbca3976e1ce8a76631;9ddaccae1b104a17ec0e;MV-200423;Active;585;4;2025-06-18;Outerwear;25;H;Nice;Oui
+00a1c9e7b5cb40feaa6f;6c2a97e9627a92a2f245;MV-200424;Dormant;71;3;2026-01-17;Kids;30;F;Nice;Oui
+408c29fdd3c76d9d8a1f;241c7d1fe1e90b2ec91b;MV-200425;New;155;1;2026-01-18;Lingerie bio;24;F;Marseille;Oui
+338a06f4b842b373b681;3be827c1453294c18907;MV-200426;Dormant;139;2;2025-12-15;Kids;43;H;Strasbourg;Non
+35e0ea1dc70500c236ef;016df8995bf95f456c29;MV-200427;Dormant;168;2;2026-03-03;Sneakers upcyclées;63;F;Boulogne;Oui
+3ea69144b1b7f617b1a1;53b0234c63e2aa50d59f;MV-200428;Dormant;155;2;2025-04-30;Accessoires;52;F;Saint-Denis;Oui
+23ca0c5e2a873a9dfcf3;eaaef8b5b1d4644e4b66;MV-200429;Dormant;130;3;2026-02-23;Kids;19;F;Saint-Denis;Oui
+af9e39f40c6c5a192ca0;46e3114c65da5799dc08;MV-200430;Active;310;3;2025-12-10;Denim éco;42;H;Nantes;Oui
+bfef396cdee362127932;f0c6bada5fd7c2aaa6ea;MV-200431;Active;361;2;2025-02-13;Sneakers upcyclées;42;F;Bordeaux;Oui
+97225269166302bca49f;e59a366f2fa076129601;MV-200432;New;94;1;2025-08-08;Lingerie bio;35;F;Grenoble;Oui
+995edc333bbddf448a28;cd1ae6623aeb25f56cc2;MV-200433;Active;474;8;2025-04-20;Outerwear;34;H;Montpellier;Oui
+698d7e92b52b928305ed;0cd4e863140ec3f1c16e;MV-200434;Active;342;7;2026-03-04;Lingerie bio;71;F;Strasbourg;Non
+3f2e54369f1bc284f5bd;c0a6ae4df91d67c6b9a9;MV-200435;Dormant;168;2;2025-08-25;Kids;37;F;Nantes;Oui
+4e1107fcb91b9d8c013b;a1526db9df87b921cfa7;MV-200436;Dormant;93;1;2025-06-22;Kids;39;F;Lyon;Oui
+60ecb0ec32540de0b299;10d0de6aa162667c599a;MV-200437;Dormant;165;3;2026-03-10;Denim éco;34;F;Lille;Oui
+2022d98e93d4ffa43ce7;7117528a9d0ae74fad7c;MV-200438;Active;578;4;2025-09-25;Outerwear;22;H;Nice;Oui
+1c52a396e8c2cb642e81;5357ac3e44815556d360;MV-200439;Active;497;3;2026-01-31;Accessoires;42;F;Versailles;Non
+88e674542c6d8691f2e2;07f3d7069e8e29997b24;MV-200440;VIP;912;19;2025-03-20;Denim éco;28;F;Boulogne;Oui
+20d524aa7ad0b4900468;af4b946359959de4ea3d;MV-200441;VIP;1213;22;2025-09-05;Lingerie bio;34;F;Strasbourg;Non
+dac13fb4872bee737b94;5c8569acb9c21b5583f8;MV-200442;Active;302;6;2025-11-04;Outerwear;43;F;Toulouse;Oui
+cc3157b7a22426ee0211;2b2f1f086f5ee0797221;MV-200443;Dormant;148;1;2025-10-01;Lingerie bio;27;F;Nantes;Oui
+952c569c061a8eb356e6;5d77d34a488c2632473e;MV-200444;New;35;1;2025-08-27;Sneakers upcyclées;71;H;Versailles;Oui
+3e5fcab7f58deee43aff;5e05cdff4a71843c6ba8;MV-200445;Active;251;7;2025-09-03;Lingerie bio;35;H;Montpellier;Oui
+9e88bb21ca84c14928e4;1758baa9c24dba816327;MV-200446;Active;183;5;2025-06-21;Denim éco;26;F;Rennes;Oui
+a6d2b01d21d53344d80e;df19f88e3d6916d04b62;MV-200447;New;53;1;2025-09-14;Lingerie bio;38;F;Rennes;Oui
+fe1696d88e9e09af05c1;ff2574387733267f7643;MV-200448;Dormant;98;3;2026-03-21;Sneakers upcyclées;50;F;Montpellier;Oui
+af2d3d15c685165dbbc7;ce825bb67b4a59482c57;MV-200449;Dormant;147;3;2025-07-30;Sneakers upcyclées;19;H;Saint-Denis;Oui
+0ed830b57c1914ffd760;7f9b0a94c056e7d6761c;MV-200450;New;38;1;2026-01-13;Sneakers upcyclées;50;F;Bordeaux;Oui
+5e543b9b7a0370bf3441;9aca3ca5f67240fbfa60;MV-200451;Dormant;124;1;2025-06-09;Sneakers upcyclées;43;F;Paris;Oui
+d70d0c4a767fb8bd5e1a;770f078d694bc0f1fe56;MV-200452;Dormant;118;1;2026-03-13;Accessoires;43;F;Versailles;Oui
+c6ff545183c04f9d107c;3d77b550f52d6a07a26d;MV-200453;Active;550;2;2025-08-28;Outerwear;45;F;Toulouse;Oui
+1da8962be0f6e3956444;0656a2f232227a12f2e1;MV-200454;Active;279;4;2026-03-28;Outerwear;30;F;Nice;Oui
+2cc669bfad368fc91502;1813e892ba23bb152214;MV-200455;Active;409;2;2026-02-08;Sneakers upcyclées;66;F;Versailles;Oui
+aed87c8ab97a60e511a1;b8c57c847ea1f00efd44;MV-200456;Active;354;8;2025-06-20;Kids;71;H;Boulogne;Oui
+85a46e53660a64b10bb6;f6b3a08c42db63a8f1b8;MV-200457;Dormant;178;2;2025-09-16;Accessoires;58;F;Strasbourg;Oui
+e91fa5fa9325252e1fe4;56c56721ff56c58132f3;MV-200458;VIP;2137;15;2025-04-11;Denim éco;26;H;Versailles;Non
+e5523abb6b0b47f0c5c1;686afcd10704f2277c7d;MV-200459;Dormant;190;1;2025-02-26;Kids;57;H;Nantes;Oui
+df33e340951b49a33a8b;f6ead5e87177bf0b967d;MV-200460;Active;635;6;2025-05-04;Kids;19;F;Rennes;Oui
+6a2d0ccc44fc658d5ed0;78d89abb7f255e434bd2;MV-200461;Dormant;129;2;2025-09-29;Accessoires;27;F;Saint-Denis;Oui
+1bdadb887a0bb437fd71;cfb6e8c0b3865f2492e7;MV-200462;Dormant;167;1;2025-09-22;Denim éco;51;F;Paris;Oui
+4f202678624c1feb523d;c846dd23d12cbf224671;MV-200463;New;76;1;2025-08-11;Lingerie bio;39;H;Lyon;Non
+c1d849465150dab3b098;5e2eac0db2e1dcb27004;MV-200464;Dormant;56;1;2025-06-15;Kids;37;H;Nantes;Oui
+1f5bed5dad6939f5322f;eaeb01d16c414d99c0eb;MV-200465;New;47;1;2025-06-01;Denim éco;35;F;Bordeaux;Oui
+249f1542c5b27a71d835;8420de2714add04a587b;MV-200466;VIP;1302;24;2025-04-22;Kids;35;H;Marseille;Oui
+02bc976e57f16b1d4604;7ebb9799378435938e5d;MV-200467;Dormant;165;3;2025-02-21;Accessoires;42;F;Paris;Oui
+0f54b62c44c752e6becc;038d68e135532b8cda6d;MV-200468;Dormant;65;3;2025-06-14;Kids;28;H;Lille;Oui
+fa02c4ac59218fd4f8a0;b0ce2917c1075d981b0d;MV-200469;Active;194;6;2025-12-16;Outerwear;54;F;Montpellier;Oui
+f7d66be1ca35f8a194cc;cc627ab169231a831b68;MV-200470;Dormant;82;2;2026-03-11;Outerwear;37;H;Lille;Oui
+de31e028cdfa1fdd470c;3943798159d790c13b3b;MV-200471;New;102;1;2025-03-20;Denim éco;35;F;Strasbourg;Oui
+c0c1ae41298372c782c3;ef53685005aec00ce172;MV-200472;Active;562;4;2025-05-06;Denim éco;49;H;Rennes;Oui
+6cec67157a1a786ef475;214ffe2c7ebbaef8f4d7;MV-200473;Dormant;167;2;2025-07-12;Accessoires;34;H;Rennes;Oui
+21e82d81146be50192a2;53d1fed1a28ffb95a945;MV-200474;New;108;1;2025-12-09;Accessoires;30;H;Strasbourg;Oui
+d6c3bd314713a7f243ac;427e76335e3f6b4848cc;MV-200475;Active;270;6;2025-02-27;Denim éco;44;F;Paris;Oui
+7350859a4b5a8018d697;49f1159e9beeeb05eb17;MV-200476;New;61;1;2026-01-12;Denim éco;22;F;Nantes;Oui
+e8e90e0702828e1c44f8;2a10e8f92d804f38369e;MV-200477;New;124;1;2025-11-27;Denim éco;61;H;Montpellier;Oui
+dcfbeb36f7d574d854b8;0509042bd09a16dc1ffd;MV-200478;Dormant;50;3;2025-05-05;Kids;71;H;Nantes;Oui
+d90f98d453f0af1c0106;90b661872cf34573ad16;MV-200479;Active;300;2;2025-12-28;Accessoires;47;F;Nantes;Oui
+65461230adbab64cf294;45ac49bcd452f0b0d522;MV-200480;Dormant;162;1;2026-01-25;Outerwear;28;F;Lyon;Oui
+8b03f912c7530df31584;732ab47d6ec006a9d1b1;MV-200481;Dormant;134;1;2025-08-10;Lingerie bio;64;H;Toulouse;Oui
+2bedfd80b3d00b74232e;af2680f91b140311eb9e;MV-200482;Active;415;8;2025-10-09;Accessoires;54;F;Boulogne;Oui
+531534ce6a128375139a;ecc0f71a802b4e2c60a2;MV-200483;Dormant;54;2;2025-10-14;Accessoires;32;H;Rennes;Oui
+4419819aa9f2b21991c9;1e600327e9b777d885cc;MV-200484;Active;648;3;2025-12-11;Lingerie bio;49;F;Bordeaux;Oui
+2b2106cd72ee738ee31b;38bd989990d261a479c8;MV-200485;Dormant;124;1;2025-09-30;Denim éco;52;H;Paris;Oui
+4bead431b77931156cf9;da2045f043406150a932;MV-200486;Dormant;191;1;2025-08-11;Accessoires;44;H;Montpellier;Oui
+ae80b3af7b1b34d007e8;82db0df303ac8c7a698a;MV-200487;Active;388;8;2025-02-18;Accessoires;43;F;Rennes;Oui
+0abfe8d9bd96616e9e5f;2ed69cb74f0b9b7c983a;MV-200488;VIP;2072;16;2025-02-26;Denim éco;49;H;Boulogne;Oui
+65c0d0150cd2384ae7b0;32f7197cfa7a7fdc08f5;MV-200489;VIP;1514;14;2025-11-16;Accessoires;28;H;Nice;Oui
+a68b5c090a5799829cc0;c3f82058cd2756b61036;MV-200490;New;48;1;2025-07-14;Kids;37;F;Strasbourg;Oui
+0bf0c0c9593faaab35f1;1e9f965773c29adcbb7a;MV-200491;New;124;1;2025-08-12;Accessoires;58;F;Lille;Non
+67212de82fae7a4a1620;63554de49c987eff65ef;MV-200492;VIP;1082;22;2025-12-23;Denim éco;74;F;Bordeaux;Oui
+9b2d4949d27a4cd44689;48a1b93d2c422a9baec8;MV-200493;New;128;1;2025-12-24;Outerwear;20;H;Bordeaux;Non
+dbb61129818ad42d276a;b7096f5db25611e48fcf;MV-200494;VIP;1264;20;2025-03-31;Kids;42;H;Bordeaux;Oui
+f4f88f1920a162df91b0;ef86677a7fca0a3089d7;MV-200495;Dormant;41;3;2026-02-15;Sneakers upcyclées;30;F;Versailles;Oui
+0b352be38c46d4406cf8;f917ea222522e25eb4cb;MV-200496;Active;650;7;2025-11-17;Denim éco;53;H;Rennes;Oui
+ff1490b0a53b378ff882;d7a7b3235bb8b3e4d746;MV-200497;Dormant;174;2;2026-03-03;Lingerie bio;41;F;Rennes;Oui
+f94a8aff0ab3013b39c6;91e12c26777e40943e70;MV-200498;VIP;2195;13;2026-03-29;Kids;41;F;Boulogne;Oui
+d9f52d35c77089e58c8b;4a3f82ab3789be56955d;MV-200499;Active;376;4;2025-05-23;Denim éco;36;F;Lille;Oui
+38054c5ab4ce3fce334d;c98f555d56fdc016b965;MV-200500;New;79;1;2025-12-08;Sneakers upcyclées;55;F;Montpellier;Oui
+9814635eb5d1f11deb3e;2ab68463f60fb63bc361;MV-200501;VIP;1960;21;2025-10-12;Accessoires;39;F;Boulogne;Oui
+691586946467af7e0ad6;d597e7df91839d2e1662;MV-200502;Dormant;135;2;2025-06-22;Lingerie bio;36;F;Marseille;Oui
+0a353845c6f2f17d8993;35097f15c056982d6e7d;MV-200503;Active;267;7;2025-05-04;Lingerie bio;45;H;Montpellier;Oui
+f58415d5115089888a69;012b4d22f7e2a8c42a91;MV-200504;New;104;1;2026-02-01;Lingerie bio;22;F;Bordeaux;Oui
+08f0d0c3f976d09d418e;33807fdb449445be41c8;MV-200505;New;78;1;2025-06-05;Outerwear;41;H;Lyon;Oui
+808f7b99086c5eed0d1c;754c4421c66724937db1;MV-200506;VIP;1147;17;2026-02-02;Denim éco;43;F;Rennes;Oui
+5154c94b3bfd2de95e0b;001685ab40c98bae8e5d;MV-200507;Dormant;118;2;2025-05-17;Outerwear;69;F;Strasbourg;Oui
+78871a91fb757a64ddfd;4e98668fd0b2cbfbb573;MV-200508;Active;533;3;2025-08-04;Outerwear;28;H;Marseille;Oui
+800cea5799f819e34279;4b2cc75b7a6241c86c4a;MV-200509;Dormant;146;1;2025-11-10;Lingerie bio;20;F;Grenoble;Oui
+9161e7e2b60df73445a6;267f89aaf5773a116da7;MV-200510;Dormant;64;1;2025-12-22;Lingerie bio;41;H;Paris;Oui
+58f215318a8672ae61d3;e615a332503e731847b3;MV-200511;Active;572;4;2025-11-01;Denim éco;21;H;Marseille;Oui
+edd9fc1124c013e41204;dc339b8299d9d8f8098e;MV-200512;Active;628;8;2025-12-30;Kids;54;H;Nantes;Oui
+fa831ba46076b5a101bb;3265bf8d472706b9f208;MV-200513;Dormant;120;1;2025-03-07;Accessoires;71;F;Boulogne;Oui
+1540dacce75e61767516;09189de3396c3a9ced68;MV-200514;Dormant;138;3;2025-10-21;Lingerie bio;41;H;Versailles;Oui
+1dd120d8157dc76476c9;0a286171b18a95ff9eb5;MV-200515;Dormant;191;2;2025-05-06;Outerwear;36;H;Grenoble;Oui
+acee6797d9c8b3174d18;925fb21856a3af9d9eac;MV-200516;New;154;1;2026-01-20;Sneakers upcyclées;31;H;Lyon;Oui
+3503a635421b5df36000;5a084a621d7c058118d9;MV-200517;Active;206;8;2025-12-08;Denim éco;50;F;Grenoble;Oui
+f4c76a5cbeb19a7fcb7d;c6a06d6d1b0734a63baf;MV-200518;Dormant;166;1;2025-11-04;Sneakers upcyclées;43;F;Versailles;Oui
+3c18a857b6f9b4958f11;c8935dc121d3565c3499;MV-200519;Active;633;6;2025-03-13;Lingerie bio;55;H;Versailles;Oui
+a50733035181e9eeb5ad;d72f6b0ef2f7abb804bc;MV-200520;Active;565;6;2025-04-05;Denim éco;43;H;Marseille;Oui
+4179be4589322123e394;b8b2f164e8b7e64fe41a;MV-200521;Active;475;8;2025-05-02;Accessoires;61;H;Toulouse;Oui
+69542dc3c15334a47b9d;c146e6c0aad4fff2ad21;MV-200522;Dormant;50;2;2025-12-27;Kids;29;F;Montpellier;Oui
+098093b610bda778e557;335a1ca7ed47d5c8ab33;MV-200523;Dormant;188;2;2026-02-21;Kids;40;F;Saint-Denis;Oui
+87d4792df623c58379cb;8d2145823c9059c5e015;MV-200524;Active;513;7;2025-11-22;Sneakers upcyclées;35;H;Bordeaux;Oui
+d085fcf78e6e55fa4727;ff95c80a1948846c47c9;MV-200525;Active;181;6;2025-09-19;Accessoires;35;H;Paris;Oui
+29c1154ae018824cb0f6;f3a1ce85499de66b69be;MV-200526;Dormant;142;3;2025-02-22;Outerwear;40;F;Lille;Oui
+9652f8adff39553c8457;2715e6fe96562b3753b7;MV-200527;Active;301;2;2025-02-07;Sneakers upcyclées;42;F;Lille;Oui
+5af7f0ffe903384c771d;d3afdeebcd4c08c71c07;MV-200528;Dormant;83;1;2025-09-21;Lingerie bio;53;H;Nice;Oui
+90b712ec9e52fa77e0dd;5f3270aa7b39f6615f5b;MV-200529;Dormant;123;2;2025-10-01;Lingerie bio;46;H;Bordeaux;Oui
+ce0170d4a68996001853;b3892ab0a215313bcd8c;MV-200530;Active;649;4;2025-05-28;Denim éco;29;F;Nantes;Oui
+aa6d14c30b9c32996bf2;7fedc0d926d15929fc8a;MV-200531;New;121;1;2025-03-19;Kids;47;F;Nice;Oui
+88d386634f4448174a36;4bd373143b866a5c20ad;MV-200532;VIP;1386;12;2025-11-28;Outerwear;70;F;Bordeaux;Non
+1a165a99a277c5a28213;5df1a6ecad5920acedbf;MV-200533;Dormant;50;3;2025-04-16;Denim éco;40;H;Marseille;Oui
+71bbfdfb1cec8465bdc0;4b4f0c6ab883299796c7;MV-200534;Active;634;7;2025-09-30;Kids;41;H;Saint-Denis;Oui
+c29430f2410678506723;2d3660676c912a16712c;MV-200535;Dormant;70;2;2026-01-06;Lingerie bio;49;F;Rennes;Oui
+b127ac6408643da91a94;be583dda7a0b61728ecd;MV-200536;Active;216;3;2025-05-23;Denim éco;43;F;Saint-Denis;Non
+f175a407d8d4f8fed008;f6f6983a634678ae1253;MV-200537;Dormant;53;3;2025-03-20;Sneakers upcyclées;28;H;Versailles;Oui
+f8cc785399ee9b8ea668;68cf4b3ffae993700508;MV-200538;VIP;1381;8;2025-07-12;Outerwear;53;H;Versailles;Oui
+4bec053d3a0edd643877;7d08ddf7334473a89cd2;MV-200539;New;41;1;2026-01-22;Denim éco;37;F;Lyon;Oui
+687f7d4e77c45f10717a;52e5b51123250c9ecd53;MV-200540;VIP;1078;21;2025-07-07;Kids;36;F;Bordeaux;Oui
+3d6129295b0e657a2c60;7824b8a9f935b42546d9;MV-200541;Dormant;89;3;2025-03-06;Accessoires;20;F;Lyon;Oui
+e6f85f10466e474da167;dc511962861850a17dc0;MV-200542;New;35;1;2025-11-06;Sneakers upcyclées;27;H;Toulouse;Oui
+54cfa89e2b7d3dc25d64;e9cb453a8a73e668453d;MV-200543;Active;246;8;2025-08-31;Denim éco;49;H;Lille;Oui
+a4eeb3469df18b5cd73c;72b7b6f98416cc5fbe52;MV-200544;Active;186;4;2025-12-17;Sneakers upcyclées;33;H;Lyon;Non
+1d7fa0ff668538b33cf7;9d732ffcc7deae9608d6;MV-200545;Active;248;7;2025-03-05;Accessoires;69;F;Marseille;Non
+3915b2dbc24466f486d2;b867fa3c3fbae32ed7c4;MV-200546;Active;417;7;2025-07-22;Accessoires;60;F;Nantes;Non
+8dc57e20c635148b423c;2cddda819814087b8f19;MV-200547;Dormant;167;2;2025-07-21;Sneakers upcyclées;21;F;Nantes;Non
+77400a65bcbf27b55175;aa9cf32d172982e2f443;MV-200548;Active;417;2;2025-02-18;Accessoires;38;H;Toulouse;Oui
+d5d26d682583fa7185a5;aaf3e6c1c585f39cb3a8;MV-200549;Active;589;3;2025-11-07;Sneakers upcyclées;18;F;Strasbourg;Oui
+619ee79a226f309bd1d2;4e5f9382e26794182434;MV-200550;Dormant;168;3;2025-07-11;Outerwear;58;H;Versailles;Non
+e2578ca8179644f02e5e;2f392c3e7197a849ac83;MV-200551;Active;455;8;2025-07-17;Kids;63;H;Nice;Oui
+1fd9d9788e1497c84d16;4f08834bc260f0005d0c;MV-200552;Active;587;6;2025-07-24;Accessoires;44;F;Versailles;Oui
+848afab73e82d934cbcf;5f116a7276e1bdfb733e;MV-200553;Dormant;123;2;2025-04-25;Sneakers upcyclées;38;F;Nantes;Non
+707f3990d25fa126b51a;539da3f2b1b7b5733a95;MV-200554;Dormant;86;1;2026-02-16;Outerwear;39;H;Montpellier;Oui
+9925769ee7c746dd8ad9;e9305a8594a95d3f28be;MV-200555;Active;638;7;2026-01-17;Sneakers upcyclées;53;F;Paris;Oui
+7853f1b509b5a24ec80f;33dd963da95204f2cf8d;MV-200556;Dormant;54;2;2025-09-27;Lingerie bio;27;F;Montpellier;Oui
+67166672de2ec77f3e58;092087b939255609e37b;MV-200557;Active;410;8;2025-08-08;Accessoires;53;F;Rennes;Non
+3bee90031a8b0dfb5d11;3d90571e326f8822e42c;MV-200558;Dormant;74;1;2025-03-04;Outerwear;61;F;Boulogne;Oui
+a6d34e141bf463fb85ed;f04e6296482fcb3de113;MV-200559;Dormant;45;1;2025-07-19;Sneakers upcyclées;75;F;Versailles;Oui
+cd6d2ccf1239d0a6958a;851e3958a71d543347b0;MV-200560;Dormant;165;2;2025-11-06;Accessoires;48;F;Lyon;Oui
+a4e975698a0e2934fff1;1087ba187380bb7e3db4;MV-200561;Active;394;8;2026-01-12;Sneakers upcyclées;64;H;Nantes;Non
+a71e75cca54f83eb1530;3f720ab8a07045db8b12;MV-200562;New;136;1;2025-08-01;Denim éco;23;H;Lyon;Oui
+c1eea35b46b1294f14ff;0865c0b14f5d019f94c5;MV-200563;Active;298;7;2025-10-13;Kids;40;H;Rennes;Oui
+02ccbf8874fd81db9dbb;b47295ba3804bbbac45e;MV-200564;Dormant;102;2;2025-10-23;Accessoires;37;F;Saint-Denis;Oui
+ac3c6d43958703a399de;cdc4e25f71c43c553d13;MV-200565;Dormant;105;1;2025-03-08;Accessoires;28;H;Toulouse;Non
+18d16b760f0d63dae629;beb01ded7f9fa4a12684;MV-200566;Dormant;192;2;2025-05-31;Accessoires;52;F;Nice;Oui
+035c82a17b49ee641dc9;60be52cf6c11f122d924;MV-200567;Active;617;2;2026-02-04;Accessoires;36;H;Boulogne;Oui
+8bdf99383bbeb1825b60;6c78a3ff797cb5adf620;MV-200568;New;51;1;2025-02-06;Sneakers upcyclées;36;H;Bordeaux;Oui
+12817ca0399ef34cb299;d9cf53a282b267df69c1;MV-200569;Dormant;134;1;2025-02-04;Sneakers upcyclées;53;F;Rennes;Oui
+f18fe0bde14129e6e9d3;8ea3d2fb01e7432dae70;MV-200570;Dormant;79;1;2025-09-15;Kids;43;H;Versailles;Oui
+707604182ef211cc585a;fbb8eb4a479b00f0b8ab;MV-200571;Active;226;4;2026-01-25;Kids;32;H;Lyon;Oui
+cd2e855552b1257f8bf2;ed22faf5cf021f3090aa;MV-200572;Dormant;75;1;2025-09-16;Kids;45;H;Paris;Oui
+621da5abc7243f1c7ff3;10a2bf5b13b2225e52cf;MV-200573;Dormant;48;2;2026-01-23;Sneakers upcyclées;41;H;Marseille;Oui
+c578ca059fbfe3357116;dc8f774a488733370c6a;MV-200574;New;123;1;2025-02-05;Lingerie bio;27;H;Toulouse;Oui
+0594a78a88e617f73fa8;87368e96eea37d19d6af;MV-200575;Active;606;4;2025-04-13;Lingerie bio;32;F;Lille;Oui
+e76328f93f17db5b60ff;f96d802cf2bf23f6891a;MV-200576;Dormant;124;1;2025-12-12;Outerwear;35;H;Rennes;Oui
+2511794ee05515bc8a9e;4dd58464d7a6d3c438d4;MV-200577;Dormant;55;1;2025-11-11;Lingerie bio;28;H;Saint-Denis;Oui
+ad36de64b047f37f1c50;31330f5a0f7a3ff39971;MV-200578;Active;483;7;2025-07-11;Kids;29;F;Paris;Oui
+7f2e19b8316d6cbc6b20;2f34f657147394744a62;MV-200579;Dormant;47;1;2026-03-15;Outerwear;39;H;Boulogne;Oui
+eedacbd3c7a9e7b9fd00;c21a711cae5c5a99ee0e;MV-200580;Dormant;155;2;2025-09-26;Lingerie bio;62;H;Bordeaux;Oui
+f59f8a8edb9e4b026ef6;bb5d8865884d1955557e;MV-200581;Dormant;163;2;2025-11-03;Sneakers upcyclées;49;F;Versailles;Oui
+08e5c75ed8546162f1c9;29b7af22e7bdef8f0f6e;MV-200582;Active;398;5;2026-03-05;Accessoires;55;H;Nantes;Non
+524364992a9d3eb2cc19;8d0616b92d320bc485e8;MV-200583;New;141;1;2026-01-24;Lingerie bio;74;F;Grenoble;Oui
+87976212787ce4c585b3;2cd0db7d4a837f925cca;MV-200584;Dormant;114;1;2026-03-19;Denim éco;22;F;Nice;Non
+9576317ef2d05e1c8160;6ff096e5d71b921736ad;MV-200585;Active;260;6;2025-02-08;Denim éco;35;F;Lille;Oui
+13ce3eeac84bf73bd4e9;718a8e0319c8a684f606;MV-200586;Active;606;5;2026-01-16;Outerwear;28;F;Saint-Denis;Oui
+b2f007e63fc01d341da2;9453c16f3e88f5f41147;MV-200587;Active;364;7;2025-10-29;Denim éco;39;H;Toulouse;Oui
+44a172ae900c86eabda2;518769b7890b959f21c9;MV-200588;Active;602;6;2025-11-23;Sneakers upcyclées;26;F;Montpellier;Non
+ae10901d0ad39bd73caa;5b0cc7307fe7f53fb97c;MV-200589;Active;363;6;2025-08-23;Accessoires;28;F;Lyon;Oui
+25d2d2720b491cb7274a;3af9a4ca955176d0a045;MV-200590;Active;489;2;2025-08-08;Outerwear;33;F;Grenoble;Oui
+ae688d26b0925200a1e1;2b5de99b9e712e709c9a;MV-200591;Dormant;113;1;2025-08-17;Lingerie bio;67;H;Grenoble;Non
+70cd5228981a5facd08c;bd9f119737b187449a9d;MV-200592;New;71;1;2025-12-10;Lingerie bio;34;F;Nice;Oui
+7821c757fb5cfbccf562;d877b7a9ed32d75688e6;MV-200593;Active;650;2;2025-03-02;Kids;62;F;Montpellier;Non
+9c1585860688c371b00b;5ec9dcf211f322395875;MV-200594;Active;230;6;2025-06-20;Denim éco;46;F;Nantes;Non
+32b27e013d967de46c8f;6e3bec066bb785dbcb90;MV-200595;Active;542;7;2026-03-10;Sneakers upcyclées;43;H;Rennes;Oui
+77716da153f12edabd9f;c8bad292b75c9e06b9f0;MV-200596;Active;547;5;2025-02-23;Sneakers upcyclées;30;H;Boulogne;Oui
+cfaff512ee687a4f4943;d98ef4818aee132f58d1;MV-200597;Dormant;107;3;2025-03-09;Lingerie bio;45;H;Toulouse;Oui
+56cdc14c2608d2d5b186;8bde01eca06c8c76f2c5;MV-200598;Dormant;147;1;2026-02-17;Denim éco;39;F;Saint-Denis;Oui
+fdb5704948f4442af207;5c7f9a89d51981efc27e;MV-200599;VIP;1803;16;2025-11-18;Outerwear;57;F;Toulouse;Non
+712986ff556180859f7c;b8dae8a19bef0a0963e8;MV-200600;Dormant;127;2;2025-07-18;Lingerie bio;18;F;Lyon;Oui
+6d1093117e5733fcea74;595505da59504a5c9648;MV-200601;VIP;1271;22;2026-02-24;Kids;31;H;Strasbourg;Oui
+d927b25b66109ee82929;745086055b0eec572a25;MV-200602;New;83;1;2025-11-30;Denim éco;25;F;Rennes;Non
+0fe7f395161100e74f06;352bb6644e791099939b;MV-200603;Dormant;110;1;2025-03-15;Lingerie bio;44;F;Bordeaux;Oui
+a80316d7ebb3df19a0d6;d147eaaba5db7c55a0b3;MV-200604;Active;490;2;2025-08-31;Denim éco;59;F;Strasbourg;Oui
+8989a07e420d1ecda693;e83bf148a99a5fcfc507;MV-200605;Active;515;8;2026-02-14;Accessoires;25;F;Saint-Denis;Oui
+697c8290825ca2847317;7579b0a9043e8251e48f;MV-200606;Dormant;86;2;2025-05-28;Denim éco;35;F;Montpellier;Oui
+86eb430ec478c16552e5;e14369adcde4314e4e51;MV-200607;Active;595;4;2025-10-01;Accessoires;41;F;Lyon;Oui
+f90806122dd7abe9917e;718c9bc1ab23827d8aa0;MV-200608;Active;599;6;2025-02-16;Denim éco;65;F;Nantes;Oui
+a7c6ff20757d213a777d;0ed8cfa0c6fcaf27fa0c;MV-200609;VIP;1472;24;2026-03-05;Outerwear;43;F;Rennes;Oui
+cacc425406b68dd38723;24ca34e78e4216b453ca;MV-200610;Active;580;4;2025-10-06;Accessoires;29;F;Montpellier;Oui
+5fb659a59c856cc36adc;12862854ed62cfba9365;MV-200611;Dormant;51;1;2025-05-17;Outerwear;51;F;Saint-Denis;Oui
+423891ab0ad1e686db74;109ef4e39f5d09b73be5;MV-200612;Active;245;2;2025-07-16;Denim éco;41;F;Nantes;Oui
+e5e96afe726548a4ca6a;afef3ce969e1fbd795e1;MV-200613;Dormant;97;3;2025-03-03;Kids;58;F;Montpellier;Oui
+391ea5e8b646bcdcefc6;d218210f3239007e0533;MV-200614;Active;429;6;2025-04-24;Accessoires;36;F;Toulouse;Non
+41e50300207828907d6e;1d47f59b87905725e1c0;MV-200615;Active;565;6;2025-11-18;Accessoires;45;H;Paris;Oui
+29a6c4a2e8f9ebeaca02;a8b7cb7d188b8a4d7cf5;MV-200616;Dormant;132;1;2025-08-13;Denim éco;48;H;Bordeaux;Oui
+584a1e99adee8385e7af;85c92e08749d8f63bd94;MV-200617;Dormant;78;3;2025-11-01;Lingerie bio;54;F;Lyon;Oui
+258cfc477893d95c751f;e970339f2cf4de74f879;MV-200618;Active;637;2;2025-08-09;Sneakers upcyclées;19;H;Rennes;Oui
+775c350513cd52e467b1;6df0665258574e5d41e9;MV-200619;New;121;1;2025-04-17;Lingerie bio;74;H;Montpellier;Non
+2ef08f9f08ee4ccdaec8;232fd0b965724fc37fd3;MV-200620;Active;318;7;2025-10-31;Lingerie bio;33;H;Paris;Oui
+351538ce5a39e1ad46c6;e65c7e77bfb5ace67f88;MV-200621;VIP;1942;13;2025-09-09;Accessoires;57;F;Versailles;Oui
+5e97d38585fa3315240e;c61e01668db07275811a;MV-200622;VIP;1351;23;2025-12-13;Sneakers upcyclées;62;H;Lille;Oui
+c0b1b1654ba6154d68ce;16af6cd0c43250ba2607;MV-200623;Active;217;8;2026-03-27;Outerwear;36;F;Paris;Oui
+bec704a99a21e180cc91;3f6237edbbad79c2a899;MV-200624;New;59;1;2025-09-22;Lingerie bio;51;F;Toulouse;Oui
+e59a6a827fedd002b0cd;8ba07777d229c4ead653;MV-200625;Active;183;8;2025-10-10;Lingerie bio;56;F;Boulogne;Oui
+b77d8e2dfd7556aca438;4ab6f86763f438045337;MV-200626;Dormant;47;3;2025-11-12;Outerwear;46;H;Lyon;Oui
+c848044ac8dfc6747a56;c5347cc9d9a2d5633fd5;MV-200627;Active;443;4;2025-03-20;Kids;59;F;Boulogne;Oui
+614a04fb36b6c4946439;52085e9bf0dd50d5e070;MV-200628;New;37;1;2025-03-17;Denim éco;58;F;Rennes;Oui
+912338e17226fd31bad4;b7ab5bf4895ccbd9f6a0;MV-200629;New;91;1;2025-11-23;Sneakers upcyclées;39;F;Saint-Denis;Oui
+9a408e45ef2125c6de1b;9133839011f64e4171de;MV-200630;VIP;2252;25;2025-12-19;Kids;50;F;Nantes;Oui
+24e64d67f3d77aa82088;e5f7b6968652a213e008;MV-200631;Dormant;168;2;2025-08-18;Kids;42;H;Marseille;Oui
+21c0e046da73edb1de22;3b24612a47316e3e00f8;MV-200632;Active;558;5;2025-09-19;Denim éco;34;H;Saint-Denis;Oui
+fe866442fea3011a9e95;367f6c8c1a52b9c7a22b;MV-200633;Active;550;5;2026-02-23;Sneakers upcyclées;74;H;Bordeaux;Non
+aaab7076cd2236a6661b;9402adb0ebaf92db042a;MV-200634;Dormant;194;1;2025-07-16;Kids;46;H;Rennes;Oui
+f0c1b0e15fb02e32fc74;f8c9690b80d8822057c9;MV-200635;Dormant;81;3;2025-12-15;Accessoires;55;H;Grenoble;Non
+06a2404c8a0d24b67312;bbe6d0805baa11e6ee3a;MV-200636;Dormant;120;1;2026-03-22;Kids;49;H;Rennes;Oui
+5ebf52102cf06014e774;ba740e008fd02821093f;MV-200637;Active;441;2;2025-08-27;Kids;18;F;Rennes;Oui
+a95e206053b8ae5e8010;986801de4c889fcdb735;MV-200638;Dormant;137;3;2026-03-26;Accessoires;66;F;Bordeaux;Non
+52734ae668b5bf8bb53f;37cf1c4299f989c12336;MV-200639;Dormant;119;3;2025-08-16;Outerwear;51;F;Montpellier;Oui
+63c9153bbee0fb9a9a7f;9eae171201cfd3c76ab8;MV-200640;Active;598;5;2025-09-13;Denim éco;32;F;Nantes;Oui
+16ac2b8ee5a2e4102629;95b5124ccd1c5020402e;MV-200641;Active;523;4;2025-06-02;Lingerie bio;60;F;Nantes;Oui
+53b9f951786c46a9b284;dbf79e082236ce4f953c;MV-200642;Active;473;6;2025-07-02;Lingerie bio;73;F;Marseille;Oui
+456fccf77d997218d561;3ab1ffb5b6285b6da5f4;MV-200643;Active;252;4;2025-08-21;Denim éco;75;F;Lyon;Oui
+6f59275199a4eeacae02;fcaa048efb3975ede16f;MV-200644;Dormant;177;3;2025-02-21;Outerwear;42;F;Montpellier;Oui
+2363d45845b28ed10e5b;25690da99d436e8c4c17;MV-200645;Active;374;3;2025-10-24;Denim éco;61;F;Nantes;Oui
+3c8d2c0a432846261e75;888fc9d6499788430d45;MV-200646;Dormant;103;1;2025-12-20;Accessoires;46;F;Lyon;Non
+bd896f97fafe8df1acc8;29cf2628dad57a1cbec0;MV-200647;Active;639;4;2026-01-31;Denim éco;21;F;Versailles;Oui
+d31602890fbbab2e2df2;0443d1ab7ff3d328ccda;MV-200648;Active;345;7;2025-10-17;Sneakers upcyclées;27;F;Lille;Oui
+2bd5e4758ca2ca2d8e0f;79936cfc283dc9a72da0;MV-200649;Active;218;4;2025-08-31;Outerwear;31;F;Nice;Oui
+29f16fa39ee48c20972b;a841bdacc763954bb21d;MV-200650;Dormant;155;1;2025-05-01;Kids;20;F;Strasbourg;Oui
+6d2e1371f8fa1783f2f3;5e8cd64dc4eae2ae306a;MV-200651;Active;397;8;2025-11-23;Kids;49;H;Montpellier;Oui
+583bf1ba18b7150771b0;01d91ce4b6741780987a;MV-200652;Active;403;3;2025-08-04;Kids;44;H;Montpellier;Oui
+476c3e4dbc48cdfc3c61;436faa5e6229974ab573;MV-200653;VIP;1151;21;2025-02-26;Outerwear;40;H;Saint-Denis;Non
+30aa5b711410f1ef018b;50fe309469ba3b726a74;MV-200654;Active;395;4;2025-09-09;Outerwear;25;H;Versailles;Oui
+e37bbc0587c23ce64375;c0c9e0b12f36d69d5cc3;MV-200655;Active;428;6;2025-12-22;Accessoires;18;F;Nantes;Non
+bc3db68efa0b8072c88d;4a3fdd06e77a3f2f2250;MV-200656;VIP;908;9;2025-05-23;Sneakers upcyclées;36;H;Versailles;Non
+6d1a75b1aa7158661be0;5e4cdc9353c6dd67cdda;MV-200657;Dormant;42;1;2025-06-26;Lingerie bio;48;F;Montpellier;Oui
+3ef4f0ef5553159fa521;da577fb4ee305a1fab05;MV-200658;New;40;1;2025-05-09;Lingerie bio;33;H;Bordeaux;Non
+5e948310dbd48d228c53;8d1722723536c1ad3fb4;MV-200659;Dormant;146;2;2026-01-11;Outerwear;37;F;Paris;Oui
+d09261709a15f3ec5951;15f178aef7973b00ae78;MV-200660;Dormant;94;1;2026-03-11;Kids;65;H;Strasbourg;Oui
+ed7bc0d286f651f11052;194b7bba2787e47740db;MV-200661;Active;524;2;2025-11-08;Outerwear;23;F;Paris;Oui
+55d8c9346391a4058a43;479422f9b204dc8d5269;MV-200662;New;102;1;2026-02-24;Lingerie bio;56;H;Montpellier;Non
+3285fde76158bd9e9884;69a8b747f3fb95987fd6;MV-200663;Dormant;128;3;2025-07-23;Accessoires;73;F;Bordeaux;Oui
+5e5017095ddad674c4eb;5b5bc69c77e4fa264a96;MV-200664;New;149;1;2026-03-17;Sneakers upcyclées;26;H;Marseille;Non
+a512fe6fcaac3f11773a;4d53a1226f748fd3e2d9;MV-200665;Active;644;7;2025-08-02;Lingerie bio;23;F;Rennes;Oui
+7424e26a2666e0424aef;76bc7803db4538d9793e;MV-200666;Active;303;5;2025-07-29;Sneakers upcyclées;64;F;Montpellier;Oui
+30fd0b89b3b051828855;26ac3f3f855d4038bbef;MV-200667;Active;404;4;2025-09-28;Sneakers upcyclées;61;F;Rennes;Oui
+ebf3d2efcaf02cdf214e;b831bbf2266016b538fe;MV-200668;Active;229;4;2025-09-02;Lingerie bio;51;F;Nantes;Oui
+0358a7f7b6f975fe66e5;d81ea04f1a854805c412;MV-200669;Dormant;72;1;2025-12-28;Denim éco;34;F;Rennes;Oui
+aa80a4253fe837e4099a;790528a1a59297ebc66c;MV-200670;New;86;1;2025-05-08;Outerwear;36;H;Toulouse;Oui
+22a6b6087eff59c5a5fb;4e7be7b0817e7ab2a2d8;MV-200671;Dormant;124;2;2025-12-27;Outerwear;32;H;Boulogne;Oui
+e0fa4b43e03dcdaa18a5;982db90e772e737b6996;MV-200672;Dormant;73;3;2025-12-06;Denim éco;30;F;Rennes;Oui
+24a4f7030303775ee479;3d0f8bec28af4a9bde01;MV-200673;Active;304;4;2025-10-19;Denim éco;24;F;Rennes;Oui
+18df77509290b0fea449;e28d23161954f9012dd1;MV-200674;Active;275;6;2025-04-02;Denim éco;27;F;Nantes;Oui
+4693c5372bcb171b6901;9a0506cec4c653ef00ee;MV-200675;Active;277;4;2025-12-09;Lingerie bio;50;F;Nantes;Non
+914b779945a6c0886dc0;06fbc991002e2f242d3d;MV-200676;Dormant;147;3;2025-11-20;Denim éco;44;H;Marseille;Oui
+c3923e0afc5129f6529a;d9ba11852af50f167572;MV-200677;Active;264;4;2025-03-27;Outerwear;57;H;Strasbourg;Oui
+c8ca15f47374fbf3cc80;65753b6d41c35c72e3e4;MV-200678;Dormant;154;3;2025-04-21;Lingerie bio;41;H;Rennes;Oui
+c9f9ac63d638e25da589;7074f63c1d7e5f918752;MV-200679;Dormant;43;2;2025-06-01;Lingerie bio;69;F;Paris;Oui
+a8c94194e18dd8518972;c9674c7e8c081e71296b;MV-200680;Active;554;4;2025-08-13;Sneakers upcyclées;47;F;Boulogne;Oui
+066d3c419b061f29bd7b;0436731c3befb245ccc4;MV-200681;Active;463;4;2025-04-29;Outerwear;71;F;Paris;Oui
+5d95afaabd7f56b6435c;4fae85c9cd22e22851d3;MV-200682;Active;326;8;2025-05-01;Sneakers upcyclées;38;F;Versailles;Non
+102bfc44725cef0a9e21;3de57d34e66d1df7547e;MV-200683;Dormant;145;2;2025-10-10;Lingerie bio;48;F;Lyon;Oui
+b3654931adde16139f6e;743c4b08686c5b23b3dc;MV-200684;New;123;1;2026-02-02;Kids;71;H;Versailles;Oui
+e7e497c144680a6594b5;814b6b608c8ac0c38ec9;MV-200685;Dormant;188;1;2025-10-13;Kids;28;F;Versailles;Non
+74d0ddaad7c5afae4bce;291b3353fa3a7939f54a;MV-200686;New;144;1;2025-03-14;Outerwear;25;F;Lille;Oui
+eed7be01bb91d61d36e5;7f78e0cfa8236c87d479;MV-200687;Dormant;62;2;2025-06-14;Denim éco;57;H;Marseille;Oui
+53f83285f0ab1b7588ee;329ba29b52dcb1700b8d;MV-200688;Active;649;7;2025-03-26;Lingerie bio;25;F;Toulouse;Oui
+1e280e6409f803adf755;892e7215ea0dce9c957b;MV-200689;Active;215;2;2025-08-22;Accessoires;44;F;Bordeaux;Non
+d706deaab5012f6c5c9d;28e76897976bd0a69230;MV-200690;VIP;1058;25;2025-12-28;Denim éco;59;F;Nice;Oui
+bf3467fdb2b989eeacdd;facd1d7d6b8a34aa656b;MV-200691;Active;567;3;2025-04-20;Kids;52;H;Toulouse;Oui
+ce10afc4c50fc6d6b586;f768a721fc7de4b5f084;MV-200692;Active;521;2;2026-01-20;Outerwear;37;F;Strasbourg;Oui
+cf6f678522d48df925b8;9f5ab993a06b91ae4d08;MV-200693;Dormant;194;3;2025-06-23;Kids;75;F;Rennes;Oui
+5e12f1551d0dd11edfa0;0ac24af09672edb7b1bf;MV-200694;Active;531;3;2026-03-04;Sneakers upcyclées;36;F;Rennes;Oui
+233e3dae3a635c9051a8;247c7192c03bbad3ac36;MV-200695;New;86;1;2025-08-21;Kids;48;H;Boulogne;Oui
+8408d7f8b3e317180878;2b500b4537fcf9c6e00c;MV-200696;Dormant;131;1;2025-07-01;Sneakers upcyclées;52;F;Lille;Oui
+a0d462ffd663c81d1d3e;914adff5390be368e57a;MV-200697;Active;424;3;2025-09-16;Sneakers upcyclées;37;F;Nice;Oui
+d3ee3aadafeb91b00162;9c9ee820b5b22f32a03d;MV-200698;Dormant;117;1;2025-06-26;Kids;42;H;Saint-Denis;Oui
+3cf5dd4e2028d217a0b9;105dcf4ec2f1a8db044b;MV-200699;Active;579;5;2025-05-07;Denim éco;29;F;Bordeaux;Oui
+bd179b5752c769de49bb;bc3a10eceee932c75deb;MV-200700;Active;486;8;2025-06-23;Outerwear;36;H;Paris;Oui
+8560351e60e315e99246;e088be98980cfa42652e;MV-200701;Dormant;173;3;2025-05-18;Sneakers upcyclées;35;H;Marseille;Non
+f117f540aa2ccfd2b649;0ae23b9e520022d57d1e;MV-200702;Dormant;199;3;2026-02-15;Sneakers upcyclées;26;F;Strasbourg;Oui
+33f6967f0d811c091e6b;8f237414bd7e71be19ed;MV-200703;Active;333;7;2025-06-15;Lingerie bio;34;F;Strasbourg;Non
+78db25276bc7002e630c;6715f374ef9f2b42cec2;MV-200704;Dormant;71;2;2025-06-06;Outerwear;69;F;Grenoble;Oui
+a2d7209fcf980f0d0cab;0706aeecb71fb29619f7;MV-200705;Dormant;92;3;2025-07-20;Accessoires;49;F;Nice;Oui
+7a477655edfe3924d092;902fdda5d6c44adeab00;MV-200706;Active;628;5;2025-02-13;Denim éco;19;H;Paris;Oui
+8f4f2f2dc9c881a8763d;96169a09028d9340ff10;MV-200707;Active;183;4;2025-11-26;Lingerie bio;44;H;Nice;Oui
+219117b82e5128749e10;274facad26121316367c;MV-200708;Active;506;6;2025-10-31;Lingerie bio;29;F;Versailles;Oui
+031763390e6523c6e2bf;3a61c7475cd52560d8f9;MV-200709;Active;305;8;2025-07-25;Lingerie bio;30;F;Marseille;Oui
+ee6fe195509122f9cc89;e8855195802dadc508fc;MV-200710;Dormant;156;3;2025-05-08;Kids;70;H;Lille;Oui
+2d8b993ded24c95d5737;3f39bc773d9d90277405;MV-200711;Dormant;188;1;2025-08-04;Lingerie bio;28;H;Nantes;Non
+143705537891153f68de;5cf7e83e42d57fd26028;MV-200712;Dormant;105;2;2025-02-21;Denim éco;32;H;Saint-Denis;Oui
+d759df3d94755f06262f;f5fa32f9371f9bce57c6;MV-200713;VIP;1483;11;2025-08-19;Kids;38;H;Nice;Oui
+a1786ffece2ca580e81c;18ae3b0c3de6ff20d280;MV-200714;Dormant;42;1;2025-07-25;Sneakers upcyclées;33;F;Marseille;Oui
+3b4466e6af9378d27bae;ca778434da01f4f0642d;MV-200715;Dormant;173;3;2025-06-23;Kids;29;F;Boulogne;Oui
+2258d99c8658ee9d3b2c;6112f62029e51648db20;MV-200716;Active;265;2;2025-04-22;Accessoires;72;H;Montpellier;Non
+2518a548a5572a54e315;e13b507d8cfb967b44c9;MV-200717;Active;537;3;2026-01-17;Outerwear;51;F;Montpellier;Oui
+2b08024721716462fc3f;60d8ea7c9e14f6173320;MV-200718;Active;624;2;2026-02-12;Outerwear;27;F;Toulouse;Oui
+3af4628659faf2a5e622;92b59a631de7b7e62bb3;MV-200719;Dormant;95;3;2025-09-13;Denim éco;40;H;Rennes;Oui
+e0df7e836902a20408a1;663c1609fbc4f431ca3a;MV-200720;Dormant;150;3;2025-02-16;Lingerie bio;28;F;Saint-Denis;Non
+5c28af4ab44d6bcf1290;0b7238128a8218fab669;MV-200721;VIP;1555;16;2025-07-13;Outerwear;37;H;Nantes;Oui
+816459b2246583ec5ee2;4eb98465759707173497;MV-200722;Dormant;50;3;2026-02-15;Denim éco;40;F;Rennes;Oui
+36aac0af242076fedd82;a24a55a55853db41f8f9;MV-200723;Dormant;90;1;2025-05-22;Denim éco;42;F;Strasbourg;Oui
+a7e86aa73eb1778bc6ef;49c2ca9fd39eca3c191c;MV-200724;VIP;1560;24;2025-07-02;Accessoires;50;F;Bordeaux;Oui
+29907a06be1feb1ccf36;c4ee2e55c25ae10c6575;MV-200725;New;157;1;2025-07-14;Outerwear;54;H;Bordeaux;Oui
+2c925dae3678f22f1c13;0ab746df05d1a958726c;MV-200726;VIP;2241;20;2025-04-30;Sneakers upcyclées;40;H;Rennes;Non
+a96b5001a7165fc0732b;197fc8bdf6e6ce1fbc95;MV-200727;Active;298;2;2025-03-27;Lingerie bio;34;F;Boulogne;Oui
+dfac5ad8512bc9dfa0b5;65a229e4454126afb55e;MV-200728;Active;406;2;2025-06-22;Accessoires;74;H;Marseille;Non
+98c674c08a7367d36c64;3763c792b65a9805a891;MV-200729;Active;235;4;2026-02-25;Outerwear;53;H;Saint-Denis;Non
+954810a66ca9c4e380d5;8a1efdd4deeee3b1a39d;MV-200730;Dormant;58;1;2025-09-24;Outerwear;50;F;Paris;Oui
+8b4a3baf33af2500e9a2;8d3f621734fd13aae8a1;MV-200731;VIP;1860;10;2025-02-12;Kids;29;H;Lyon;Oui
+39c7d9ad162ba4fe6103;48c0fcbb73df7635474a;MV-200732;Dormant;151;3;2025-06-18;Denim éco;70;F;Nantes;Oui
+cb53c2bab2fae85b9b21;7dbe078db2013e5ab451;MV-200733;New;144;1;2025-03-17;Sneakers upcyclées;40;F;Montpellier;Oui
+b5f349815b9dc1a40674;dda4ee9a1430b0b82801;MV-200734;Active;457;2;2025-06-07;Sneakers upcyclées;29;F;Paris;Oui
+82fcbe0c3c13a9592d77;44b33697fdb99fc29e80;MV-200735;Active;385;6;2025-08-28;Lingerie bio;40;F;Boulogne;Oui
+f6e26039586f5210fea3;f090aaf87fa837f8b97e;MV-200736;Active;229;5;2025-06-12;Sneakers upcyclées;42;F;Marseille;Oui
+8035867f86a297535cb1;0d108fa02799812a0457;MV-200737;New;40;1;2026-01-22;Accessoires;55;H;Boulogne;Oui
+6b21022d3d54851849a7;8b3acd0e4c543af49a0c;MV-200738;Dormant;118;2;2025-07-14;Kids;58;H;Saint-Denis;Oui
+1fd0116db5336371e227;a99c88aa6e6c51d2f87a;MV-200739;New;120;1;2025-05-08;Accessoires;20;F;Nice;Oui
+adc9318ca9118d7b971f;0ef0c1ce2657d5b9b634;MV-200740;Active;364;6;2025-12-30;Lingerie bio;68;H;Rennes;Oui
+dbaec44b963e7f1f0fc2;80fd3a5f18da685ae550;MV-200741;Dormant;200;3;2026-01-05;Lingerie bio;39;H;Grenoble;Oui
+25e3ef8bd47d871136b5;1942112aab83aeac24eb;MV-200742;Active;280;6;2025-03-02;Sneakers upcyclées;43;F;Nantes;Oui
+08fff571956ed2693422;363b71bf75cf90861d87;MV-200743;Active;465;8;2025-03-24;Sneakers upcyclées;44;F;Versailles;Oui
+edaabb1af3725cda15bd;5b347b3699b96008cb6b;MV-200744;Active;463;3;2025-04-25;Outerwear;22;H;Rennes;Oui
+d0dfe1427092173ca39e;e910a92fe78ce0a99879;MV-200745;New;109;1;2026-03-28;Outerwear;29;H;Nantes;Oui
+92c96aa37c8c3eb8a2c6;7d79e009e3ea4f268fd2;MV-200746;Active;239;7;2026-02-10;Sneakers upcyclées;69;F;Lille;Non
+f56dc6ada00e969bb67c;e984614cc50b3c97743c;MV-200747;New;84;1;2025-09-05;Lingerie bio;31;F;Marseille;Non
+f2580e885bce4b13876e;2fe6cfc41805113b73f2;MV-200748;Active;196;8;2025-11-13;Denim éco;63;F;Lille;Oui
+40116b8566a36d55a926;f6f9bafd8c486ba2882b;MV-200749;New;104;1;2026-01-13;Sneakers upcyclées;27;F;Lyon;Oui
+bffc65924b84830294fc;545fa82fe54bbb9d7690;MV-200750;Dormant;125;1;2025-05-05;Kids;26;F;Bordeaux;Oui
+6a96d5d901971d52646a;e851fb87a682ed0ebfbb;MV-200751;Dormant;200;2;2025-09-17;Denim éco;47;H;Toulouse;Oui
+2dc72ef542b0a3460dd0;ee82d2df79d56b9357d2;MV-200752;Active;319;4;2025-11-21;Accessoires;39;F;Montpellier;Oui
+40cc84b79f70ebc629fc;edce97cf844f9df940f3;MV-200753;Dormant;104;3;2025-03-22;Accessoires;58;H;Toulouse;Oui
+948e5e280251edf09d09;318dabd2c066fdfdaa30;MV-200754;New;60;1;2025-09-26;Sneakers upcyclées;50;F;Toulouse;Oui
+82c86dd3cebf1eff0329;452a5aab3f1707fa4973;MV-200755;Active;218;7;2025-11-07;Denim éco;57;F;Rennes;Oui
+619c7cc96f8fb29521ac;9714e0de71aa833839f4;MV-200756;Active;267;2;2025-03-16;Accessoires;21;F;Toulouse;Oui
+49fad108d42db494ef31;e5b6af8a912fa66209cb;MV-200757;Active;642;3;2025-06-29;Lingerie bio;47;H;Montpellier;Oui
+4df88b6ce1d324fe85e5;8d57430541214787d97b;MV-200758;New;136;1;2026-03-23;Accessoires;27;F;Nantes;Oui
+be488b8fb83e7401055a;1cac05380420e718d35e;MV-200759;Dormant;192;3;2025-11-25;Denim éco;21;H;Grenoble;Non
+519628b2bebac13bacb4;625502b36eadb4b668ad;MV-200760;Active;445;5;2025-09-13;Sneakers upcyclées;69;H;Lille;Oui
+7fc11f637d5b9406fb7e;55824b84c3b88cc22e9d;MV-200761;Active;232;7;2025-10-17;Denim éco;34;H;Paris;Oui
+34ae67e2a3a605443bbc;cecc69fb2b2e897e16f4;MV-200762;VIP;1420;25;2025-07-26;Accessoires;38;F;Marseille;Oui
+6d706427b979cb87b79c;08b9e14ee4dab31d3697;MV-200763;New;58;1;2025-12-31;Sneakers upcyclées;61;H;Paris;Oui
+c8b0af918aa8433a9a81;5ebe56d487c4cb3db223;MV-200764;Dormant;135;2;2025-08-05;Accessoires;41;F;Nice;Oui
+673c79736932538a8bca;58c0102b402b6eb95daf;MV-200765;Dormant;106;1;2026-03-13;Sneakers upcyclées;42;H;Boulogne;Oui
+403f30d1617f95187320;26c629a301c80817fcf2;MV-200766;Dormant;140;2;2025-05-05;Lingerie bio;26;F;Rennes;Oui
+2e4a42fcbf5b885ca8a3;33df0447b926de5a7cd6;MV-200767;Dormant;130;3;2026-01-02;Kids;38;F;Strasbourg;Non
+01781ff92d1a2384e430;38022241459450305fa4;MV-200768;Active;517;7;2025-12-10;Accessoires;32;H;Boulogne;Oui
+4ef1213a1e19e7c80d23;39a03f333bcbb721387c;MV-200769;Active;340;8;2025-06-08;Outerwear;32;F;Rennes;Oui
+570ce8ea64598c48fddd;7e077db997063ab0349a;MV-200770;VIP;1538;14;2026-03-09;Kids;44;F;Lille;Oui
+0e3c11050ca7aa63c32d;c54b586014e80066fbb3;MV-200771;Active;575;4;2025-06-11;Kids;41;F;Paris;Oui
+9398e8da98b05d58dce3;d8effa245960beece4f3;MV-200772;Active;572;5;2025-05-17;Denim éco;25;H;Montpellier;Non
+bb964dddcfed1de59362;4a25068c8f0c71eb4a93;MV-200773;Active;337;4;2026-03-21;Lingerie bio;49;H;Boulogne;Oui
+87f2e7f932f21035da4c;be6078331ddcf56a1452;MV-200774;Active;246;4;2025-04-24;Sneakers upcyclées;26;F;Marseille;Non
+b1d66bc86cfd1d2afc26;811d11e13bdd202ec243;MV-200775;Dormant;111;2;2025-06-04;Accessoires;39;H;Bordeaux;Oui
+8a89c5a8fe46b2698741;464d476afcf90b919e56;MV-200776;Active;303;5;2025-02-12;Kids;43;H;Bordeaux;Non
+803de5d2df665c427ef4;a3e20ed4de5bdeac132b;MV-200777;Active;550;5;2025-02-26;Outerwear;33;F;Versailles;Non
+bee547e85a1bdfde3cff;97374705484df30b17b0;MV-200778;Active;360;4;2026-02-19;Accessoires;35;H;Marseille;Non
+f929be1a42082cef93ec;9c3b3e96d74d2a68d468;MV-200779;Active;612;8;2025-04-26;Lingerie bio;30;H;Rennes;Non
+49896286c32808750c4b;a64d424982c981c780ba;MV-200780;Dormant;84;1;2025-06-14;Lingerie bio;27;F;Montpellier;Oui
+3c30bd8b4b31a388b729;c220128eb2ae74586d97;MV-200781;Active;527;7;2026-01-16;Sneakers upcyclées;42;F;Paris;Oui
+9a011e50aa7bf716443e;1c3f3f9f2d0cc2ac3d8c;MV-200782;Active;466;3;2025-10-05;Lingerie bio;43;H;Nice;Oui
+cb675e4fbebe970b57f3;fb3655e5ccd5b1455ceb;MV-200783;Dormant;121;3;2025-04-08;Lingerie bio;31;F;Strasbourg;Oui
+d6f2907e52c7956bb4a5;516a63c8b46c01a2cec6;MV-200784;Dormant;103;1;2026-01-06;Sneakers upcyclées;25;F;Nice;Oui
+535c5d556387e1b53d22;cf4c9e35bc5b39edf277;MV-200785;Active;191;2;2025-07-11;Lingerie bio;39;H;Lille;Oui
+9389210c41fda2b5896a;7a26884a4b11c29b62f6;MV-200786;New;157;1;2025-07-03;Accessoires;37;F;Rennes;Oui
+84cb89655b3ac12dd829;f2ab7ce5e88ce65d2966;MV-200787;Active;488;4;2025-04-09;Kids;49;H;Strasbourg;Non
+63108ec44c67c909f700;64c67a868d0cf484581d;MV-200788;VIP;1074;15;2025-11-24;Sneakers upcyclées;42;F;Toulouse;Oui
+a8686b49d65b94d9b5f6;83c688388edcf273157a;MV-200789;Active;334;2;2025-04-29;Lingerie bio;37;H;Versailles;Oui
+70e57efc544f8f69751f;48bf1ff40dda8a698a29;MV-200790;Dormant;96;1;2025-06-19;Kids;44;F;Strasbourg;Non
+47e52fb8d1ffc2a89fa9;237dc34e3d8ff705ef16;MV-200791;VIP;1392;22;2025-07-17;Outerwear;63;F;Rennes;Oui
+6630ce98463a35c234c0;4e2a43e894031aaf0dd2;MV-200792;New;119;1;2025-10-28;Accessoires;28;F;Lille;Oui
+07091ff1b8f0725347a0;bebe33fb007c630abf94;MV-200793;Active;308;2;2025-02-27;Lingerie bio;28;F;Grenoble;Oui
+c1413d80d91909d147ce;a79292fe5095e1ba457f;MV-200794;Active;370;3;2026-03-04;Lingerie bio;54;F;Strasbourg;Oui
+18d690bcf047dcb0921d;aa8fc0feb59c02bfd793;MV-200795;New;47;1;2025-10-21;Kids;37;F;Montpellier;Oui
+b4003ef97d5ebc2a3662;0a2ebc6c143a2d36095e;MV-200796;Active;372;2;2025-08-20;Outerwear;33;H;Marseille;Oui
+fe31f4cfd4da05e41a82;6994cde8dd97890d855d;MV-200797;Active;243;5;2025-02-05;Denim éco;48;H;Strasbourg;Non
+b09290eb1b37017a5367;0c198d1728d83a1b7285;MV-200798;New;92;1;2025-03-18;Accessoires;68;F;Bordeaux;Oui
+2debf07fc9fa0f885249;4ec2c65369f5cd2cb4f8;MV-200799;VIP;2094;23;2025-06-12;Lingerie bio;68;H;Lille;Oui
+97705bb810ce04cae525;9490fcb20270a79e6ca6;MV-200800;Active;439;3;2025-08-09;Accessoires;25;F;Rennes;Oui

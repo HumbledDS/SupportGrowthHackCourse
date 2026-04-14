@@ -1,0 +1,801 @@
+hash_email;hash_phone;client_id_loreal;ville;postal;age;genre;segment_loreal;freq_achat_premium_an;panier_premium_eur;marque_pref;categorie_pref;programme_fidelite;date_1er_achat
+48e958bbda2ee9de0c04;9bf8fb9668a68084579f;LOR-500001;Rennes;35000;49;H;Premium;2.3;99;Lancôme;Soin corps;Oui;2024-10-06
+2ca758f0bc98187e1b9e;1c6db555ea3ae726a5d6;LOR-500002;Saint-Denis;93200;26;F;Premium;2.7;90;Lancôme;Soin corps;Oui;2023-03-28
+56cdc14c2608d2d5b186;8bde01eca06c8c76f2c5;LOR-500003;Toulouse;31000;39;F;Premium;4.3;160;L'Oréal Paris;Soin visage;Oui;2022-02-01
+b0a40927deab15d58f45;b184e09510b071861c48;LOR-500004;Nice;06000;63;F;Standard;1.4;62;Yves Saint Laurent;Parfum;Oui;2024-06-10
+0b79bf08340cfdce8263;4ee11997eba32e1594e3;LOR-500005;Lyon;69003;43;F;Premium;2.6;139;Lancôme;Cheveux;Oui;2022-09-04
+7310c120ffc55a3ded62;a3fee1c5988d42bb9e41;LOR-500006;Versailles;78000;28;H;Prestige;4.1;165;Yves Saint Laurent;Soin corps;Oui;2025-09-02
+e7e497c144680a6594b5;814b6b608c8ac0c38ec9;LOR-500007;Lille;59000;28;F;Premium;4.0;155;Lancôme;Soin corps;Oui;2023-09-02
+9564112d3e46f34b6f05;c791ed8f8c06a5c7cbd0;LOR-500008;Bordeaux;33000;44;F;Premium;2.1;116;Maybelline;Parfum;Oui;2025-03-04
+bbab47ab933cec0cacbb;7590d40a89f68c4e1620;LOR-500009;Grenoble;38000;36;F;Standard;1.0;63;Vichy;Cheveux;Oui;2025-01-07
+84dea630fccdff162591;16c422ea158c75012fd3;LOR-500010;Saint-Denis;93200;71;F;Premium;2.5;157;Maybelline;Parfum;Oui;2025-07-27
+e3bf8668b38d19a2114f;59ab790e6b9bb0a28f41;LOR-500011;Bordeaux;33000;45;F;Premium;2.2;82;Vichy;Soin corps;Oui;2022-05-11
+4ffb5d06c28efd79794f;48e71fabfdb7892ee8d0;LOR-500012;Paris;75012;65;F;Standard;0.9;42;Lancôme;Solaire;Non;2024-10-08
+2b790f1ed77e91cbe260;3ba7f7184f22afba234e;LOR-500013;Toulouse;31000;62;H;Premium;2.2;153;Yves Saint Laurent;Parfum;Oui;2022-05-20
+6fff1c04969534e967f8;1299dd8de01881f0ef6a;LOR-500014;Strasbourg;67000;26;F;Standard;1.6;85;Maybelline;Solaire;Oui;2022-04-15
+7eb1e7e339e1e04a21b2;0d7837020c1c67b6737c;LOR-500015;Lyon;69003;30;F;Standard;1.3;61;Kiehl's;Maquillage;Oui;2024-01-16
+7853f1b509b5a24ec80f;33dd963da95204f2cf8d;LOR-500016;Montpellier;34000;27;F;Premium;2.6;106;L'Oréal Paris;Cheveux;Non;2022-10-15
+712986ff556180859f7c;b8dae8a19bef0a0963e8;LOR-500017;Paris;75012;18;F;Standard;1.1;48;Garnier;Soin corps;Non;2023-02-03
+e29f88ff9d167bc203af;095b9db3c32d2a53034c;LOR-500018;Versailles;78000;37;H;Premium;3.7;113;Yves Saint Laurent;Maquillage;Oui;2025-03-04
+f797538a57c3b776af6b;1b16be8b573f3c5e2e5d;LOR-500019;Paris;75012;24;F;Prestige;6.2;290;Yves Saint Laurent;Cheveux;Oui;2024-05-18
+6691ce4239e3bc005ca7;ad214412532dc67a1541;LOR-500020;Strasbourg;67000;29;H;Premium;3.1;109;La Roche-Posay;Soin corps;Oui;2023-01-26
+f7695fdc76985a9e4880;a8a7fb9c88ea44324cbe;LOR-500021;Lyon;69003;39;H;Prestige;6.7;186;L'Oréal Paris;Cheveux;Oui;2022-11-22
+bee547e85a1bdfde3cff;97374705484df30b17b0;LOR-500022;Strasbourg;67000;35;H;Prestige;4.8;182;Garnier;Maquillage;Oui;2025-10-22
+46f669f71a7c3bd1961a;d3b13ab6db2e77def1ac;LOR-500023;Versailles;78000;43;F;Découverte;0.7;25;Vichy;Soin visage;Oui;2025-01-16
+da96bb9a2a03da2ece0b;1710d5d1c776d9af3133;LOR-500024;Grenoble;38000;45;F;Découverte;0.9;41;Vichy;Parfum;Oui;2025-10-26
+e56dbf498330a63c48b3;e97d7c6bb613dda937b4;LOR-500025;Bordeaux;33000;41;H;Découverte;0.7;60;Vichy;Soin corps;Non;2023-12-09
+bcbcc6964b5917e4a37f;6096ee31c7b0e4562faf;LOR-500026;Lille;59000;40;H;Découverte;0.4;55;Yves Saint Laurent;Soin corps;Oui;2023-06-19
+ade4589ed5a7b341ebf1;d8e1577bf671c0e12d62;LOR-500027;Bordeaux;33000;30;F;Standard;1.5;85;Garnier;Soin corps;Non;2023-10-02
+9cc586d2214eb7a492d9;2780da0fc337bca713ee;LOR-500028;Lyon;69003;38;H;Découverte;1.0;56;Vichy;Soin visage;Non;2022-02-10
+f71541ed0ad3dde6aab9;0bd7ebe21fa8df22cad3;LOR-500029;Montpellier;34000;67;F;Prestige;9.0;203;Kiehl's;Maquillage;Non;2025-02-08
+564b0cf0e13a0d47473a;7e885d9bbad2ff817825;LOR-500030;Strasbourg;67000;63;F;Premium;4.2;112;Yves Saint Laurent;Soin corps;Oui;2022-03-12
+4179be4589322123e394;b8b2f164e8b7e64fe41a;LOR-500031;Saint-Denis;93200;61;H;Découverte;0.4;22;Giorgio Armani;Solaire;Oui;2024-01-26
+6e7e694a35f74488eacb;323136b11b43bcf8208d;LOR-500032;Nice;06000;43;H;Premium;2.2;146;Garnier;Cheveux;Non;2022-09-18
+b2b72e999b395620e3d9;00f82fa4803154a2e60b;LOR-500033;Bordeaux;33000;37;F;Découverte;0.7;48;Vichy;Cheveux;Oui;2023-06-20
+9814635eb5d1f11deb3e;2ab68463f60fb63bc361;LOR-500034;Grenoble;38000;39;F;Premium;2.9;159;Vichy;Solaire;Non;2025-05-17
+b568218e6b5cc850c7b8;953e5c76a3e181ebbe3e;LOR-500035;Lyon;69003;30;F;Premium;4.2;120;Yves Saint Laurent;Cheveux;Oui;2023-01-28
+a0dc406fb186501f3aea;87aef5df2f64c7e100c2;LOR-500036;Rennes;35000;41;F;Standard;1.6;42;Yves Saint Laurent;Soin corps;Non;2022-04-27
+5e948310dbd48d228c53;8d1722723536c1ad3fb4;LOR-500037;Lyon;69003;37;F;Standard;1.3;80;Garnier;Cheveux;Oui;2024-06-20
+e788a894a0e5de1a7d60;0f4edad1e6613defb149;LOR-500038;Nice;06000;58;F;Prestige;6.4;217;L'Oréal Paris;Maquillage;Oui;2024-07-13
+53fc1bb3bf25835722ad;2ff0c850245fa271114a;LOR-500039;Lille;59000;33;F;Standard;1.8;61;Vichy;Parfum;Oui;2022-05-11
+aaab7076cd2236a6661b;9402adb0ebaf92db042a;LOR-500040;Versailles;78000;46;H;Premium;3.9;137;La Roche-Posay;Maquillage;Oui;2022-07-05
+f991ceb346f804461a2a;3f08112e6d44da041ef5;LOR-500041;Lille;59000;54;H;Premium;2.6;103;L'Oréal Paris;Soin visage;Oui;2025-11-11
+a2d7209fcf980f0d0cab;0706aeecb71fb29619f7;LOR-500042;Lyon;69003;49;F;Standard;0.8;89;Kiehl's;Maquillage;Oui;2023-08-14
+4f37eaca9bbe43e24ff7;fdbeda2a5803fffaa5bc;LOR-500043;Paris;75012;21;F;Découverte;0.4;44;Yves Saint Laurent;Soin visage;Oui;2024-12-04
+79de635dab3848225895;e83014acfb8e0faca68a;LOR-500044;Versailles;78000;22;F;Prestige;8.6;272;Garnier;Soin visage;Oui;2025-10-17
+bcd73bee77a8a8619935;6a8da80fca7468703bfc;LOR-500045;Boulogne;92100;45;F;Découverte;0.4;58;La Roche-Posay;Soin corps;Oui;2024-08-05
+3c6e58ffeac83d346cf6;680a6d031f950956bc08;LOR-500046;Boulogne;92100;26;H;Découverte;0.9;27;Kiehl's;Soin visage;Oui;2024-04-24
+e2cc5688bd8546940502;6e7342c05dc36d523310;LOR-500047;Strasbourg;67000;38;F;Standard;1.2;38;La Roche-Posay;Solaire;Oui;2024-05-17
+61b34182f51c393db70b;97aeda6b70f91a99a58e;LOR-500048;Paris;75012;75;F;Premium;3.7;112;Lancôme;Solaire;Oui;2024-05-21
+9232e77afd740471cd54;6acbedacca7d654e8d5f;LOR-500049;Marseille;13008;42;H;Premium;2.8;94;Maybelline;Parfum;Non;2025-11-20
+9d92b7060feb8174ee4a;2bbe218eafa75776d6b1;LOR-500050;Montpellier;34000;62;H;Standard;1.9;77;Kiehl's;Soin corps;Oui;2022-04-28
+70820a8577345afaddab;7e5d3c0df055effb9cb5;LOR-500051;Paris;75012;75;F;Standard;1.8;76;Yves Saint Laurent;Cheveux;Oui;2023-01-09
+f1f09816fe98683b2d98;8049f21d6d231be656c8;LOR-500052;Strasbourg;67000;33;H;Premium;2.1;121;Kiehl's;Parfum;Non;2023-06-28
+57c119edab2302e0b1c1;585d827dfd3d3cd0335a;LOR-500053;Rennes;35000;31;H;Premium;2.1;145;Maybelline;Cheveux;Oui;2022-07-12
+2022d98e93d4ffa43ce7;7117528a9d0ae74fad7c;LOR-500054;Toulouse;31000;22;H;Découverte;0.6;54;Garnier;Parfum;Non;2022-08-20
+ebf6f34a2d2e98d7ff39;74475a88f7bdb4ff6f26;LOR-500055;Lyon;69003;36;F;Standard;0.9;76;Kiehl's;Cheveux;Oui;2024-09-24
+38ed16e85739090e6c82;69c5ff041ed530013dad;LOR-500056;Lille;59000;52;F;Premium;3.4;156;Maybelline;Cheveux;Non;2023-08-04
+ba944766f1c580d5958b;e22514870188589efb53;LOR-500057;Grenoble;38000;46;F;Premium;2.3;156;L'Oréal Paris;Maquillage;Oui;2023-04-27
+18df77509290b0fea449;e28d23161954f9012dd1;LOR-500058;Rennes;35000;27;F;Premium;3.1;99;Lancôme;Soin corps;Oui;2023-03-17
+7f2e19b8316d6cbc6b20;2f34f657147394744a62;LOR-500059;Paris;75012;39;H;Découverte;0.4;27;Kiehl's;Maquillage;Oui;2022-01-03
+930a3bb534baa7e33bbe;ca07dc88efdf6a6b3dd0;LOR-500060;Boulogne;92100;55;F;Standard;0.9;73;Maybelline;Solaire;Oui;2022-01-18
+a1cd7f057d5ccb5de410;d6cf6b3eedfdeb8bbd37;LOR-500061;Montpellier;34000;31;F;Prestige;5.5;200;Giorgio Armani;Solaire;Oui;2022-08-09
+351538ce5a39e1ad46c6;e65c7e77bfb5ace67f88;LOR-500062;Lille;59000;57;F;Premium;4.1;132;Yves Saint Laurent;Soin visage;Oui;2023-12-25
+f7adba711b491f7c048d;2632d10c19b7243bbb4a;LOR-500063;Nantes;44000;19;F;Découverte;0.3;57;Maybelline;Soin visage;Oui;2022-12-02
+bad8b57b7479116d30c2;03c9380e5fb79220663c;LOR-500064;Saint-Denis;93200;38;F;Premium;3.7;130;Yves Saint Laurent;Solaire;Oui;2023-05-01
+d3f527797902149db966;ac4e0ecf776439688488;LOR-500065;Rennes;35000;47;F;Standard;1.5;84;Lancôme;Cheveux;Non;2022-06-25
+cc61ac85d154dc68b537;d2c1130508c565318572;LOR-500066;Nice;06000;23;F;Premium;3.0;148;Vichy;Maquillage;Oui;2025-01-17
+b94f40569165a266485b;f1430942812b605dff15;LOR-500067;Versailles;78000;50;F;Premium;3.4;147;Yves Saint Laurent;Parfum;Oui;2024-10-14
+8898590cb8d074373149;23bdc4375b37b12b0f17;LOR-500068;Lyon;69003;53;H;Premium;2.2;110;Kiehl's;Soin corps;Non;2024-08-28
+cc35d42fdc2af13277ea;5cbb199e58b3562e0fd8;LOR-500069;Versailles;78000;53;F;Découverte;0.6;20;La Roche-Posay;Maquillage;Oui;2025-06-11
+dc8b7cb4adb5e134cda0;6f93cbcdc95d09f20c20;LOR-500070;Nantes;44000;37;F;Premium;2.3;97;Kiehl's;Soin visage;Oui;2023-05-03
+5589393dee2738b7a9a0;3556826e275d9b989d8c;LOR-500071;Strasbourg;67000;66;F;Standard;1.3;65;Yves Saint Laurent;Soin corps;Oui;2024-12-24
+e2795cbe6749a315810a;c8b677dd2e73985bf45d;LOR-500072;Lille;59000;42;F;Premium;2.3;142;Vichy;Cheveux;Oui;2022-10-05
+b10f27aea131b5332421;b754e4651426e5826544;LOR-500073;Toulouse;31000;70;F;Premium;3.2;88;La Roche-Posay;Soin corps;Oui;2022-08-06
+f206b0e95b0c7eb53766;389db3105d0db3b58fe4;LOR-500074;Boulogne;92100;40;F;Premium;4.1;151;L'Oréal Paris;Soin visage;Oui;2022-08-17
+c12dca1c67e46d2a0d57;b789857602d085ab3b24;LOR-500075;Nantes;44000;53;H;Standard;1.0;40;Yves Saint Laurent;Soin corps;Non;2024-01-16
+bfe197a8710afcbe7b30;73dcbd853200dac8f0e1;LOR-500076;Lille;59000;37;F;Prestige;7.9;155;Lancôme;Cheveux;Oui;2025-02-27
+914b779945a6c0886dc0;06fbc991002e2f242d3d;LOR-500077;Paris;75012;44;H;Standard;1.7;87;Kiehl's;Maquillage;Oui;2022-08-03
+5c9c21d08125b897fe19;9ec244fe34f87b8c475a;LOR-500078;Strasbourg;67000;28;H;Standard;0.8;71;La Roche-Posay;Solaire;Oui;2023-11-05
+1fd9d9788e1497c84d16;4f08834bc260f0005d0c;LOR-500079;Bordeaux;33000;44;F;Standard;1.5;43;L'Oréal Paris;Soin corps;Oui;2025-12-03
+205de9f5b0e0747498f7;c6132cf8ed972e04522d;LOR-500080;Boulogne;92100;41;F;Découverte;0.6;33;Yves Saint Laurent;Soin visage;Oui;2024-01-05
+19b872d0357ed981824e;6758b922e9a0abc81d55;LOR-500081;Rennes;35000;74;F;Premium;3.5;117;L'Oréal Paris;Cheveux;Oui;2024-03-14
+e38758f07a25d5ac71e9;3b395e60638ae7dabbd3;LOR-500082;Strasbourg;67000;24;F;Premium;2.7;137;Giorgio Armani;Solaire;Oui;2024-09-17
+08063b432b3a5e6e6a9f;66abe7e0274f3cfa65a1;LOR-500083;Paris;75012;40;F;Premium;2.4;131;La Roche-Posay;Parfum;Oui;2025-08-09
+5ebf52102cf06014e774;ba740e008fd02821093f;LOR-500084;Marseille;13008;18;F;Standard;1.2;48;Lancôme;Cheveux;Oui;2024-06-04
+e0b513dbc18c50cc172f;c6f6997960b3676c7009;LOR-500085;Lyon;69003;75;F;Prestige;7.1;166;Maybelline;Cheveux;Oui;2022-10-22
+bccf99c38fae157b36fd;8b0141fa95208fdf810e;LOR-500086;Paris;75012;54;H;Prestige;5.6;153;Vichy;Solaire;Non;2024-04-11
+e5e2a25e94ff49293a79;00cff6644f55aaecdac2;LOR-500087;Marseille;13008;19;H;Standard;0.9;77;Maybelline;Parfum;Non;2024-01-01
+7cb7c8d008711326186e;af1a1963f0086d09f319;LOR-500088;Boulogne;92100;63;H;Premium;4.0;123;La Roche-Posay;Solaire;Non;2024-08-21
+4d378e57985397ffe0e3;2479b50c69c03c1e9701;LOR-500089;Saint-Denis;93200;39;F;Découverte;0.9;32;Kiehl's;Soin corps;Non;2022-06-23
+b6adc1516f715a9dcfa1;3bf7608f831a40c0a449;LOR-500090;Bordeaux;33000;34;H;Standard;1.9;35;Giorgio Armani;Parfum;Non;2022-04-23
+ae10901d0ad39bd73caa;5b0cc7307fe7f53fb97c;LOR-500091;Nice;06000;28;F;Découverte;0.3;52;L'Oréal Paris;Soin visage;Oui;2024-11-20
+424277365b123dc7b364;b3ae1bb46eee282ffa66;LOR-500092;Versailles;78000;54;F;Découverte;0.7;42;Giorgio Armani;Parfum;Non;2024-03-02
+0a353845c6f2f17d8993;35097f15c056982d6e7d;LOR-500093;Nantes;44000;45;H;Premium;2.1;81;Vichy;Cheveux;Oui;2022-09-13
+62b590f7d5cfc049a482;bdcd374d84dd89ef4ad5;LOR-500094;Grenoble;38000;38;F;Standard;1.6;52;Giorgio Armani;Solaire;Oui;2024-05-19
+1a47cb79601cab67da51;0aa3f2ea7f49ee1cc308;LOR-500095;Lille;59000;37;F;Standard;0.8;83;La Roche-Posay;Soin visage;Oui;2023-11-12
+39c7d9ad162ba4fe6103;48c0fcbb73df7635474a;LOR-500096;Rennes;35000;70;F;Standard;1.3;53;Garnier;Parfum;Oui;2022-11-06
+d654ba848694e0e22081;83cab804afe1be3dfd99;LOR-500097;Grenoble;38000;40;H;Standard;1.1;39;Lancôme;Cheveux;Oui;2025-11-02
+15f16d64e90a894a944a;c9dfeaeda8d4a553891a;LOR-500098;Marseille;13008;48;F;Premium;3.9;112;Yves Saint Laurent;Soin visage;Oui;2025-08-08
+d70d0c4a767fb8bd5e1a;770f078d694bc0f1fe56;LOR-500099;Strasbourg;67000;43;F;Standard;1.9;83;Garnier;Soin corps;Oui;2023-02-06
+9842f6c9f128f869650d;7b7e1c0f5d1b4f87165f;LOR-500100;Versailles;78000;28;F;Standard;1.0;77;Lancôme;Solaire;Oui;2025-06-12
+eb6e471e05ffc7f1776a;116b5fb77cf222cf00b9;LOR-500101;Lyon;69003;48;F;Premium;3.2;96;Yves Saint Laurent;Parfum;Oui;2023-12-25
+59cef23713d2bd5f404b;fe4e8924e19d2e5039ed;LOR-500102;Boulogne;92100;62;F;Premium;3.1;101;Garnier;Soin visage;Non;2025-12-01
+c44d1545aca1b7a30445;6eb35aa530cb9b034307;LOR-500103;Strasbourg;67000;51;F;Standard;1.7;58;Garnier;Soin visage;Non;2024-10-24
+6cc192ffe77753ae10df;20cd44aa13c716bf8480;LOR-500104;Versailles;78000;45;F;Premium;2.4;85;La Roche-Posay;Maquillage;Oui;2023-02-18
+a275f0a418df9b8c05da;6eb340d663fbc6f8bc55;LOR-500105;Boulogne;92100;42;F;Découverte;0.6;41;L'Oréal Paris;Soin visage;Non;2022-09-05
+1ce91fc86d4ca2dbb538;956205aaed83999b5dcd;LOR-500106;Montpellier;34000;50;F;Premium;2.4;117;Giorgio Armani;Maquillage;Non;2023-01-09
+3b347eb6994cb1babc65;8a140cad293a173144f4;LOR-500107;Lille;59000;50;F;Prestige;5.4;274;Giorgio Armani;Solaire;Oui;2023-12-21
+8aba3eece024d9288afc;b8ef14eec3bb8a22ed2f;LOR-500108;Marseille;13008;53;F;Standard;2.0;89;Maybelline;Soin corps;Oui;2023-12-04
+293de2231a704626cff4;509e3592fa333847a203;LOR-500109;Nantes;44000;61;H;Premium;2.1;133;L'Oréal Paris;Soin corps;Oui;2022-11-27
+e12ac12f2b588693bde6;de93e4cb1aac9b6e5e3e;LOR-500110;Lyon;69003;73;H;Prestige;7.6;257;Garnier;Maquillage;Oui;2022-11-01
+d94c767e64deffb04b4e;158c7d23141d0021c779;LOR-500111;Saint-Denis;93200;47;H;Standard;1.6;54;Lancôme;Maquillage;Non;2023-02-26
+3bb25abeb82147e96eea;dd56209dbb6918552427;LOR-500112;Marseille;13008;44;F;Prestige;5.2;298;Yves Saint Laurent;Maquillage;Oui;2025-08-01
+566765a538922f8fd433;4b03255eff7c828d24bb;LOR-500113;Nantes;44000;42;F;Premium;3.4;138;Giorgio Armani;Solaire;Oui;2023-02-19
+393895f51af26741933f;aa7421718bb58ca04626;LOR-500114;Rennes;35000;35;F;Premium;2.9;118;Vichy;Soin corps;Oui;2024-10-25
+33f4dfaefe1fdc7a3cee;60b26a189b683d4316ed;LOR-500115;Marseille;13008;20;H;Premium;3.0;101;Kiehl's;Soin corps;Oui;2025-02-03
+614a04fb36b6c4946439;52085e9bf0dd50d5e070;LOR-500116;Bordeaux;33000;58;F;Premium;2.5;151;Kiehl's;Soin visage;Non;2022-09-24
+8dab3ffc8f9cc85302a2;8e908fb52a0444a33413;LOR-500117;Grenoble;38000;42;H;Premium;4.4;98;L'Oréal Paris;Solaire;Oui;2025-05-08
+63c95ac688e2eb486771;2f2fcf4d769cde26a0b2;LOR-500118;Montpellier;34000;56;H;Premium;2.6;138;Lancôme;Parfum;Non;2023-04-08
+c1413d80d91909d147ce;a79292fe5095e1ba457f;LOR-500119;Rennes;35000;54;F;Premium;4.0;126;Vichy;Soin visage;Oui;2024-06-28
+7ae377113be72cd42d9f;043f23ff94ab98429226;LOR-500120;Grenoble;38000;59;H;Premium;4.3;138;L'Oréal Paris;Solaire;Non;2024-04-12
+75671baafa3dfe110003;867c3529966ebb950860;LOR-500121;Nantes;44000;43;F;Découverte;0.5;52;Yves Saint Laurent;Soin corps;Oui;2024-03-03
+c95836d514e7ebd6ef84;0642a075de5eb80c75f2;LOR-500122;Lyon;69003;48;F;Premium;2.1;159;La Roche-Posay;Maquillage;Oui;2023-06-26
+3925c302ba7c2febd4ac;27c630d90aba9e87827a;LOR-500123;Marseille;13008;36;F;Découverte;0.4;37;Giorgio Armani;Parfum;Non;2022-05-06
+89be6a1d42f9072314a6;5745079182ce402bdfc1;LOR-500124;Versailles;78000;43;F;Premium;2.7;154;Kiehl's;Soin corps;Oui;2024-06-10
+72f0f0a12d40ef30e1fd;b65baaf100df4a76dc50;LOR-500125;Paris;75012;23;F;Premium;3.1;108;Garnier;Solaire;Non;2022-08-17
+dfd03b75d4dfbb575402;2df75d141dbf6db582d6;LOR-500126;Bordeaux;33000;62;H;Standard;0.9;40;La Roche-Posay;Maquillage;Oui;2024-11-09
+8089c77a0438a721e8ae;8ac3cf0d3ad8f92c1897;LOR-500127;Rennes;35000;28;H;Standard;1.4;38;Giorgio Armani;Solaire;Oui;2022-12-17
+a7e86aa73eb1778bc6ef;49c2ca9fd39eca3c191c;LOR-500128;Nantes;44000;50;F;Premium;3.9;137;Vichy;Solaire;Oui;2025-04-07
+4df88b6ce1d324fe85e5;8d57430541214787d97b;LOR-500129;Boulogne;92100;27;F;Premium;4.3;99;Garnier;Soin visage;Oui;2024-06-21
+2e540d1143d0b2ef957b;7a760e070a761d3c7cc2;LOR-500130;Marseille;13008;53;F;Premium;2.1;96;La Roche-Posay;Soin corps;Non;2023-02-14
+9d45403801e82f2586ec;4408e2c794a187f45c40;LOR-500131;Grenoble;38000;49;H;Prestige;5.5;195;Yves Saint Laurent;Soin corps;Oui;2022-04-04
+7ad87e80f973915579c1;a6f0b93a0e68c0663cd5;LOR-500132;Nice;06000;31;H;Premium;2.9;83;Maybelline;Maquillage;Oui;2023-12-12
+e7708e2de8449788234c;d8af239150afe8e8fc78;LOR-500133;Montpellier;34000;67;H;Découverte;0.4;29;Maybelline;Maquillage;Non;2023-09-20
+1af5e45493626f8363a5;6493fdfb41ef563b4129;LOR-500134;Toulouse;31000;25;F;Standard;1.4;49;Vichy;Soin corps;Oui;2024-01-16
+734d9b155c26f2448758;c26a8fca41fb6b517603;LOR-500135;Versailles;78000;18;F;Premium;3.4;157;Garnier;Maquillage;Oui;2025-01-04
+f6daafbf162439e003fc;54ee43204d28b6f47204;LOR-500136;Montpellier;34000;41;F;Prestige;4.6;281;Kiehl's;Solaire;Oui;2025-11-26
+c4f2d758e39850104404;aa579120eb7ef1b62c3b;LOR-500137;Rennes;35000;55;F;Standard;1.1;47;L'Oréal Paris;Maquillage;Oui;2023-04-23
+32b27e013d967de46c8f;6e3bec066bb785dbcb90;LOR-500138;Marseille;13008;43;H;Découverte;0.3;36;La Roche-Posay;Cheveux;Non;2023-12-27
+196d664d5dffefa48a8b;bb435f74dc30ddd7cf55;LOR-500139;Saint-Denis;93200;58;F;Standard;1.0;59;La Roche-Posay;Maquillage;Oui;2022-07-08
+e0be3247d00cab2ae044;f3af4117fa199bd3b59a;LOR-500140;Nantes;44000;71;F;Standard;1.8;38;Maybelline;Parfum;Oui;2023-01-16
+afda535053251d473b59;b4eb98cb64ca6e634b7e;LOR-500141;Boulogne;92100;66;H;Standard;1.2;44;Yves Saint Laurent;Maquillage;Oui;2023-07-22
+3177b006aecc7b289835;4357e8df79749a6875e5;LOR-500142;Lille;59000;71;F;Prestige;7.9;261;L'Oréal Paris;Soin corps;Oui;2024-06-09
+7d7fefcde5edb22d4357;f8132e08d9bf6df01528;LOR-500143;Nice;06000;38;H;Premium;4.3;114;La Roche-Posay;Parfum;Oui;2024-01-19
+703025adfa1451289c07;bfe0da709a9d89cb33ea;LOR-500144;Lille;59000;64;F;Découverte;0.4;51;Kiehl's;Soin visage;Oui;2022-03-01
+4fc02749524c10af114f;d3ef68853e5844763023;LOR-500145;Marseille;13008;72;F;Premium;2.4;92;L'Oréal Paris;Soin visage;Oui;2023-12-14
+c6b95c69eeaa0f035a0b;60f674319e0c2f4cb600;LOR-500146;Toulouse;31000;71;H;Découverte;0.6;50;Yves Saint Laurent;Maquillage;Oui;2025-08-08
+e80692cf1857693518e5;d9a24775d10027393f35;LOR-500147;Strasbourg;67000;63;F;Prestige;7.0;147;Garnier;Cheveux;Oui;2025-06-08
+024c4d58bb75975ec8ad;388e8c0a7c3285e30a9e;LOR-500148;Lyon;69003;43;H;Standard;1.6;42;Vichy;Parfum;Oui;2023-01-17
+018f8ea6420719208b7d;b327b4505590b66bbbe3;LOR-500149;Lyon;69003;33;F;Standard;1.0;42;La Roche-Posay;Soin visage;Oui;2025-07-09
+90335404a7910d4d4519;b18be2b5bcf22558ada3;LOR-500150;Strasbourg;67000;48;F;Découverte;0.6;46;Maybelline;Soin corps;Oui;2024-09-22
+06a2404c8a0d24b67312;bbe6d0805baa11e6ee3a;LOR-500151;Nantes;44000;49;H;Standard;1.3;61;La Roche-Posay;Soin corps;Non;2022-05-28
+44fd51e4297dad212143;7880e1a165611085fac6;LOR-500152;Bordeaux;33000;64;F;Premium;2.6;84;Vichy;Cheveux;Oui;2025-08-03
+8afdfa29386bb5087876;4978c336f22fb1940446;LOR-500153;Grenoble;38000;25;H;Prestige;7.2;197;La Roche-Posay;Cheveux;Oui;2022-03-12
+a061c2d3810160bbb880;0a5cef6d8dba1166dd9e;LOR-500154;Nice;06000;47;F;Premium;2.4;110;L'Oréal Paris;Cheveux;Non;2024-10-13
+066d3c419b061f29bd7b;0436731c3befb245ccc4;LOR-500155;Bordeaux;33000;71;F;Premium;3.6;117;L'Oréal Paris;Soin visage;Oui;2022-07-19
+ccc0698f9497caa516fa;3a416ae08fab498ab1f6;LOR-500156;Bordeaux;33000;24;F;Découverte;0.8;48;Giorgio Armani;Cheveux;Oui;2025-05-01
+4781232e90fce2dc0324;0e303fd5c73c0057ceef;LOR-500157;Nantes;44000;53;H;Premium;3.6;155;Kiehl's;Cheveux;Non;2025-12-07
+d0dfe1427092173ca39e;e910a92fe78ce0a99879;LOR-500158;Lyon;69003;29;H;Découverte;0.7;30;Lancôme;Cheveux;Oui;2023-01-23
+30aeffa567ec1ec4219a;5283fa990e5800c4d0ab;LOR-500159;Montpellier;34000;22;F;Premium;3.9;124;Vichy;Parfum;Oui;2025-10-05
+a50733035181e9eeb5ad;d72f6b0ef2f7abb804bc;LOR-500160;Marseille;13008;43;H;Découverte;0.5;24;Giorgio Armani;Cheveux;Oui;2022-03-24
+b969f181fb9e623f2ef7;89adaf718a807b9541b3;LOR-500161;Strasbourg;67000;44;F;Découverte;0.9;42;Vichy;Maquillage;Oui;2024-11-22
+41cf37a0ac8f40de85b5;909f6dc2023cb2d83953;LOR-500162;Bordeaux;33000;40;F;Standard;1.3;48;La Roche-Posay;Cheveux;Oui;2023-05-23
+d4ae698f460d95719d41;dff273deab19c3f72e13;LOR-500163;Boulogne;92100;32;F;Premium;2.2;86;Kiehl's;Maquillage;Oui;2023-11-24
+1a882f492fd0e6f9c206;53003649df9850958fa3;LOR-500164;Paris;75012;33;F;Premium;2.5;106;L'Oréal Paris;Maquillage;Non;2025-12-19
+3989b734c53c990decac;052a9f96ae4d7abdbe47;LOR-500165;Versailles;78000;39;F;Premium;3.7;83;La Roche-Posay;Solaire;Non;2023-10-28
+b5f8bcfc016f8e20f79f;4b1d01896d24d754c7b8;LOR-500166;Lyon;69003;41;F;Premium;4.4;142;Maybelline;Parfum;Oui;2022-05-07
+bd50b244313f531ae653;a429c9ccd83a1a98e1cf;LOR-500167;Nice;06000;36;H;Standard;1.8;45;L'Oréal Paris;Soin corps;Oui;2024-03-15
+8d91cb11d5720a2095b2;e823e357f95821abae35;LOR-500168;Versailles;78000;63;F;Standard;1.7;44;Giorgio Armani;Soin visage;Oui;2022-03-11
+d1040cd013fc96cf2aab;7fe835f429997ca7c5fd;LOR-500169;Rennes;35000;49;H;Premium;2.5;105;Maybelline;Soin visage;Non;2022-11-14
+08fff571956ed2693422;363b71bf75cf90861d87;LOR-500170;Versailles;78000;44;F;Standard;1.3;74;La Roche-Posay;Maquillage;Non;2022-03-09
+1bef117c719711e2dba0;a63fefe58a4ab87702f6;LOR-500171;Saint-Denis;93200;21;F;Standard;1.9;84;Maybelline;Maquillage;Oui;2022-04-09
+c79eab40294ba7f258f4;18b19398932d38e4d517;LOR-500172;Lyon;69003;65;H;Standard;1.0;86;Maybelline;Solaire;Oui;2023-11-26
+bb81e99755ba8bdd64bc;732941c8860c35792757;LOR-500173;Rennes;35000;49;F;Premium;2.9;113;Yves Saint Laurent;Soin corps;Non;2025-06-27
+29d566f4506453f605d2;07235f0676690b3ddff2;LOR-500174;Montpellier;34000;52;F;Premium;4.0;86;Garnier;Maquillage;Non;2025-03-26
+bf3467fdb2b989eeacdd;facd1d7d6b8a34aa656b;LOR-500175;Versailles;78000;52;H;Standard;1.8;73;La Roche-Posay;Soin corps;Oui;2024-12-09
+af561b53001c9fcfa98a;f01385644845a2140c73;LOR-500176;Versailles;78000;41;F;Découverte;0.5;24;Kiehl's;Soin visage;Oui;2022-02-02
+d9aab9edc5b36159bdce;4ec0fdacefeb50c2ffe2;LOR-500177;Paris;75012;26;F;Prestige;6.3;281;Yves Saint Laurent;Soin corps;Oui;2025-05-23
+6a588d2c5106b4dfff83;9e4b372f64ff1dc4a1e9;LOR-500178;Marseille;13008;56;H;Prestige;7.1;298;La Roche-Posay;Solaire;Oui;2025-02-06
+0a959e73878e3a31432a;886cdeb769a310b53219;LOR-500179;Paris;75012;47;H;Premium;4.4;138;La Roche-Posay;Parfum;Oui;2023-02-13
+6683b82065e3af05896e;dd602e002b53e61d6da8;LOR-500180;Grenoble;38000;23;H;Premium;3.7;104;Garnier;Maquillage;Oui;2024-05-10
+de31e028cdfa1fdd470c;3943798159d790c13b3b;LOR-500181;Paris;75012;35;F;Premium;2.0;156;L'Oréal Paris;Soin corps;Oui;2023-01-28
+850b3e06ab511cb8e3ec;03157e4bb0aa071dd17e;LOR-500182;Rennes;35000;38;H;Premium;3.9;104;L'Oréal Paris;Cheveux;Non;2023-07-14
+ef140a99ddc262906fdf;e960ed7c46493301f89a;LOR-500183;Boulogne;92100;27;H;Standard;1.5;46;Maybelline;Soin corps;Oui;2023-03-12
+e27ff77225e1901d7a83;1916027766f426825ba6;LOR-500184;Montpellier;34000;45;F;Premium;2.2;157;La Roche-Posay;Cheveux;Non;2023-03-19
+6be88c7ae99ba6be0e2e;f40c1dab21ad2d4238e9;LOR-500185;Lille;59000;24;F;Premium;4.3;85;La Roche-Posay;Solaire;Non;2025-04-14
+f799c677230f6e4889a3;76088d1ccec0c0c4debe;LOR-500186;Paris;75012;21;H;Premium;4.0;117;Vichy;Soin corps;Oui;2024-11-09
+6e3181e2eb3599c952fe;9cb2149845b56fe91bd5;LOR-500187;Versailles;78000;55;F;Standard;1.2;76;Lancôme;Soin visage;Oui;2023-12-28
+8b4a3baf33af2500e9a2;8d3f621734fd13aae8a1;LOR-500188;Strasbourg;67000;29;H;Premium;2.2;89;Yves Saint Laurent;Solaire;Oui;2023-07-18
+9e2f407cefc7264b7de8;5b5c953d97a25e605dc5;LOR-500189;Bordeaux;33000;58;F;Premium;3.0;94;Garnier;Cheveux;Oui;2025-05-10
+ef31938be792a85a0754;618f1147e9bc76602a46;LOR-500190;Montpellier;34000;70;F;Standard;0.9;66;Garnier;Soin corps;Oui;2024-09-11
+91efb83c4d9cf6cd570e;91a9ac3e56902c7c4b59;LOR-500191;Grenoble;38000;27;F;Standard;1.1;73;Kiehl's;Maquillage;Oui;2023-02-20
+fefa49043124d726d455;af910f616aa98d6bcc8e;LOR-500192;Paris;75012;41;H;Premium;4.0;119;L'Oréal Paris;Maquillage;Non;2024-09-07
+edbb100b4f3302536fc1;840f201d89d75666a1c2;LOR-500193;Saint-Denis;93200;31;F;Standard;1.9;40;Maybelline;Maquillage;Oui;2024-10-23
+2d8b993ded24c95d5737;3f39bc773d9d90277405;LOR-500194;Nantes;44000;28;H;Premium;3.3;87;Vichy;Soin visage;Non;2023-12-01
+b532b310ad1e79177558;7ca80c967b3055d450b2;LOR-500195;Paris;75012;53;F;Prestige;5.7;279;La Roche-Posay;Solaire;Oui;2024-03-09
+940d0f5229324f3b3478;66ca97f1db2b8cd75a45;LOR-500196;Marseille;13008;46;H;Premium;2.6;100;Lancôme;Soin visage;Oui;2025-09-23
+e9b706addffa8f15ae5b;eb600a796c0c2f9221da;LOR-500197;Nice;06000;63;H;Premium;3.9;151;Vichy;Solaire;Oui;2023-08-14
+c1a2c24367878c159abd;0668aac0d663c68a3b28;LOR-500198;Rennes;35000;51;F;Découverte;0.7;45;Yves Saint Laurent;Maquillage;Oui;2024-02-01
+75e536acbf6450a77dca;eef7bedc84679c452637;LOR-500199;Montpellier;34000;60;F;Découverte;0.4;26;Garnier;Cheveux;Non;2023-06-06
+11b417ea96f0d1a37dfc;3ddeebddc06a26b90e40;LOR-500200;Nantes;44000;46;F;Premium;4.1;131;Yves Saint Laurent;Solaire;Oui;2025-11-24
+8f83cd4f6b6909d34037;e0f831bd75993b78328f;LOR-500201;Nice;06000;73;F;Premium;2.0;114;Kiehl's;Soin corps;Non;2025-07-04
+b882d999037d14598962;5ed51dad618792243da4;LOR-500202;Lille;59000;62;F;Premium;2.3;111;Maybelline;Maquillage;Non;2022-12-27
+29b73a70169e7acbb0e9;df3ac08913adb202ab65;LOR-500203;Nice;06000;18;F;Standard;1.6;83;La Roche-Posay;Cheveux;Oui;2023-06-15
+e123eec862523536096a;d268dbd31a6bc86547ef;LOR-500204;Montpellier;34000;34;H;Premium;3.5;108;Vichy;Solaire;Non;2022-08-24
+77d479ddd24e32bb4e7a;6bab5690fbc5099e41eb;LOR-500205;Nantes;44000;42;H;Premium;4.2;98;Vichy;Cheveux;Oui;2022-08-19
+f56dc6ada00e969bb67c;e984614cc50b3c97743c;LOR-500206;Lille;59000;31;F;Standard;1.5;51;L'Oréal Paris;Soin corps;Oui;2022-09-07
+c848044ac8dfc6747a56;c5347cc9d9a2d5633fd5;LOR-500207;Lille;59000;59;F;Standard;0.9;68;Giorgio Armani;Soin corps;Non;2022-07-10
+3b0d47d6da82909031ae;067ab52a92d787341f3f;LOR-500208;Boulogne;92100;54;F;Standard;1.2;86;Lancôme;Parfum;Oui;2022-01-06
+4695ca81ac375d97c5f2;0c43f68a3903952bbbd0;LOR-500209;Marseille;13008;27;H;Premium;2.1;82;L'Oréal Paris;Cheveux;Oui;2024-09-04
+5f6681e1e159532ed6bb;3205a5894683ad3f41ff;LOR-500210;Montpellier;34000;24;H;Standard;1.5;65;Garnier;Cheveux;Oui;2025-05-27
+e6ca0e503cd61374dde3;73a13291db10897077f2;LOR-500211;Boulogne;92100;69;H;Découverte;0.9;43;Lancôme;Soin visage;Oui;2023-01-22
+f2fe13047ab1db245bce;0f8593f7ee6e564c8da3;LOR-500212;Paris;75012;43;F;Premium;3.7;125;La Roche-Posay;Soin corps;Oui;2022-09-09
+a660342e0acbe7e3cbf0;e8372f9d2beed65b2c48;LOR-500213;Paris;75012;37;F;Standard;1.4;63;Garnier;Soin corps;Non;2022-11-04
+87330d9163627db93473;b3210277f12af49f82d9;LOR-500214;Paris;75012;59;F;Premium;4.2;134;Giorgio Armani;Parfum;Oui;2024-05-05
+027b172ed57f64f68e5b;c0a57b92b036ae7bd4c3;LOR-500215;Marseille;13008;38;F;Standard;1.1;60;L'Oréal Paris;Soin visage;Oui;2023-03-04
+3a1b58e601ec0e18eaef;e87b6286a60d5b9fcff4;LOR-500216;Lyon;69003;27;H;Premium;3.5;102;Lancôme;Parfum;Oui;2023-11-21
+9999e31edda847273fad;13dcefcd7fa48e390767;LOR-500217;Montpellier;34000;34;F;Standard;1.4;69;La Roche-Posay;Parfum;Non;2023-10-14
+767da7f41b53e550c280;165f8604a9c88ce7249e;LOR-500218;Marseille;13008;41;H;Premium;4.1;142;L'Oréal Paris;Parfum;Non;2024-04-04
+942f8f76a14582258768;19deacbf86a02dac0bc1;LOR-500219;Lyon;69003;69;F;Premium;4.2;96;Yves Saint Laurent;Solaire;Oui;2023-11-05
+d60d28160d74a7c85fee;27139ad8a75bea2cabfa;LOR-500220;Strasbourg;67000;53;H;Standard;1.7;74;La Roche-Posay;Solaire;Non;2024-09-11
+2511794ee05515bc8a9e;4dd58464d7a6d3c438d4;LOR-500221;Strasbourg;67000;28;H;Premium;2.8;92;La Roche-Posay;Soin corps;Oui;2022-08-03
+914a4a42f3bbcae9cd47;4e1df254ba57ebd4b3de;LOR-500222;Rennes;35000;48;H;Prestige;8.6;293;L'Oréal Paris;Parfum;Oui;2023-06-21
+e2578ca8179644f02e5e;2f392c3e7197a849ac83;LOR-500223;Lyon;69003;63;H;Premium;2.7;94;La Roche-Posay;Cheveux;Oui;2025-04-09
+4419819aa9f2b21991c9;1e600327e9b777d885cc;LOR-500224;Lyon;69003;49;F;Premium;2.5;83;Garnier;Maquillage;Oui;2022-02-23
+a01f885f14e4e66e5813;e413b0d0ac7186be4689;LOR-500225;Strasbourg;67000;43;H;Premium;3.3;145;Kiehl's;Cheveux;Oui;2024-03-16
+073db065fe4b2cea3e5d;1ab69594a2fc8cc6a788;LOR-500226;Rennes;35000;41;F;Premium;2.7;120;L'Oréal Paris;Soin corps;Oui;2023-06-24
+de3966e1c1595f9261cc;6ee478e80d23cacafdfd;LOR-500227;Toulouse;31000;37;F;Premium;4.0;125;L'Oréal Paris;Parfum;Oui;2025-02-24
+9083e632f9989b0476e2;4abff0d0cada05748252;LOR-500228;Saint-Denis;93200;25;F;Premium;4.3;119;Vichy;Maquillage;Non;2024-07-21
+7e25685bd7e23218d58a;8838703db212fe9adf53;LOR-500229;Lyon;69003;55;F;Standard;0.9;79;Lancôme;Cheveux;Non;2024-08-08
+469da1dbfb585736e75c;b67fa4afd22925ca1e51;LOR-500230;Strasbourg;67000;33;F;Standard;1.9;80;Vichy;Solaire;Non;2024-05-06
+d086b158177f22e2cbb5;997c984b4ff5dc2dcdf6;LOR-500231;Nice;06000;67;H;Standard;1.4;81;La Roche-Posay;Soin corps;Oui;2024-08-11
+8349cf095760e97e5a67;7e29bfab11593ba77882;LOR-500232;Marseille;13008;35;F;Standard;1.0;38;Yves Saint Laurent;Soin corps;Non;2025-12-18
+c3f670326d15879005df;e2f9612ec934114d6d1c;LOR-500233;Montpellier;34000;42;H;Standard;1.8;69;Maybelline;Soin visage;Oui;2022-06-25
+5fbf599d975ad02fd3a4;24f8a786825b78edafca;LOR-500234;Versailles;78000;55;H;Standard;1.9;62;Kiehl's;Cheveux;Oui;2022-02-06
+3b422c9876bef11a3699;8f6b1c3824f61efbe6a2;LOR-500235;Nice;06000;43;F;Standard;1.4;84;Giorgio Armani;Cheveux;Oui;2022-05-11
+4b5f6854d1b6922fd3a6;721f08eda75d630d0196;LOR-500236;Saint-Denis;93200;39;F;Standard;1.8;89;Yves Saint Laurent;Soin corps;Oui;2022-06-11
+cbd166cb19fa50da2b48;82385f0eb4b5bf3a9187;LOR-500237;Grenoble;38000;31;F;Premium;4.3;91;Garnier;Cheveux;Oui;2025-12-01
+7939bdcc46384882ad10;3343d18a028407d71eed;LOR-500238;Versailles;78000;55;H;Standard;1.6;71;Yves Saint Laurent;Soin visage;Oui;2023-10-16
+f25176e27afa44ffe557;9ace14f2f8d2cb0e4c9d;LOR-500239;Lille;59000;47;H;Premium;2.8;153;Garnier;Soin visage;Non;2022-01-10
+f59f8a8edb9e4b026ef6;bb5d8865884d1955557e;LOR-500240;Rennes;35000;49;F;Premium;2.7;123;Giorgio Armani;Soin corps;Oui;2023-08-03
+4d0def0a7336c6022e18;facf56c49f8b983d7a7f;LOR-500241;Paris;75012;51;H;Premium;3.8;110;Lancôme;Solaire;Oui;2024-07-03
+0358a7f7b6f975fe66e5;d81ea04f1a854805c412;LOR-500242;Rennes;35000;34;F;Premium;3.1;128;Kiehl's;Parfum;Oui;2022-02-13
+5279fcd15ad11c2ce066;d32f53ee31bb371cac71;LOR-500243;Marseille;13008;32;H;Premium;3.7;110;Maybelline;Soin visage;Oui;2025-11-13
+9591c6d18fead2770951;9c78430cf361643ab457;LOR-500244;Lyon;69003;28;F;Premium;2.6;112;Lancôme;Soin visage;Non;2025-06-21
+39251f5f45cbaccc2391;a563acb9c7b3988eee11;LOR-500245;Paris;75012;38;H;Découverte;0.5;27;Giorgio Armani;Solaire;Non;2022-03-16
+812efd754b8d66e2c5e1;14503f961808e3f5af85;LOR-500246;Bordeaux;33000;34;H;Découverte;0.6;60;L'Oréal Paris;Soin corps;Oui;2023-10-11
+f4c76a5cbeb19a7fcb7d;c6a06d6d1b0734a63baf;LOR-500247;Montpellier;34000;43;F;Standard;1.5;51;Lancôme;Cheveux;Oui;2023-09-18
+6619f904a14d477d0d05;d463539fb9bffd13115a;LOR-500248;Saint-Denis;93200;52;H;Standard;1.3;42;La Roche-Posay;Cheveux;Non;2025-03-28
+b97894b3c14a7a82aa51;2f13461ff323cba8408b;LOR-500249;Versailles;78000;49;F;Premium;4.2;151;Vichy;Parfum;Non;2022-04-10
+9f7613c683a2f9d827d7;41d19069060c81c25800;LOR-500250;Montpellier;34000;18;H;Découverte;0.7;48;La Roche-Posay;Cheveux;Oui;2023-04-13
+73b3a86eedbc4841adc7;655f84f14493ef7c3077;LOR-500251;Boulogne;92100;67;F;Premium;2.0;157;Yves Saint Laurent;Parfum;Oui;2025-01-06
+a6d34e141bf463fb85ed;f04e6296482fcb3de113;LOR-500252;Saint-Denis;93200;75;F;Premium;2.9;88;Giorgio Armani;Soin visage;Non;2022-12-21
+591c5ebb97100a5a9552;befe0484b86c30872c5e;LOR-500253;Saint-Denis;93200;29;F;Premium;2.0;143;L'Oréal Paris;Soin visage;Non;2023-03-09
+816459b2246583ec5ee2;4eb98465759707173497;LOR-500254;Montpellier;34000;40;F;Premium;4.1;158;Kiehl's;Maquillage;Oui;2025-01-19
+2da1c416924420c31757;9f78e984fed7a6437790;LOR-500255;Marseille;13008;41;H;Standard;1.3;48;La Roche-Posay;Soin visage;Oui;2024-03-06
+e11d82a4ee3c65707f83;a21b190fad05b93ca224;LOR-500256;Saint-Denis;93200;25;F;Premium;4.2;92;Lancôme;Soin visage;Oui;2024-07-17
+faf66b9c4689a0db8ccf;589d1ccac4d52dcbf376;LOR-500257;Paris;75012;37;F;Premium;2.5;137;Kiehl's;Soin visage;Oui;2024-04-13
+a0d462ffd663c81d1d3e;914adff5390be368e57a;LOR-500258;Lille;59000;37;F;Découverte;0.4;20;Maybelline;Soin corps;Non;2024-01-02
+7ef5b5a09567fd152767;44592f94ae41be3f96f4;LOR-500259;Rennes;35000;36;F;Prestige;5.2;146;Yves Saint Laurent;Maquillage;Oui;2025-03-06
+8035867f86a297535cb1;0d108fa02799812a0457;LOR-500260;Rennes;35000;55;H;Prestige;5.0;260;Kiehl's;Maquillage;Oui;2022-05-11
+6a6e598aef764a172f83;08048d58e38a912dffc5;LOR-500261;Strasbourg;67000;61;H;Découverte;0.4;30;Yves Saint Laurent;Soin corps;Oui;2025-05-10
+d9bf7fee97fb26a85be3;4f9475d76923440e86b6;LOR-500262;Marseille;13008;40;H;Premium;4.4;96;Yves Saint Laurent;Solaire;Oui;2022-03-11
+540821295e2c14fa5cd7;880ee0ef676ab3b7f816;LOR-500263;Grenoble;38000;39;F;Premium;2.7;154;Maybelline;Soin corps;Oui;2025-10-01
+9379c61fdafccaec6257;f71e39c3f8d1c8cc5010;LOR-500264;Montpellier;34000;75;H;Premium;3.6;140;Maybelline;Cheveux;Oui;2022-11-05
+6cb8b1a31b534d7e04d8;369d1c796208955f2f0e;LOR-500265;Lyon;69003;21;F;Premium;3.7;84;Yves Saint Laurent;Parfum;Non;2022-03-26
+cb9dc1fb4782b5d71242;74d6dec12bdb3ee38f5e;LOR-500266;Strasbourg;67000;45;F;Premium;4.5;132;Vichy;Cheveux;Non;2025-03-07
+f530cd3673dba113fe63;db217681b4b84817e82a;LOR-500267;Grenoble;38000;54;H;Premium;4.3;113;Giorgio Armani;Soin corps;Non;2022-10-04
+b41afa32f899b0c08a73;7d838c5231aac63468c0;LOR-500268;Nice;06000;20;H;Standard;1.5;38;Garnier;Maquillage;Oui;2023-04-26
+dc5b9854c6fc5a0339f1;cc64a93598369e0b3ad3;LOR-500269;Toulouse;31000;37;F;Premium;3.4;144;Garnier;Soin corps;Oui;2024-07-06
+9b2d4949d27a4cd44689;48a1b93d2c422a9baec8;LOR-500270;Lille;59000;20;H;Premium;2.4;98;La Roche-Posay;Soin visage;Oui;2023-01-02
+bd9f2bb06a451011a0d8;64617efaa3d26b008d96;LOR-500271;Lyon;69003;59;H;Prestige;6.7;243;Lancôme;Soin visage;Non;2022-02-09
+05dca52cb9ee90d2655b;b76d682901ec72a500ab;LOR-500272;Marseille;13008;20;F;Prestige;8.0;238;Giorgio Armani;Maquillage;Non;2025-04-15
+fe6384561ea5a4b3dc36;a13a5a0e34c229b9fbfe;LOR-500273;Strasbourg;67000;27;H;Standard;1.7;59;La Roche-Posay;Parfum;Non;2022-09-14
+e6f85f10466e474da167;dc511962861850a17dc0;LOR-500274;Toulouse;31000;27;H;Premium;2.6;145;Vichy;Soin visage;Oui;2023-08-03
+868d53addb9b0c82d2ea;80d7def1f9a8ea729625;LOR-500275;Marseille;13008;30;F;Découverte;0.7;52;L'Oréal Paris;Maquillage;Oui;2023-11-09
+143b0efb54d620f195bc;305fc9ee55b52404f0d3;LOR-500276;Rennes;35000;54;H;Standard;1.0;61;La Roche-Posay;Soin corps;Non;2024-05-19
+567cf735c18c120303e9;018a01f5fd0a71d8cc6c;LOR-500277;Bordeaux;33000;35;F;Découverte;0.8;28;Lancôme;Maquillage;Non;2022-12-17
+b1569c2aab7f60f5b654;b203097a02bfdcf70364;LOR-500278;Marseille;13008;53;H;Premium;2.6;80;Lancôme;Cheveux;Oui;2022-08-09
+5d95afaabd7f56b6435c;4fae85c9cd22e22851d3;LOR-500279;Boulogne;92100;38;F;Standard;1.7;54;Giorgio Armani;Parfum;Oui;2022-01-10
+8ca78cdc924d7474aa31;4eda56be04d2746dc125;LOR-500280;Montpellier;34000;27;F;Prestige;7.1;224;Vichy;Soin visage;Non;2023-11-11
+e58b4d68b3f1f4c83109;4cdb609047beca3ee817;LOR-500281;Marseille;13008;48;H;Premium;3.7;87;Giorgio Armani;Soin visage;Oui;2025-07-01
+75a5c2d838291cab71d4;7f60d1d09478258389fe;LOR-500282;Nice;06000;22;F;Prestige;4.6;162;Vichy;Soin visage;Oui;2022-03-01
+620e71153e445ba89784;84edc4680d86741a9caf;LOR-500283;Toulouse;31000;63;F;Standard;1.2;83;L'Oréal Paris;Parfum;Oui;2022-05-21
+3f12529653b572dba1f9;5c5ad16a83c4bc0cb3e4;LOR-500284;Lyon;69003;22;F;Premium;3.1;129;Yves Saint Laurent;Parfum;Oui;2022-06-16
+675cf3e55a4dda59ee0e;c23bb2925d458ee8642b;LOR-500285;Strasbourg;67000;42;F;Standard;2.0;50;Vichy;Soin visage;Oui;2025-09-06
+d5ac803a53e60f0a8b6f;db4fad3b59ffd8ce2722;LOR-500286;Strasbourg;67000;25;H;Premium;2.3;130;Vichy;Soin corps;Non;2025-06-23
+07091ff1b8f0725347a0;bebe33fb007c630abf94;LOR-500287;Rennes;35000;28;F;Standard;1.1;61;Garnier;Parfum;Non;2024-08-15
+50203e228a5d33fb90e5;20a3006f5a20481a7378;LOR-500288;Bordeaux;33000;49;F;Standard;1.6;41;Garnier;Cheveux;Oui;2024-03-05
+5f06fa685687337d7d1c;4016c0d9c6f81ba8d902;LOR-500289;Lyon;69003;27;F;Premium;4.0;128;Kiehl's;Soin visage;Oui;2025-05-20
+d2571bc97ab1dac3a6ee;4363ef13a88b34af787b;LOR-500290;Montpellier;34000;33;H;Standard;1.5;86;Yves Saint Laurent;Soin visage;Oui;2025-04-18
+22a6b6087eff59c5a5fb;4e7be7b0817e7ab2a2d8;LOR-500291;Montpellier;34000;32;H;Premium;3.2;119;L'Oréal Paris;Cheveux;Non;2023-12-03
+18d6670fca5cf4b80885;5060da8b969c08b79e07;LOR-500292;Lille;59000;61;F;Premium;4.0;113;Yves Saint Laurent;Soin visage;Oui;2023-02-06
+70cd5228981a5facd08c;bd9f119737b187449a9d;LOR-500293;Lyon;69003;34;F;Standard;1.7;90;Vichy;Soin visage;Oui;2025-01-27
+ec8d274f50276e8ebdd3;4c7531d26db45d8f3882;LOR-500294;Marseille;13008;34;H;Découverte;0.9;32;Lancôme;Solaire;Oui;2022-10-15
+a1e0212d8b7f23a4e7ae;e0da4f3f30c145085f08;LOR-500295;Bordeaux;33000;45;F;Premium;3.5;84;Maybelline;Soin visage;Oui;2022-12-16
+b770b34b44e75965ef44;8fa58d75aecbc97845aa;LOR-500296;Boulogne;92100;30;F;Standard;1.6;83;Kiehl's;Parfum;Non;2022-12-17
+9eaef264c8f84f9e3547;9421ce8f01f79f7ebc10;LOR-500297;Boulogne;92100;58;H;Premium;2.7;122;Lancôme;Solaire;Oui;2022-04-15
+22ecfaf6fa29c987a0cb;6442390c92ffaa26a097;LOR-500298;Strasbourg;67000;44;F;Premium;2.4;151;Lancôme;Soin corps;Oui;2025-10-25
+0fbcb0ee78f038cdd2fd;5ec26bf3b84321d9e544;LOR-500299;Rennes;35000;53;F;Prestige;5.1;281;Kiehl's;Maquillage;Oui;2025-05-16
+a80316d7ebb3df19a0d6;d147eaaba5db7c55a0b3;LOR-500300;Boulogne;92100;59;F;Premium;2.5;133;Lancôme;Maquillage;Oui;2022-11-24
+609fa5a462bdc8a1e9d3;df8a649b7fcef494846d;LOR-500301;Montpellier;34000;21;F;Standard;1.8;76;L'Oréal Paris;Maquillage;Oui;2023-07-06
+52734ae668b5bf8bb53f;37cf1c4299f989c12336;LOR-500302;Saint-Denis;93200;51;F;Premium;3.0;128;Maybelline;Parfum;Oui;2025-01-13
+5ace456afdfd08ae5fd7;d38c072488ff26483d16;LOR-500303;Grenoble;38000;46;F;Standard;1.3;89;Kiehl's;Soin visage;Oui;2022-12-04
+54e8c3ea0445b44810bc;06ba016d32b9da0e35c0;LOR-500304;Paris;75012;29;F;Standard;1.3;47;Garnier;Parfum;Oui;2024-04-23
+4724622f0a191ae98b3b;fbf257a5b3e07f0f1a8d;LOR-500305;Toulouse;31000;32;H;Standard;1.1;67;Lancôme;Soin visage;Oui;2022-12-14
+8a82b5ae8d5f9153da48;255e3691434880aa77ca;LOR-500306;Nantes;44000;52;F;Standard;1.2;58;Maybelline;Solaire;Oui;2025-12-10
+86b825b0fd4056ec9e58;aaad51c32d24d8b0a5ff;LOR-500307;Lyon;69003;45;F;Premium;2.6;109;Yves Saint Laurent;Soin visage;Oui;2022-02-25
+9a011e50aa7bf716443e;1c3f3f9f2d0cc2ac3d8c;LOR-500308;Lille;59000;43;H;Premium;2.6;134;Maybelline;Maquillage;Non;2024-06-24
+9345f5c4d7c164591ea3;04077d047d8c1c92b1eb;LOR-500309;Marseille;13008;18;H;Standard;1.7;86;Giorgio Armani;Cheveux;Oui;2025-09-04
+5ddffb8fea46ed195e62;e196218a0f5667f551ee;LOR-500310;Grenoble;38000;54;H;Premium;2.9;139;Vichy;Soin visage;Oui;2024-05-14
+6f9b328df5b16cd65bf3;22884bcb4233e871a266;LOR-500311;Lyon;69003;41;F;Standard;1.1;37;Maybelline;Soin visage;Oui;2025-04-02
+f73f8b3523d040fddef1;24e5258a46ba36c46de2;LOR-500312;Rennes;35000;26;H;Standard;1.8;76;Lancôme;Maquillage;Oui;2025-06-10
+0c2383ee78b1673a48a1;50ebe0aad9b7f55b4736;LOR-500313;Grenoble;38000;29;F;Découverte;0.5;40;Maybelline;Solaire;Oui;2025-01-06
+76b6c8204df31b8b5260;ffffd70a354aa8199c77;LOR-500314;Strasbourg;67000;57;F;Premium;3.9;137;L'Oréal Paris;Soin visage;Oui;2025-07-09
+1eb11389af49d2c3cfba;d394ff3cabf9ee2e8bd6;LOR-500315;Grenoble;38000;39;F;Premium;4.2;106;Garnier;Soin corps;Oui;2025-12-05
+8efbf3f9de62e3d9f2ea;1aed78e77841beeff33d;LOR-500316;Boulogne;92100;38;H;Premium;4.2;157;Lancôme;Parfum;Non;2025-10-22
+88e674542c6d8691f2e2;07f3d7069e8e29997b24;LOR-500317;Montpellier;34000;28;F;Premium;2.8;124;Garnier;Cheveux;Oui;2025-04-19
+755589e99a8790045f34;4c3a6fd8e500c436fec2;LOR-500318;Montpellier;34000;25;F;Premium;4.3;81;La Roche-Posay;Soin corps;Oui;2022-12-16
+abc974ddf685c4d5849f;f63a689432c55cb4044e;LOR-500319;Toulouse;31000;59;H;Premium;3.2;89;Garnier;Parfum;Oui;2023-08-07
+3b08343c520169d83e31;b9c576cad1ac3c72a717;LOR-500320;Rennes;35000;42;F;Découverte;0.4;29;Yves Saint Laurent;Soin visage;Oui;2025-06-21
+01b92757f63d774b9b4b;bf64d937f24b426b6d46;LOR-500321;Boulogne;92100;19;H;Découverte;0.6;59;Garnier;Parfum;Oui;2024-05-27
+5d1f7420c35ed4f0a4fe;cdaad2df82d86a0d1578;LOR-500322;Nice;06000;23;F;Premium;2.6;154;Kiehl's;Maquillage;Oui;2023-12-14
+27513864752906904e32;38ea04f8b9223f17f6d8;LOR-500323;Bordeaux;33000;55;F;Découverte;1.0;45;Maybelline;Soin visage;Oui;2025-09-01
+3ef4f0ef5553159fa521;da577fb4ee305a1fab05;LOR-500324;Boulogne;92100;33;H;Découverte;0.9;48;Lancôme;Parfum;Non;2022-01-10
+16d073c55471e3569451;a914c898747d927a9470;LOR-500325;Saint-Denis;93200;42;F;Standard;1.4;71;Yves Saint Laurent;Soin corps;Oui;2024-08-14
+fd5783d47c7c287bb43e;b854311e604dbc631680;LOR-500326;Marseille;13008;38;F;Découverte;0.7;23;La Roche-Posay;Cheveux;Non;2024-02-23
+a615bd64dbf0a25adefb;abd2beb512156a5d1338;LOR-500327;Marseille;13008;59;F;Standard;1.4;69;Yves Saint Laurent;Soin corps;Oui;2024-11-02
+861415e24ce9df14d9d3;d6ed24adb72b8eb623f1;LOR-500328;Saint-Denis;93200;48;F;Premium;4.0;137;Kiehl's;Soin corps;Oui;2024-06-07
+948e5e280251edf09d09;318dabd2c066fdfdaa30;LOR-500329;Nantes;44000;50;F;Standard;1.5;89;L'Oréal Paris;Soin visage;Oui;2025-06-25
+c67885f69e8ebd7d799c;d6848e10d145a60b7448;LOR-500330;Nice;06000;62;F;Premium;2.4;152;Lancôme;Maquillage;Oui;2022-06-25
+41480fb55908d3bf02d9;8a7c6d284bbdc234c5c9;LOR-500331;Toulouse;31000;37;F;Standard;1.5;37;Kiehl's;Maquillage;Oui;2023-04-07
+dcfbeb36f7d574d854b8;0509042bd09a16dc1ffd;LOR-500332;Lyon;69003;71;H;Premium;2.6;122;Giorgio Armani;Parfum;Oui;2024-12-22
+e9342b0176aa45f41737;6742b1b8340a67583583;LOR-500333;Nice;06000;42;H;Découverte;0.7;33;Giorgio Armani;Maquillage;Oui;2023-05-28
+13dffd47d6e59c2543aa;dad61ec682816e4aefb0;LOR-500334;Montpellier;34000;33;F;Premium;3.5;124;Giorgio Armani;Soin visage;Oui;2024-05-03
+0c00bbf9cce8197d45aa;be1ac7cc463fbc37bf84;LOR-500335;Marseille;13008;61;H;Premium;3.1;158;Lancôme;Soin visage;Oui;2023-08-13
+473532b35892ee712d2f;cd7f235738f45151be7d;LOR-500336;Versailles;78000;50;H;Premium;2.8;129;L'Oréal Paris;Solaire;Oui;2023-08-11
+d303a22818f0992cda64;d9518b29d3324795f66c;LOR-500337;Toulouse;31000;43;H;Standard;1.0;65;Vichy;Maquillage;Oui;2024-08-11
+cea1f2fb8d203da0778c;5149306691a732321630;LOR-500338;Lyon;69003;36;F;Premium;3.6;83;Maybelline;Maquillage;Oui;2022-10-19
+29c1154ae018824cb0f6;f3a1ce85499de66b69be;LOR-500339;Grenoble;38000;40;F;Premium;3.3;87;Yves Saint Laurent;Soin visage;Oui;2023-06-12
+225456e7409f0505c287;03a41aa5f08f22408653;LOR-500340;Strasbourg;67000;47;F;Prestige;4.5;166;Maybelline;Soin corps;Non;2025-11-05
+0b1cc8bb1459e2adab22;44750f44a192baeb4c4f;LOR-500341;Strasbourg;67000;72;F;Premium;2.3;99;Giorgio Armani;Solaire;Oui;2024-12-18
+2b08024721716462fc3f;60d8ea7c9e14f6173320;LOR-500342;Nantes;44000;27;F;Standard;2.0;66;Maybelline;Solaire;Oui;2023-04-08
+7b02c732d4a86da4004f;660ccbe70e74b87e8c1f;LOR-500343;Rennes;35000;37;F;Standard;1.3;45;Garnier;Solaire;Oui;2025-05-02
+e4a864c255c3c77a9704;6ac496e90019a9aa653f;LOR-500344;Marseille;13008;34;F;Découverte;0.8;54;La Roche-Posay;Solaire;Oui;2025-03-13
+0533523bda2aad73bbea;2d8846f66950a3bb2ad8;LOR-500345;Boulogne;92100;33;F;Standard;1.3;58;Giorgio Armani;Solaire;Oui;2024-02-26
+edaabb1af3725cda15bd;5b347b3699b96008cb6b;LOR-500346;Grenoble;38000;22;H;Standard;1.0;46;Vichy;Maquillage;Oui;2025-03-18
+698265f4d9a8fbbd8805;53000080b76171989840;LOR-500347;Lyon;69003;37;H;Premium;2.6;100;L'Oréal Paris;Cheveux;Non;2023-10-01
+8bdf99383bbeb1825b60;6c78a3ff797cb5adf620;LOR-500348;Nantes;44000;36;H;Standard;1.3;43;Lancôme;Parfum;Oui;2022-10-12
+4c4c2099ff34f5032518;80fd6db03190f934de09;LOR-500349;Grenoble;38000;31;H;Premium;3.2;158;Yves Saint Laurent;Cheveux;Oui;2023-06-25
+4900595321b1e8b2cd7e;d8cc461ffa97db809713;LOR-500350;Saint-Denis;93200;23;H;Premium;2.3;155;Lancôme;Solaire;Oui;2025-01-17
+24e4cfba030966987935;d7d154f9ddbe10c361d1;LOR-500351;Saint-Denis;93200;62;F;Premium;2.1;87;Kiehl's;Soin corps;Oui;2023-12-17
+717da777b7ef4e745d78;517dbfd3b19dade47dbe;LOR-500352;Rennes;35000;45;F;Standard;1.2;62;Vichy;Solaire;Oui;2023-11-04
+c53d197f3b77584a4f58;85985c8f889e6a47c952;LOR-500353;Nantes;44000;27;F;Premium;2.5;113;L'Oréal Paris;Maquillage;Oui;2022-07-12
+2ee4918f3dc41de2b8bf;91cf785c7831be5349cd;LOR-500354;Strasbourg;67000;40;H;Premium;2.3;140;La Roche-Posay;Soin corps;Oui;2022-07-28
+3af4628659faf2a5e622;92b59a631de7b7e62bb3;LOR-500355;Rennes;35000;40;H;Standard;1.0;86;La Roche-Posay;Parfum;Oui;2025-01-03
+25d2d2720b491cb7274a;3af9a4ca955176d0a045;LOR-500356;Strasbourg;67000;33;F;Standard;1.0;45;Giorgio Armani;Soin corps;Oui;2024-05-03
+55d8c9346391a4058a43;479422f9b204dc8d5269;LOR-500357;Nice;06000;56;H;Standard;1.3;87;L'Oréal Paris;Soin corps;Non;2022-03-12
+665e0aae7dc5da8ca0c0;478aba8fe2ed5dabfbaa;LOR-500358;Paris;75012;59;F;Découverte;0.9;56;L'Oréal Paris;Solaire;Oui;2023-04-17
+db589ba8fe08049971a2;ae821330d1bfc45cf9bd;LOR-500359;Saint-Denis;93200;43;H;Premium;2.2;123;La Roche-Posay;Solaire;Oui;2025-12-09
+143705537891153f68de;5cf7e83e42d57fd26028;LOR-500360;Rennes;35000;32;H;Premium;2.7;84;Garnier;Soin visage;Oui;2025-01-10
+098093b610bda778e557;335a1ca7ed47d5c8ab33;LOR-500361;Toulouse;31000;40;F;Premium;3.0;146;Maybelline;Soin visage;Oui;2025-02-18
+0b71a0ec3fe6afe6e833;3c726fe97a3a92480226;LOR-500362;Versailles;78000;31;F;Standard;1.2;43;Giorgio Armani;Soin corps;Non;2022-06-22
+774b50284c0243f8fbc9;032707d7e1e54365344c;LOR-500363;Rennes;35000;64;F;Premium;3.3;84;Maybelline;Solaire;Oui;2022-01-25
+e81f5b7d3bfa6e08ffab;c938bf26783df0f122d4;LOR-500364;Lille;59000;27;F;Premium;3.7;82;Vichy;Soin corps;Oui;2024-01-08
+5b4b3e853f95a29cd8a3;6cbc9424db94acbc44df;LOR-500365;Montpellier;34000;51;H;Standard;1.5;65;Giorgio Armani;Soin visage;Oui;2025-12-26
+cc6cf5c729108f8652c6;d0a8a8fbfd82b9a1746f;LOR-500366;Versailles;78000;35;H;Découverte;0.4;37;Yves Saint Laurent;Cheveux;Oui;2025-09-21
+9f22110bf8c4766cf901;6586924e924f4c708cab;LOR-500367;Nice;06000;32;H;Premium;3.3;129;Vichy;Maquillage;Oui;2023-12-17
+87d4792df623c58379cb;8d2145823c9059c5e015;LOR-500368;Saint-Denis;93200;35;H;Standard;1.4;89;L'Oréal Paris;Cheveux;Oui;2023-02-23
+1fcc46b557f9c29b4d7d;a66f30dbcb1b1aff9c10;LOR-500369;Montpellier;34000;53;H;Premium;4.1;149;Maybelline;Soin visage;Oui;2025-04-06
+1d88410c7ac250a17d06;2b46a5f9c0497ab0ca5f;LOR-500370;Nice;06000;63;F;Standard;1.0;47;Kiehl's;Cheveux;Non;2022-11-19
+6c6213e2fe60c7e2369e;d5594b1f724639b7ae96;LOR-500371;Rennes;35000;27;F;Standard;1.5;84;Yves Saint Laurent;Soin corps;Non;2022-09-14
+6f4905e8981800563df3;341034460dd281eda0df;LOR-500372;Strasbourg;67000;69;F;Standard;1.3;80;Giorgio Armani;Soin visage;Non;2023-06-10
+619ee79a226f309bd1d2;4e5f9382e26794182434;LOR-500373;Paris;75012;58;H;Standard;0.9;61;Vichy;Cheveux;Oui;2022-10-11
+b16967e5aeded622b8ab;c901f18e3b64e26f39db;LOR-500374;Boulogne;92100;39;F;Standard;1.1;49;Garnier;Solaire;Oui;2023-01-23
+cbafd4ecadbf3036aede;297d8138ce28a1481c6c;LOR-500375;Strasbourg;67000;31;F;Premium;3.7;94;Lancôme;Soin corps;Non;2025-11-09
+21a353c34319421a4a47;919ca84aeaeccf70bdad;LOR-500376;Boulogne;92100;42;F;Standard;1.6;59;Kiehl's;Solaire;Non;2022-06-01
+79a18594a9073644b9c5;1eb09b5915dcd0db9777;LOR-500377;Paris;75012;49;F;Premium;2.1;132;Maybelline;Soin visage;Oui;2022-09-21
+b28cc939adb69c86081b;01b326c2654194183042;LOR-500378;Marseille;13008;45;H;Premium;4.2;131;Vichy;Cheveux;Oui;2024-05-27
+3503a635421b5df36000;5a084a621d7c058118d9;LOR-500379;Lille;59000;50;F;Premium;2.1;144;Kiehl's;Solaire;Non;2025-11-09
+db6fdeb93061d3ec1bd3;29e8b76a86bf12f7f3bb;LOR-500380;Marseille;13008;39;H;Prestige;6.1;293;Maybelline;Soin corps;Oui;2023-01-18
+ac5e62ce9cee054c5089;cdf32b17f90280066fb2;LOR-500381;Bordeaux;33000;29;H;Prestige;4.7;184;L'Oréal Paris;Maquillage;Oui;2025-11-21
+77716da153f12edabd9f;c8bad292b75c9e06b9f0;LOR-500382;Grenoble;38000;30;H;Premium;4.5;90;L'Oréal Paris;Solaire;Non;2023-05-06
+54cfa89e2b7d3dc25d64;e9cb453a8a73e668453d;LOR-500383;Toulouse;31000;49;H;Standard;0.8;64;Lancôme;Maquillage;Non;2024-10-15
+d140c4839dd0e45f0a6e;d2370cbe3e9e9527d44c;LOR-500384;Toulouse;31000;49;F;Premium;3.8;80;Vichy;Parfum;Oui;2024-01-12
+1cd1ecbbc00b0f4ee7c7;7c943efc3d8acba9c043;LOR-500385;Versailles;78000;36;F;Premium;3.1;136;L'Oréal Paris;Solaire;Oui;2023-07-27
+b09290eb1b37017a5367;0c198d1728d83a1b7285;LOR-500386;Strasbourg;67000;68;F;Standard;1.5;66;La Roche-Posay;Parfum;Non;2025-07-05
+dfac5ad8512bc9dfa0b5;65a229e4454126afb55e;LOR-500387;Strasbourg;67000;74;H;Découverte;0.6;59;Vichy;Parfum;Non;2022-03-12
+acec3d42749f2992e0b4;68eee374c193e66a68f3;LOR-500388;Bordeaux;33000;53;F;Standard;1.9;82;Kiehl's;Cheveux;Non;2025-03-06
+1dd120d8157dc76476c9;0a286171b18a95ff9eb5;LOR-500389;Marseille;13008;36;H;Découverte;0.6;46;Giorgio Armani;Parfum;Oui;2023-10-24
+3f30c5bb38d5ae03e74e;b634a369c1726af2b7a6;LOR-500390;Rennes;35000;44;H;Standard;1.1;70;Maybelline;Soin corps;Non;2023-06-25
+aae945d6a85a57e146bf;da4a032b18423fea728e;LOR-500391;Lyon;69003;25;F;Premium;2.6;157;La Roche-Posay;Maquillage;Non;2023-10-03
+2cc669bfad368fc91502;1813e892ba23bb152214;LOR-500392;Boulogne;92100;66;F;Premium;2.0;86;Vichy;Maquillage;Non;2022-05-24
+88ab7dc6dd0db3722864;44c54cf1e475e8c3d8d8;LOR-500393;Paris;75012;64;F;Standard;1.1;54;Giorgio Armani;Cheveux;Non;2025-06-05
+059e011cf78926ff6208;9bd095a5beb133bc894b;LOR-500394;Bordeaux;33000;40;H;Découverte;0.7;44;Kiehl's;Solaire;Non;2023-05-01
+b33abd4907d720ebd5ae;ccce430c9206957cd4f3;LOR-500395;Boulogne;92100;73;F;Premium;3.6;109;Maybelline;Soin corps;Oui;2022-10-09
+9870c8dbdc7d2d0aebae;593a0180c510154f1520;LOR-500396;Nantes;44000;19;H;Premium;2.3;84;Garnier;Maquillage;Oui;2022-08-22
+fe98763ab0fc2e8b3546;a0b22555ed0a6d53b3c0;LOR-500397;Rennes;35000;53;F;Premium;2.0;135;Kiehl's;Solaire;Non;2024-01-10
+3cf5dd4e2028d217a0b9;105dcf4ec2f1a8db044b;LOR-500398;Rennes;35000;29;F;Premium;3.2;89;La Roche-Posay;Soin corps;Oui;2022-01-16
+9652f8adff39553c8457;2715e6fe96562b3753b7;LOR-500399;Versailles;78000;42;F;Premium;2.4;108;Kiehl's;Soin visage;Oui;2024-10-24
+89111a14fea31103a4d8;e660342f125dd746f47a;LOR-500400;Bordeaux;33000;20;F;Standard;1.0;37;Kiehl's;Parfum;Oui;2024-08-10
+b74cc023f15f039d20b6;d49fccbd3f3e73d9b1fc;LOR-500401;Versailles;78000;35;H;Premium;2.7;133;Giorgio Armani;Parfum;Oui;2022-12-27
+264b658c1f81074942f2;685d714c9acd812dc01e;LOR-500402;Lyon;69003;38;F;Premium;3.9;151;Maybelline;Solaire;Oui;2023-09-19
+6d706427b979cb87b79c;08b9e14ee4dab31d3697;LOR-500403;Strasbourg;67000;61;H;Premium;3.0;151;Lancôme;Parfum;Oui;2022-12-24
+00434b4499d103a74ba3;87b89ccb613811775920;LOR-500404;Toulouse;31000;44;F;Standard;1.1;77;Yves Saint Laurent;Soin corps;Oui;2025-08-01
+2debf07fc9fa0f885249;4ec2c65369f5cd2cb4f8;LOR-500405;Strasbourg;67000;68;H;Prestige;4.1;219;L'Oréal Paris;Soin visage;Oui;2023-03-03
+85a46e53660a64b10bb6;f6b3a08c42db63a8f1b8;LOR-500406;Boulogne;92100;58;F;Standard;1.3;67;Garnier;Cheveux;Oui;2024-11-23
+35d073248bb4aab82a68;8272e109d1f57c7cd53e;LOR-500407;Lyon;69003;66;H;Standard;0.8;79;Vichy;Parfum;Non;2025-12-20
+6930210d42d2bcd151f2;d538db4282495ef09619;LOR-500408;Bordeaux;33000;51;H;Premium;2.6;104;L'Oréal Paris;Soin visage;Non;2022-07-16
+347489e5bc852709649c;00c657029af3415fbd3f;LOR-500409;Nice;06000;58;F;Prestige;7.6;292;Yves Saint Laurent;Cheveux;Non;2024-04-03
+b7b1915e252a423611d2;55d7db1d795b2d53bc81;LOR-500410;Strasbourg;67000;48;H;Prestige;7.4;164;La Roche-Posay;Cheveux;Oui;2024-03-26
+126418abb40810a8c9e0;a8ed7e4a969e233e8a06;LOR-500411;Marseille;13008;53;F;Premium;2.3;138;Lancôme;Parfum;Oui;2025-11-01
+51c994442d13e691538a;06732c4c54aaf8e62fb2;LOR-500412;Boulogne;92100;51;H;Premium;2.9;148;Giorgio Armani;Soin visage;Oui;2022-05-13
+b2f007e63fc01d341da2;9453c16f3e88f5f41147;LOR-500413;Nantes;44000;39;H;Standard;1.7;86;Kiehl's;Soin corps;Oui;2023-06-23
+49e85e848b6f00279ee4;c0c52f7bea3887c2d76d;LOR-500414;Bordeaux;33000;57;F;Standard;1.1;82;Lancôme;Maquillage;Oui;2025-09-15
+d3ee3aadafeb91b00162;9c9ee820b5b22f32a03d;LOR-500415;Nantes;44000;42;H;Prestige;8.5;153;Vichy;Maquillage;Oui;2022-06-02
+27f45f1731018f797bbd;e6a1eebfebe00fd0039c;LOR-500416;Lyon;69003;23;H;Premium;3.6;159;Lancôme;Maquillage;Non;2022-10-04
+1f7d2454e1ea88420fa4;72fe4bc58d5e6fb21949;LOR-500417;Lille;59000;55;H;Découverte;0.4;36;Kiehl's;Solaire;Oui;2025-06-19
+3057beeab1ef0a095d6e;f9adcebb84d81f81346b;LOR-500418;Nice;06000;29;F;Premium;2.6;130;Garnier;Soin corps;Oui;2023-08-12
+b1d66bc86cfd1d2afc26;811d11e13bdd202ec243;LOR-500419;Paris;75012;39;H;Découverte;0.5;28;La Roche-Posay;Parfum;Non;2024-12-10
+65dd9f4bb623f20e3629;0a6a07fd581ba795961a;LOR-500420;Lille;59000;44;H;Découverte;0.7;44;La Roche-Posay;Cheveux;Oui;2024-05-25
+391ea5e8b646bcdcefc6;d218210f3239007e0533;LOR-500421;Nice;06000;36;F;Premium;2.4;99;Maybelline;Soin visage;Oui;2025-07-01
+5e5017095ddad674c4eb;5b5bc69c77e4fa264a96;LOR-500422;Paris;75012;26;H;Premium;2.3;134;L'Oréal Paris;Soin corps;Non;2023-07-13
+00b1a4f127d3c58c354e;bfb4f863094edad300ba;LOR-500423;Montpellier;34000;48;F;Prestige;5.0;146;Lancôme;Soin visage;Oui;2023-11-24
+8fe090c6028eb63f28cd;912423f884afc3d136d1;LOR-500424;Paris;75012;59;F;Standard;0.9;63;La Roche-Posay;Maquillage;Oui;2024-05-03
+5d5af108c6246ad9f3ae;ec753f8be5f2704cfbd8;LOR-500425;Toulouse;31000;35;F;Premium;2.8;113;Yves Saint Laurent;Solaire;Oui;2025-10-02
+5b6c4e6e5f6ad2c418da;40c1ba1cafcda3ab136d;LOR-500426;Nantes;44000;52;H;Premium;3.4;153;L'Oréal Paris;Solaire;Oui;2023-07-11
+a5b738a3be08d5bdf883;bc06b121e970cf24a9b0;LOR-500427;Rennes;35000;29;F;Premium;2.6;113;Vichy;Cheveux;Oui;2024-11-15
+a96b5001a7165fc0732b;197fc8bdf6e6ce1fbc95;LOR-500428;Toulouse;31000;34;F;Prestige;4.9;261;Lancôme;Solaire;Oui;2023-03-01
+0286d8c35e3d3648c691;2eb312714666c0ceb893;LOR-500429;Toulouse;31000;59;H;Standard;1.0;48;Vichy;Parfum;Oui;2022-03-28
+9a408e45ef2125c6de1b;9133839011f64e4171de;LOR-500430;Montpellier;34000;50;F;Premium;2.6;128;Kiehl's;Parfum;Oui;2025-08-08
+2b49cdde04344b0aff4a;1bde645bd8d66cf03dda;LOR-500431;Montpellier;34000;24;F;Standard;1.4;43;Kiehl's;Soin visage;Non;2022-05-23
+0d336eec0c3421c0166c;ebef694a717a81fa7d1e;LOR-500432;Toulouse;31000;45;H;Découverte;0.9;28;L'Oréal Paris;Soin corps;Non;2022-10-19
+524364992a9d3eb2cc19;8d0616b92d320bc485e8;LOR-500433;Grenoble;38000;74;F;Premium;2.0;90;La Roche-Posay;Maquillage;Oui;2022-08-11
+ce4eea46c2af5bf0f46a;04f0b5d8c4a94dcf3524;LOR-500434;Versailles;78000;59;F;Premium;3.6;83;L'Oréal Paris;Maquillage;Oui;2023-03-25
+480cccd4e7474e72706c;d306dce33d5b64627f4d;LOR-500435;Toulouse;31000;71;F;Standard;1.0;64;Yves Saint Laurent;Soin corps;Non;2022-07-13
+6cad25c14173aa7bcd46;205a937e77b904e513a0;LOR-500436;Nantes;44000;52;H;Découverte;0.3;35;Lancôme;Parfum;Non;2024-03-20
+fdb5704948f4442af207;5c7f9a89d51981efc27e;LOR-500437;Marseille;13008;57;F;Premium;3.6;118;Maybelline;Parfum;Oui;2025-08-26
+34932f7421a4a647e9d3;c14b6fb9a44a9fb505e0;LOR-500438;Paris;75012;71;F;Standard;1.3;88;Lancôme;Maquillage;Non;2025-04-26
+67f01ea93f6188877769;e3679fc0f7b1073f476c;LOR-500439;Bordeaux;33000;67;F;Premium;3.6;132;Maybelline;Parfum;Oui;2025-11-19
+52eddda08472a9067fe2;fd7745742b7162416853;LOR-500440;Grenoble;38000;44;H;Premium;2.5;153;L'Oréal Paris;Cheveux;Oui;2024-10-23
+932e3a86b7c3500121bc;300e2b6060a9a9809155;LOR-500441;Marseille;13008;45;F;Premium;3.9;116;Vichy;Soin corps;Oui;2023-03-05
+308b80dbc3532989df68;7ace19ad0b28ffdb40d8;LOR-500442;Versailles;78000;41;F;Standard;1.3;72;Yves Saint Laurent;Solaire;Oui;2024-10-10
+094156dede4d81f92384;15c72dd6792b6eee4624;LOR-500443;Marseille;13008;29;F;Premium;2.6;135;Giorgio Armani;Cheveux;Non;2024-08-10
+8c872bc9ad242bd8bbe3;d5633253bd1649a6c518;LOR-500444;Versailles;78000;33;F;Premium;3.6;142;Garnier;Cheveux;Oui;2023-04-15
+374b65acf189b47a00b6;731f8d81ca353d269d24;LOR-500445;Paris;75012;48;F;Premium;3.2;88;Vichy;Solaire;Oui;2023-12-24
+1ebf2f30a2ad26b26578;55fa157a6a0cfb4c76eb;LOR-500446;Nantes;44000;72;F;Premium;3.0;148;Lancôme;Solaire;Oui;2025-11-15
+84e69c465ba9ecbe72db;264b67d070a105537fa2;LOR-500447;Saint-Denis;93200;33;F;Standard;1.0;89;Maybelline;Maquillage;Oui;2025-02-02
+c7aea01bfcd387cd0697;f9554afbf0f602d07b8f;LOR-500448;Lille;59000;43;H;Standard;1.3;41;La Roche-Posay;Parfum;Non;2025-11-17
+b74763eed2a4eefa089e;0dc09e8cd64a7a286999;LOR-500449;Boulogne;92100;18;F;Premium;3.2;121;Maybelline;Parfum;Oui;2023-05-16
+e76328f93f17db5b60ff;f96d802cf2bf23f6891a;LOR-500450;Bordeaux;33000;35;H;Premium;2.1;147;Lancôme;Parfum;Oui;2025-07-12
+f414d7db7a98bf7e7758;2b9e1fcd3479f329a643;LOR-500451;Rennes;35000;50;F;Premium;2.4;145;L'Oréal Paris;Soin visage;Oui;2023-04-17
+775c350513cd52e467b1;6df0665258574e5d41e9;LOR-500452;Grenoble;38000;74;H;Premium;3.1;140;Yves Saint Laurent;Soin corps;Oui;2023-07-07
+5faeacea21500ea334cc;ad52ba2382c3cd4126e7;LOR-500453;Paris;75012;29;F;Prestige;7.1;271;La Roche-Posay;Solaire;Oui;2023-01-20
+ddb61a0d342a77608a15;6de311376814c11d4a37;LOR-500454;Saint-Denis;93200;21;F;Standard;1.1;75;Maybelline;Cheveux;Oui;2025-03-27
+a861ce6a5ba6b6b49cdb;29d920a1dd6c5d37a717;LOR-500455;Bordeaux;33000;50;H;Premium;3.4;114;La Roche-Posay;Soin visage;Oui;2023-06-25
+e03140479d5ab122ecf8;c0c2ec850763ab5bb987;LOR-500456;Montpellier;34000;41;F;Standard;2.0;55;Giorgio Armani;Cheveux;Oui;2022-06-19
+9161e7e2b60df73445a6;267f89aaf5773a116da7;LOR-500457;Marseille;13008;41;H;Standard;1.6;51;Lancôme;Maquillage;Oui;2024-09-20
+8307bf8d2e3b915d05f5;bf53e3ea70bb5febb8e9;LOR-500458;Marseille;13008;50;H;Découverte;0.9;39;Lancôme;Maquillage;Oui;2025-11-15
+f003734da6c752aafcba;47de452f1b0eff87da16;LOR-500459;Boulogne;92100;57;F;Premium;3.2;119;Vichy;Solaire;Oui;2023-04-01
+05dae1246605a3d1e618;13ce1e8a63cd4483ca11;LOR-500460;Versailles;78000;63;F;Premium;2.3;130;L'Oréal Paris;Soin visage;Non;2025-03-08
+086362380879d7c19328;de4f77a5913d145310f2;LOR-500461;Versailles;78000;39;F;Standard;1.3;59;L'Oréal Paris;Maquillage;Oui;2025-08-10
+199e16e38af2d2d11ae9;eacf2a5f4b86168d4df7;LOR-500462;Toulouse;31000;31;F;Découverte;0.8;57;Yves Saint Laurent;Parfum;Oui;2022-08-18
+00abd798442a6a23b412;0c80df084d34d018fb87;LOR-500463;Nice;06000;41;H;Premium;2.4;152;Garnier;Cheveux;Oui;2025-03-08
+b108c242673bf1dd3f87;ea16d4832c7da1a9b31f;LOR-500464;Boulogne;92100;38;F;Premium;2.6;154;Kiehl's;Maquillage;Oui;2022-01-23
+c68aa0312c3e001baa7e;f1a117dc5488e808d77e;LOR-500465;Paris;75012;33;H;Standard;1.8;75;Garnier;Parfum;Oui;2025-10-11
+57b6a5164eaa189a5810;f3740cb7d5b2ae8505bc;LOR-500466;Saint-Denis;93200;55;F;Standard;1.3;68;Garnier;Cheveux;Non;2022-08-24
+531534ce6a128375139a;ecc0f71a802b4e2c60a2;LOR-500467;Lille;59000;32;H;Premium;2.9;151;Garnier;Cheveux;Non;2025-03-13
+e07c2f6832e8d8a06d09;3e5abef17afdcb451839;LOR-500468;Paris;75012;51;H;Standard;1.4;90;Maybelline;Soin corps;Oui;2023-04-19
+bb964dddcfed1de59362;4a25068c8f0c71eb4a93;LOR-500469;Grenoble;38000;49;H;Premium;2.3;160;Yves Saint Laurent;Cheveux;Non;2022-03-19
+a8db7fc12c71cb1ae3d1;c5f3678bc48b0e2832da;LOR-500470;Saint-Denis;93200;26;F;Standard;1.8;84;Lancôme;Solaire;Oui;2022-07-13
+2efe0f1574333fa06b2b;f3f6ebc4bc41745fe015;LOR-500471;Versailles;78000;22;F;Standard;1.8;49;Kiehl's;Cheveux;Non;2023-07-18
+a44d930fd8a0860dc8d1;2d35077387fe5662b4c8;LOR-500472;Boulogne;92100;41;F;Standard;1.6;73;Lancôme;Maquillage;Non;2024-01-14
+df80078b80db01ffd9e5;2784df6a4e243765cf4b;LOR-500473;Grenoble;38000;42;F;Premium;3.5;104;Maybelline;Soin visage;Oui;2025-04-24
+bdd06d8fc856020438c6;40f04ec87ba22bb8bff9;LOR-500474;Paris;75012;58;H;Prestige;4.9;222;La Roche-Posay;Soin corps;Non;2022-06-05
+7c5309fe74776517ed76;b5bf3b3bff95e1bd0179;LOR-500475;Bordeaux;33000;43;F;Standard;1.6;80;Lancôme;Parfum;Oui;2023-02-03
+a9fda17dd5b9f1a5f086;8bb14d24a7cab3e21d3d;LOR-500476;Saint-Denis;93200;36;H;Premium;3.2;99;Lancôme;Maquillage;Oui;2025-02-11
+2c2ba494565b6be3c4a7;f56ba5dabd2a0b212104;LOR-500477;Boulogne;92100;39;H;Standard;1.4;75;Maybelline;Cheveux;Oui;2022-03-08
+ef55120fd1ef4f33ca6e;f1ef10ecb5b006cebaf5;LOR-500478;Nice;06000;41;H;Standard;1.1;61;L'Oréal Paris;Soin visage;Oui;2025-12-28
+a5f155d4d67c417ea84d;3f317b91b938b7d6ec7d;LOR-500479;Versailles;78000;39;H;Premium;2.1;120;Maybelline;Cheveux;Non;2023-02-12
+ffc42fff32765d82d728;a14e86a3678af0fa78ac;LOR-500480;Strasbourg;67000;27;F;Standard;1.9;49;Vichy;Cheveux;Non;2023-12-02
+45393e675b9ed8ac296d;7f046ee43a612a0b8c67;LOR-500481;Toulouse;31000;18;F;Premium;2.8;100;Kiehl's;Parfum;Oui;2025-12-12
+a1682985d5a9914bd716;d469916dd436dd3583ca;LOR-500482;Bordeaux;33000;55;H;Prestige;5.7;239;L'Oréal Paris;Soin corps;Oui;2024-07-06
+3c2116c111b4713f2265;46e6de4014a61a02a765;LOR-500483;Grenoble;38000;55;F;Standard;1.2;66;Yves Saint Laurent;Soin corps;Oui;2025-01-11
+2f1cdc9078bf3522c049;6b477dd6a5552c65a91f;LOR-500484;Boulogne;92100;46;H;Prestige;4.8;284;Yves Saint Laurent;Maquillage;Oui;2024-11-16
+1f5bed5dad6939f5322f;eaeb01d16c414d99c0eb;LOR-500485;Grenoble;38000;35;F;Premium;3.8;137;Kiehl's;Cheveux;Non;2023-09-13
+45e0d19ae87fa4480c67;df21fc184233f6f2d82f;LOR-500486;Lille;59000;71;H;Premium;2.6;134;Lancôme;Cheveux;Non;2025-12-27
+c9f9ac63d638e25da589;7074f63c1d7e5f918752;LOR-500487;Nantes;44000;69;F;Premium;2.5;128;Yves Saint Laurent;Soin visage;Oui;2024-12-13
+995edc333bbddf448a28;cd1ae6623aeb25f56cc2;LOR-500488;Bordeaux;33000;34;H;Découverte;0.4;34;Garnier;Soin visage;Oui;2023-12-15
+d54eb560e665d19a4151;405bc49da6833d9c6252;LOR-500489;Nice;06000;38;F;Découverte;0.7;48;Yves Saint Laurent;Parfum;Oui;2024-05-27
+2363d45845b28ed10e5b;25690da99d436e8c4c17;LOR-500490;Saint-Denis;93200;61;F;Premium;2.1;88;Vichy;Parfum;Oui;2024-03-28
+4a21a9ad5e3149c0d413;cbb7d6cae917865d73b3;LOR-500491;Nice;06000;65;H;Standard;1.3;48;La Roche-Posay;Solaire;Non;2025-10-21
+6db55327cd3cc0ffc9f9;4a7dcb16b2c9b098da21;LOR-500492;Bordeaux;33000;59;H;Premium;2.4;113;Lancôme;Soin visage;Oui;2024-01-06
+07bb230531646fc6e221;31566a66fda8392d0421;LOR-500493;Boulogne;92100;36;F;Standard;1.7;78;Garnier;Soin corps;Oui;2023-03-18
+b236e2e37a359427782a;b4cd01431e40a888e5de;LOR-500494;Bordeaux;33000;28;F;Découverte;0.5;43;Vichy;Solaire;Non;2022-06-22
+5d8e4af1baa53c4e5150;af7507acfe5d7c65c56d;LOR-500495;Rennes;35000;74;F;Premium;2.5;138;La Roche-Posay;Maquillage;Oui;2023-12-01
+eff12acc57e6a05e9a61;0021401636cd79377ce7;LOR-500496;Paris;75012;42;F;Premium;2.7;92;Garnier;Parfum;Non;2022-01-04
+b4f51f0df2bf3bda7dab;6af498df232193d828e5;LOR-500497;Bordeaux;33000;26;F;Standard;0.9;40;Giorgio Armani;Soin corps;Oui;2025-03-21
+f5a6a2063b4b81ef0e5c;d3e1c5bad98edc337d27;LOR-500498;Montpellier;34000;49;F;Prestige;8.0;164;Garnier;Parfum;Oui;2024-03-11
+ca0d6ee88d0326e89a80;a11c23fb4fabf7d1037f;LOR-500499;Montpellier;34000;52;F;Standard;1.5;87;Giorgio Armani;Maquillage;Non;2022-06-09
+7352fd8e6507433c3048;106af8a8a99162acd215;LOR-500500;Saint-Denis;93200;43;H;Premium;2.0;103;La Roche-Posay;Solaire;Non;2024-12-01
+ef3d9fd88b5c6d4f6bf4;69f54827cfbb077aba0e;LOR-500501;Nantes;44000;37;H;Standard;1.1;36;Maybelline;Soin visage;Oui;2024-02-09
+c726e03e72bdcdb43b10;16870276ca053d4c343a;LOR-500502;Marseille;13008;57;F;Premium;2.4;111;Kiehl's;Maquillage;Oui;2024-01-02
+8486f76df36b31900858;c01fbcef557a54231d16;LOR-500503;Montpellier;34000;33;H;Découverte;0.8;28;Lancôme;Soin visage;Non;2022-02-04
+1d47023dda6a70d2a967;b570b0d0b46a746e4354;LOR-500504;Strasbourg;67000;47;H;Standard;1.1;58;Vichy;Soin visage;Oui;2023-04-24
+56a8c8a11c149404bd1f;d51272984b544ce038ab;LOR-500505;Nantes;44000;52;H;Standard;1.6;46;L'Oréal Paris;Parfum;Non;2025-07-26
+97e694e00a724fbe8be7;2757fcfa04b7e396d024;LOR-500506;Nantes;44000;26;F;Prestige;5.3;153;Maybelline;Solaire;Non;2025-11-28
+7e80314b5faa9007979a;346f1e772e7af113ed4c;LOR-500507;Lille;59000;39;F;Standard;1.6;88;Vichy;Soin visage;Oui;2023-07-13
+da0bc5216a5263d54063;b62adedcc0dbf88e7171;LOR-500508;Saint-Denis;93200;33;H;Premium;4.1;100;Garnier;Soin visage;Non;2025-07-10
+8da2641079229035a6bf;e2cdbafb742a960003e3;LOR-500509;Boulogne;92100;26;F;Prestige;6.4;288;Maybelline;Parfum;Oui;2025-12-11
+2f426bd6f47c90214670;c406f1ac6a5fef6ac0d0;LOR-500510;Boulogne;92100;45;F;Standard;1.6;83;Garnier;Parfum;Non;2023-03-10
+817bc727fe33f3d9644f;59e23fc3f31be76c5aaa;LOR-500511;Rennes;35000;42;F;Premium;3.9;118;Yves Saint Laurent;Maquillage;Non;2025-11-23
+f48032859cea0fdbdcd8;e889f3cb1532ea49b30a;LOR-500512;Nantes;44000;51;F;Découverte;0.5;38;Garnier;Parfum;Non;2025-04-22
+fe31e6b93a215b7f1595;3876a21d2b5234bf0394;LOR-500513;Toulouse;31000;70;F;Standard;1.7;72;Garnier;Solaire;Oui;2025-02-12
+a3d9a4e5981b77a482aa;3ba015b8b37d5e4643d4;LOR-500514;Lyon;69003;38;H;Découverte;0.9;49;Lancôme;Maquillage;Oui;2025-04-16
+ac19dd97da0dab2b0c98;81e693a744e8f70f1168;LOR-500515;Nantes;44000;67;H;Premium;3.7;115;Maybelline;Cheveux;Non;2022-09-05
+c354e05e9ab1f80ece25;9fa436eaee475aa22610;LOR-500516;Nice;06000;31;H;Premium;2.5;130;L'Oréal Paris;Soin corps;Oui;2023-06-21
+70d3cca4a8cbebe03aea;4b979856d5e2ac81ad9e;LOR-500517;Toulouse;31000;49;H;Premium;3.4;124;Giorgio Armani;Cheveux;Oui;2025-03-24
+584a1e99adee8385e7af;85c92e08749d8f63bd94;LOR-500518;Saint-Denis;93200;54;F;Découverte;0.3;52;Yves Saint Laurent;Solaire;Oui;2023-11-14
+9e88bb21ca84c14928e4;1758baa9c24dba816327;LOR-500519;Toulouse;31000;26;F;Standard;1.4;61;Giorgio Armani;Parfum;Oui;2022-01-04
+f735cb46771b759040e4;63db0b72502020422695;LOR-500520;Bordeaux;33000;34;H;Découverte;0.3;58;Lancôme;Soin visage;Oui;2023-04-09
+ee3152f0e03e683580f5;6bb942819227a9608605;LOR-500521;Bordeaux;33000;36;F;Découverte;0.6;26;Lancôme;Cheveux;Non;2024-02-24
+6c78b3674eb6640c18fa;4cce95e6019ad0bb9473;LOR-500522;Nantes;44000;25;F;Prestige;4.4;204;Lancôme;Parfum;Non;2022-01-02
+b127ac6408643da91a94;be583dda7a0b61728ecd;LOR-500523;Saint-Denis;93200;43;F;Standard;1.9;88;Vichy;Soin visage;Oui;2022-12-03
+7a08324955bc9915fba3;c6a6e314c562c92bdb02;LOR-500524;Bordeaux;33000;50;H;Découverte;1.0;41;Garnier;Parfum;Oui;2022-04-11
+db05c07566750bb464cc;6aa503d9d9ea088dbe67;LOR-500525;Boulogne;92100;49;H;Premium;3.7;155;Garnier;Soin corps;Oui;2022-06-26
+f58415d5115089888a69;012b4d22f7e2a8c42a91;LOR-500526;Boulogne;92100;22;F;Premium;4.2;92;Lancôme;Maquillage;Oui;2025-11-28
+dac13fb4872bee737b94;5c8569acb9c21b5583f8;LOR-500527;Rennes;35000;43;F;Prestige;8.9;163;L'Oréal Paris;Parfum;Oui;2025-12-03
+0eb110d553627f43db9d;23fd4b85c0150424a611;LOR-500528;Toulouse;31000;52;F;Standard;1.4;53;Yves Saint Laurent;Maquillage;Non;2022-01-21
+89b77f136ba9aa50813f;039934d0207fe394dbdf;LOR-500529;Montpellier;34000;39;F;Premium;2.3;116;Kiehl's;Soin visage;Oui;2024-01-03
+ece327c66e11f71a58d2;c31f5f05397c6992ea00;LOR-500530;Nantes;44000;27;H;Standard;1.2;59;Garnier;Parfum;Oui;2024-03-11
+9b5ce91f879d8f5c5df9;bf07efdb868f72fc2087;LOR-500531;Boulogne;92100;50;F;Premium;3.8;116;Maybelline;Cheveux;Non;2024-09-17
+7350859a4b5a8018d697;49f1159e9beeeb05eb17;LOR-500532;Lille;59000;22;F;Découverte;0.7;21;Yves Saint Laurent;Cheveux;Non;2024-07-15
+00d96885af4f6d902b32;a7b545be639784a14bc9;LOR-500533;Rennes;35000;71;H;Premium;3.0;98;Yves Saint Laurent;Soin corps;Oui;2025-07-05
+6f7fedb8166b26fca04b;2d4b1a0a489b8929a4dc;LOR-500534;Lyon;69003;37;H;Standard;1.1;77;L'Oréal Paris;Solaire;Oui;2022-04-01
+6ca4780415f7a61dcc50;bb25826f77f29582982d;LOR-500535;Rennes;35000;28;H;Découverte;0.9;52;Yves Saint Laurent;Soin visage;Oui;2025-07-18
+1f8b20259395603625c4;1815003ab4cee3ad73d7;LOR-500536;Rennes;35000;25;H;Standard;1.8;44;Vichy;Maquillage;Oui;2022-02-12
+dac9d77a01043bfb73fe;633400bede1595d3bbe2;LOR-500537;Paris;75012;41;F;Découverte;0.4;38;Garnier;Parfum;Oui;2024-03-17
+cad1da66d628ad64ed3a;a39b38d60a7f7f5a35d1;LOR-500538;Bordeaux;33000;47;H;Premium;3.5;84;Maybelline;Cheveux;Oui;2023-06-26
+7424e26a2666e0424aef;76bc7803db4538d9793e;LOR-500539;Boulogne;92100;64;F;Prestige;4.6;220;Kiehl's;Maquillage;Non;2023-01-26
+de81a06cf606be232c58;ee0ceabc5eea96e2bc07;LOR-500540;Versailles;78000;44;F;Découverte;0.6;58;Maybelline;Cheveux;Oui;2022-03-18
+5aefda4c29c82d620892;a9ce7325c705ed097019;LOR-500541;Nice;06000;36;F;Prestige;4.4;224;La Roche-Posay;Maquillage;Non;2022-11-09
+15566d3dafa5bbee410e;f3a811648bb7c54c9677;LOR-500542;Lyon;69003;54;H;Premium;4.0;150;Garnier;Solaire;Non;2023-01-13
+4247c5d2a4da477961f8;d425a9b6541b05bffc0a;LOR-500543;Nice;06000;27;H;Premium;4.5;109;Yves Saint Laurent;Solaire;Oui;2022-04-27
+2725e2390cfd8850a6cd;e99026ebd272d69fd90b;LOR-500544;Paris;75012;51;F;Standard;1.1;73;La Roche-Posay;Parfum;Non;2024-06-16
+4a609e097518a9239555;1c0c60a18140862dba7d;LOR-500545;Saint-Denis;93200;35;H;Standard;1.7;71;Vichy;Cheveux;Oui;2022-12-10
+f689cc929a897763b7cc;dd4a622f595f3ee5ba5a;LOR-500546;Nantes;44000;38;F;Premium;3.5;86;Maybelline;Maquillage;Oui;2025-05-12
+a0d53e87ddb0a0c23419;8c0ab23da93266983f77;LOR-500547;Lyon;69003;21;F;Premium;3.0;133;L'Oréal Paris;Cheveux;Non;2022-03-12
+75c83afbc77c5cf61c92;d7e70c4281706a3b5114;LOR-500548;Saint-Denis;93200;37;F;Premium;2.7;100;Vichy;Parfum;Oui;2024-08-25
+9efd92afcf5eb9a2b0bf;4f92f04ee7c967f549e4;LOR-500549;Toulouse;31000;41;F;Standard;1.8;78;Kiehl's;Parfum;Oui;2023-05-17
+bd2a4cfb415943efd624;1b12a5528d93aaa5b901;LOR-500550;Nice;06000;46;F;Prestige;4.2;224;Yves Saint Laurent;Parfum;Non;2024-06-15
+6de290c651d4a5889f54;7606afca184d7c18a65d;LOR-500551;Bordeaux;33000;35;F;Premium;4.3;128;Kiehl's;Parfum;Oui;2022-04-25
+68780eb5f2f18f06f695;4a36c63b1df78e32c1a1;LOR-500552;Lille;59000;54;H;Premium;3.6;103;Garnier;Maquillage;Non;2025-04-02
+845ef9bff8f850e8eb3f;6165fda2e2ad25f3c07d;LOR-500553;Marseille;13008;74;F;Premium;2.3;156;Yves Saint Laurent;Soin corps;Oui;2023-10-05
+adc9318ca9118d7b971f;0ef0c1ce2657d5b9b634;LOR-500554;Nice;06000;68;H;Standard;1.4;57;Kiehl's;Soin corps;Oui;2023-08-28
+0f54b62c44c752e6becc;038d68e135532b8cda6d;LOR-500555;Nice;06000;28;H;Découverte;0.5;34;Kiehl's;Cheveux;Oui;2024-09-25
+21c0e046da73edb1de22;3b24612a47316e3e00f8;LOR-500556;Toulouse;31000;34;H;Découverte;0.4;56;Giorgio Armani;Maquillage;Oui;2023-08-20
+216e8eef50952aaf970b;297950f474cf7ab94af5;LOR-500557;Nantes;44000;38;H;Premium;2.0;123;Kiehl's;Maquillage;Oui;2025-12-23
+b945882ae9e6e17b376d;8e9f4f620ae6a814dc80;LOR-500558;Nice;06000;75;F;Standard;1.7;35;Kiehl's;Maquillage;Oui;2024-06-24
+b25164bc8650a3c38467;3adcdb435ebbf9d5fbbb;LOR-500559;Versailles;78000;52;H;Standard;0.9;64;Yves Saint Laurent;Parfum;Oui;2025-05-15
+535c5d556387e1b53d22;cf4c9e35bc5b39edf277;LOR-500560;Grenoble;38000;39;H;Standard;1.7;47;Yves Saint Laurent;Soin visage;Non;2025-08-14
+43fb7f67f33986970a24;d8e80b7670a4d49f5dbc;LOR-500561;Versailles;78000;65;F;Découverte;0.8;21;Kiehl's;Cheveux;Oui;2024-08-18
+1ec65689672b5517b4f2;84bb8552d8d7ebbe9133;LOR-500562;Nantes;44000;37;F;Prestige;7.3;202;Maybelline;Solaire;Non;2025-01-13
+c80de20bb9b797ade122;0f32fe231ba86fc50aa6;LOR-500563;Lille;59000;23;F;Standard;1.2;42;Kiehl's;Soin visage;Oui;2025-11-17
+bb8280327f2a846049e3;07e36d93057e9bb9ebc9;LOR-500564;Nice;06000;31;F;Standard;1.1;89;L'Oréal Paris;Maquillage;Oui;2022-01-24
+0e53b651d6ef18d80434;58ae5fc5377e971479cd;LOR-500565;Grenoble;38000;24;F;Premium;3.9;99;Yves Saint Laurent;Maquillage;Oui;2024-07-12
+6639ed58eedb29fa141a;91109f88649dfd503d3c;LOR-500566;Lyon;69003;46;F;Standard;1.3;80;Maybelline;Solaire;Non;2023-11-16
+621da5abc7243f1c7ff3;10a2bf5b13b2225e52cf;LOR-500567;Lyon;69003;41;H;Premium;4.2;97;L'Oréal Paris;Solaire;Oui;2025-06-06
+047ad2e6688a93bec498;0a51e5ca07cd08e762c2;LOR-500568;Rennes;35000;72;F;Standard;1.3;39;Kiehl's;Parfum;Oui;2024-04-26
+33c13fdd97ec61459400;86d36ae408593a915a3e;LOR-500569;Bordeaux;33000;36;F;Découverte;0.5;46;Garnier;Soin corps;Non;2024-10-14
+bd531bae726dfdd6b98c;1c99208370f4e1ebe983;LOR-500570;Montpellier;34000;36;F;Premium;4.0;82;Kiehl's;Parfum;Oui;2025-10-05
+c0c1ae41298372c782c3;ef53685005aec00ce172;LOR-500571;Versailles;78000;49;H;Découverte;0.9;46;Kiehl's;Soin corps;Oui;2025-03-20
+6f0750c72b2a4b9d4678;a0c1b044f807c5887ae3;LOR-500572;Saint-Denis;93200;56;F;Découverte;0.7;37;Kiehl's;Soin visage;Oui;2022-05-14
+895084885056a70df212;e333e6fe5604336a7059;LOR-500573;Saint-Denis;93200;18;F;Découverte;0.9;55;Lancôme;Parfum;Oui;2025-12-19
+706ad88172bb4134a3b4;d21ba8ad9d9a111b72bf;LOR-500574;Toulouse;31000;62;H;Premium;2.9;138;Garnier;Maquillage;Oui;2024-08-18
+37725074cd36dc4c9b6d;b98c8165bd11434d192a;LOR-500575;Boulogne;92100;36;F;Standard;1.0;79;L'Oréal Paris;Parfum;Oui;2025-08-13
+1da8962be0f6e3956444;0656a2f232227a12f2e1;LOR-500576;Paris;75012;30;F;Standard;1.3;62;Yves Saint Laurent;Soin visage;Oui;2023-01-27
+1c52a396e8c2cb642e81;5357ac3e44815556d360;LOR-500577;Versailles;78000;42;F;Découverte;0.5;36;Garnier;Maquillage;Oui;2023-07-28
+71a32958ac560d37ca63;814970f29de9344178c2;LOR-500578;Grenoble;38000;59;F;Premium;2.1;157;Yves Saint Laurent;Solaire;Oui;2025-01-28
+288d71daca0e53490f9a;46d6329b7b8449a5fe31;LOR-500579;Lille;59000;74;F;Premium;3.5;97;Vichy;Parfum;Non;2022-02-28
+9505a12b2d123ba01a65;23fc757920bc9f33c9db;LOR-500580;Lyon;69003;44;F;Premium;2.9;127;Yves Saint Laurent;Parfum;Oui;2025-02-16
+97225269166302bca49f;e59a366f2fa076129601;LOR-500581;Grenoble;38000;35;F;Premium;3.8;86;Garnier;Cheveux;Non;2022-05-09
+63c9153bbee0fb9a9a7f;9eae171201cfd3c76ab8;LOR-500582;Montpellier;34000;32;F;Standard;1.1;56;Giorgio Armani;Parfum;Oui;2022-05-17
+c9bae89606c7f27c146b;7c57f9a0d6c9e2bf7cf6;LOR-500583;Lyon;69003;25;H;Standard;1.2;75;Vichy;Cheveux;Oui;2025-05-15
+eb30497b55cf3c6f1eca;44dd5829bbf330cdd960;LOR-500584;Versailles;78000;39;H;Prestige;8.2;295;Yves Saint Laurent;Soin corps;Non;2023-08-23
+6122b39996a9054f7a2c;1583aeb36ea68f19968f;LOR-500585;Nice;06000;42;H;Prestige;4.5;272;Maybelline;Soin corps;Oui;2024-10-24
+9337de7b95ee9acd7a54;a41a163bbcc2d8821677;LOR-500586;Lille;59000;73;H;Standard;1.3;90;Garnier;Maquillage;Oui;2023-05-12
+fa79ebc83ba274c82c44;a1ad9c5bf1efcfa5cd0e;LOR-500587;Toulouse;31000;47;F;Standard;1.2;50;Giorgio Armani;Cheveux;Non;2023-05-06
+bd740c66ef83371ad661;a359181ef464c00756a8;LOR-500588;Montpellier;34000;29;F;Premium;2.2;151;La Roche-Posay;Cheveux;Oui;2025-07-18
+43e047b9729642caac80;334fc8651ded5d5716cf;LOR-500589;Marseille;13008;32;H;Premium;2.0;145;Maybelline;Maquillage;Oui;2025-07-19
+258cfc477893d95c751f;e970339f2cf4de74f879;LOR-500590;Saint-Denis;93200;19;H;Premium;2.6;101;Garnier;Parfum;Oui;2025-02-08
+442647cc09a96db3d6a5;78434fc478345756d670;LOR-500591;Montpellier;34000;48;F;Prestige;6.7;284;Maybelline;Maquillage;Non;2023-08-26
+0a9b3dffa24b66dc9bee;7f5817e4febb16bd32f2;LOR-500592;Marseille;13008;67;H;Premium;3.9;117;Maybelline;Solaire;Non;2025-04-01
+f21c60d3cfe3f03242dc;4b263e48b7f7b3d2c65b;LOR-500593;Bordeaux;33000;41;F;Standard;0.9;44;L'Oréal Paris;Soin corps;Oui;2022-06-24
+81ef5d235e6760ff38ca;b2e9425b70ecd3d24b8e;LOR-500594;Nice;06000;52;F;Standard;1.3;42;Maybelline;Soin visage;Oui;2024-12-20
+c87b44712aa8013c2491;f1e8c7d793763e37143c;LOR-500595;Strasbourg;67000;63;F;Premium;3.0;158;Giorgio Armani;Maquillage;Oui;2024-01-01
+058dab7b60047056962d;70e052391946a57e70d0;LOR-500596;Toulouse;31000;25;F;Standard;1.8;78;Maybelline;Cheveux;Oui;2023-03-27
+cb0ebb689a864dee4dc3;87667f93636f8198f822;LOR-500597;Rennes;35000;36;F;Prestige;4.4;257;Giorgio Armani;Soin corps;Oui;2022-06-16
+869b9cd1a260404f345e;7781e892ed96946d5aac;LOR-500598;Grenoble;38000;68;F;Standard;1.9;39;Kiehl's;Soin corps;Oui;2022-09-02
+317efd636b61ca2db6af;1c26bc3bf426a202b509;LOR-500599;Saint-Denis;93200;49;H;Premium;3.4;123;Garnier;Maquillage;Oui;2024-05-17
+0bf0c0c9593faaab35f1;1e9f965773c29adcbb7a;LOR-500600;Nice;06000;58;F;Premium;3.2;153;Yves Saint Laurent;Parfum;Oui;2023-12-17
+077478b11f01947f57ce;389d6d1e28f3b13a453c;LOR-500601;Rennes;35000;43;F;Découverte;0.9;25;Kiehl's;Solaire;Oui;2025-06-05
+fbe185ff41c1f79c1fb8;d1466b4c407b2203afae;LOR-500602;Montpellier;34000;41;F;Standard;1.2;81;Kiehl's;Parfum;Oui;2022-01-23
+17d31d6b471da44b2380;348f18e588ec1f9ee224;LOR-500603;Versailles;78000;40;H;Découverte;0.8;44;Lancôme;Parfum;Oui;2022-09-25
+cd5c9d70e3641d442436;3a21ac09112afab17a70;LOR-500604;Toulouse;31000;36;F;Premium;2.4;87;La Roche-Posay;Soin corps;Non;2023-07-20
+3ea69144b1b7f617b1a1;53b0234c63e2aa50d59f;LOR-500605;Strasbourg;67000;52;F;Standard;0.8;72;Giorgio Armani;Soin visage;Non;2025-09-04
+29b446a332051aaf5ace;c94c78a588331bc17d57;LOR-500606;Lille;59000;23;F;Standard;1.8;76;L'Oréal Paris;Soin visage;Oui;2023-10-22
+2cb2f86f291c3a99dea2;f3080359e804a4d686b4;LOR-500607;Toulouse;31000;33;F;Prestige;7.7;253;Vichy;Soin corps;Oui;2022-09-26
+fd413fd724cabbaef473;3d8147733c20d91be141;LOR-500608;Boulogne;92100;33;F;Standard;1.6;54;L'Oréal Paris;Soin corps;Oui;2024-12-08
+c7a0dfc291b12beaacb4;10b532a5e5473e4f4947;LOR-500609;Paris;75012;49;H;Prestige;8.1;280;Vichy;Soin corps;Oui;2025-10-17
+280796cc024ce24f9fef;eac5060e9d04b31321bc;LOR-500610;Rennes;35000;40;H;Premium;3.4;134;Vichy;Solaire;Oui;2022-12-04
+659a9978ef2c0645bb1a;19404296eea7868c7238;LOR-500611;Montpellier;34000;42;H;Premium;3.2;130;Garnier;Cheveux;Oui;2025-04-14
+ce88547d1c09bd151c6e;2927dee85e0794b025d9;LOR-500612;Marseille;13008;44;H;Premium;3.7;100;Kiehl's;Maquillage;Oui;2025-07-15
+e355077f5cfa2e98621e;224299cd560b981e3b71;LOR-500613;Marseille;13008;50;F;Premium;2.0;90;Kiehl's;Cheveux;Non;2022-08-10
+9ff5a1f4ff1eb5b295dd;8ad3cc2fbf17e208dc0d;LOR-500614;Rennes;35000;27;H;Standard;1.4;65;Kiehl's;Soin corps;Oui;2025-07-10
+e2108ae5942bbdbaaa52;a410d5e604c0d25a53b5;LOR-500615;Boulogne;92100;49;F;Prestige;8.2;146;L'Oréal Paris;Soin visage;Oui;2022-07-11
+d1a8123821fbaf574c6c;6a1faf0a62e0333bdf75;LOR-500616;Strasbourg;67000;67;F;Premium;3.4;130;Garnier;Soin corps;Oui;2022-05-17
+47e52f42cda046524205;b76d682901ec72a500ab;LOR-500617;Nice;06000;21;F;Premium;3.6;103;Kiehl's;Cheveux;Oui;2025-06-21
+83d85e8bcf28cdf85a14;a5d0c6e62638aa86d453;LOR-500618;Grenoble;38000;73;F;Premium;2.6;82;Kiehl's;Parfum;Non;2022-02-21
+b242db489db84caf32fc;9fcf19ca61147f6c2fd6;LOR-500619;Lille;59000;28;F;Premium;2.1;131;Kiehl's;Maquillage;Oui;2023-04-14
+86d0ceb70a44887cef1d;8cbe5b3a5557fb2dba94;LOR-500620;Montpellier;34000;44;H;Standard;0.8;85;Giorgio Armani;Soin visage;Oui;2024-03-13
+7a283cc8ac3975f6fc6c;3ea5e8bf552da78c78ec;LOR-500621;Bordeaux;33000;41;F;Standard;1.8;85;Lancôme;Solaire;Oui;2025-12-03
+7251ecb9adbf8a6ffe9f;b9298311d66017445ba3;LOR-500622;Bordeaux;33000;68;H;Standard;1.9;78;Lancôme;Solaire;Oui;2025-04-12
+d3b95ee1406f5cac5770;c64093b6c64c173fdae8;LOR-500623;Boulogne;92100;57;F;Standard;1.1;76;Garnier;Cheveux;Non;2025-06-28
+49fad108d42db494ef31;e5b6af8a912fa66209cb;LOR-500624;Montpellier;34000;47;H;Premium;4.2;109;Garnier;Soin corps;Non;2023-07-27
+8863608edd8ae10a21e6;d6be076793504e3a2631;LOR-500625;Rennes;35000;52;F;Premium;3.0;83;La Roche-Posay;Cheveux;Oui;2022-09-20
+4936792e708480e9cc95;cd9259cb48a99275563e;LOR-500626;Bordeaux;33000;42;H;Premium;4.2;107;Giorgio Armani;Solaire;Oui;2024-09-02
+342e555aa419ed41c3a4;4ba0ab3f3157666cb5e3;LOR-500627;Bordeaux;33000;28;F;Premium;4.0;156;Vichy;Soin corps;Oui;2022-01-15
+682b69e1f06f230c5a7d;8afd0b110cfef9f85474;LOR-500628;Boulogne;92100;53;F;Premium;4.5;139;Maybelline;Maquillage;Non;2024-05-21
+96197a8041c10d8b6e4b;ae2737b4fb001d7149d5;LOR-500629;Lille;59000;57;F;Standard;1.6;61;Garnier;Parfum;Oui;2024-01-22
+b80ac506fe66a1c65afd;09f06734d3d9a6dcb456;LOR-500630;Toulouse;31000;64;F;Premium;2.0;151;La Roche-Posay;Maquillage;Oui;2023-08-20
+efe4771a8eb4f53c11d0;5f2fa6026d9648aa879f;LOR-500631;Toulouse;31000;53;F;Premium;3.7;159;Yves Saint Laurent;Solaire;Non;2022-02-05
+28a8c8e11b3ca8ee0da2;ae890d65011f32d6714b;LOR-500632;Marseille;13008;56;F;Premium;2.1;103;Garnier;Soin corps;Non;2025-03-26
+86b5f353679a0040bf65;c3c08c6562feca433ca0;LOR-500633;Lille;59000;31;F;Standard;1.2;80;L'Oréal Paris;Parfum;Oui;2024-11-25
+e731e83cd2cf9f22f128;6427290a7ddef059ba76;LOR-500634;Rennes;35000;64;H;Premium;3.5;121;L'Oréal Paris;Parfum;Oui;2024-11-08
+c0c39fb9ce039575a4e4;57ef1c45d9f874107f68;LOR-500635;Toulouse;31000;73;F;Standard;1.3;61;Giorgio Armani;Soin corps;Oui;2025-02-27
+282f2d53ea63550d0245;bf66f189029581f4023a;LOR-500636;Marseille;13008;44;F;Premium;2.8;134;Vichy;Soin visage;Non;2024-09-04
+9402160008dc6c33ef28;33c4ff4a404c2e8daf69;LOR-500637;Lyon;69003;29;H;Premium;3.1;134;Vichy;Maquillage;Oui;2023-10-20
+5e97d38585fa3315240e;c61e01668db07275811a;LOR-500638;Saint-Denis;93200;62;H;Premium;3.9;122;Garnier;Maquillage;Oui;2025-08-08
+725a701967c684f53cbc;46711ca8ebb3f7b107c9;LOR-500639;Paris;75012;70;F;Standard;1.7;70;L'Oréal Paris;Cheveux;Oui;2022-11-10
+16ec46dff6b3c34d816c;0c25b482c6353c685efc;LOR-500640;Strasbourg;67000;29;F;Standard;1.8;89;Kiehl's;Solaire;Oui;2022-04-09
+9e1ca5804c44b63bd5d5;f1b94f78a63f34c27380;LOR-500641;Bordeaux;33000;29;H;Premium;2.9;88;Lancôme;Solaire;Oui;2024-04-03
+b79bb36de9c264e33ccd;f4101213f8f72509e5bb;LOR-500642;Boulogne;92100;54;H;Premium;3.6;108;Lancôme;Solaire;Non;2023-11-19
+79e6de38b6b66453f60b;b3381347992e4025f27c;LOR-500643;Nice;06000;32;F;Premium;3.6;94;Kiehl's;Soin corps;Oui;2022-08-07
+56d1c0cefdb76de96e5e;19cb385b878566f19cd1;LOR-500644;Saint-Denis;93200;27;F;Découverte;0.7;34;Kiehl's;Maquillage;Oui;2023-07-19
+75343ed58c4b80fea1f3;1141a550c56ae3a8eb76;LOR-500645;Lille;59000;35;F;Découverte;0.6;21;Kiehl's;Cheveux;Non;2025-08-01
+e91fa5fa9325252e1fe4;56c56721ff56c58132f3;LOR-500646;Paris;75012;26;H;Premium;4.1;127;L'Oréal Paris;Parfum;Oui;2022-01-26
+60ecb0ec32540de0b299;10d0de6aa162667c599a;LOR-500647;Nice;06000;34;F;Découverte;0.9;55;Lancôme;Maquillage;Non;2024-11-12
+23dbcddf9dcb3a0818e1;e1023aeb1463f8ed2056;LOR-500648;Bordeaux;33000;36;F;Découverte;0.8;23;Lancôme;Cheveux;Non;2023-05-14
+4b3b079454641134fa59;9fa6f691cd49902c844d;LOR-500649;Strasbourg;67000;54;F;Standard;1.6;85;Garnier;Soin visage;Oui;2022-04-27
+c232a6120d77448f1536;7ac9f74879ae6180c1b8;LOR-500650;Nantes;44000;41;F;Premium;2.4;111;Lancôme;Soin visage;Non;2024-03-05
+e163047ea33ae852ced9;513a2419146a2b2b7f7d;LOR-500651;Grenoble;38000;61;F;Prestige;5.2;184;Giorgio Armani;Solaire;Non;2022-11-13
+40116b8566a36d55a926;f6f9bafd8c486ba2882b;LOR-500652;Montpellier;34000;27;F;Premium;3.6;148;Maybelline;Maquillage;Non;2025-10-01
+7a477655edfe3924d092;902fdda5d6c44adeab00;LOR-500653;Lille;59000;19;H;Premium;3.8;85;Kiehl's;Soin visage;Oui;2022-01-16
+1bdadb887a0bb437fd71;cfb6e8c0b3865f2492e7;LOR-500654;Lille;59000;51;F;Découverte;0.6;58;Yves Saint Laurent;Maquillage;Oui;2025-01-17
+a1b6ea8c117cff12212d;47437a7649ae86b54a01;LOR-500655;Boulogne;92100;40;H;Premium;4.2;118;La Roche-Posay;Soin corps;Non;2025-03-20
+6ee63c5fe13dd5c6c111;346c0739384dc7d45951;LOR-500656;Rennes;35000;38;H;Premium;4.1;90;Yves Saint Laurent;Solaire;Non;2025-03-28
+590fe255f58028b02de9;cb252581053f3991710c;LOR-500657;Paris;75012;53;F;Premium;3.0;136;La Roche-Posay;Parfum;Oui;2023-08-04
+43f0c2f358aeda1e7867;a604cb3ccc9702ea8999;LOR-500658;Toulouse;31000;63;F;Premium;3.3;101;L'Oréal Paris;Solaire;Oui;2022-05-10
+3bf53f1e747fdd30658c;a573717f9627349dd0d6;LOR-500659;Lyon;69003;34;F;Standard;1.3;78;Maybelline;Soin corps;Oui;2024-03-21
+cfbd1337d8fb2abdf258;067d8fa7dc2183cb14db;LOR-500660;Bordeaux;33000;37;F;Standard;1.1;48;Maybelline;Soin visage;Oui;2025-06-13
+d8d52c1c60fa6da84d3f;fd82c5c928568a75116f;LOR-500661;Versailles;78000;61;F;Premium;3.5;128;Giorgio Armani;Soin visage;Oui;2024-09-08
+fadc135244f0771cbbc2;c6c0c923a0c6e2d2e35b;LOR-500662;Grenoble;38000;68;F;Premium;3.6;124;Kiehl's;Solaire;Non;2022-11-21
+d6ff91deeba6ecae730a;cceab42055a9006426be;LOR-500663;Grenoble;38000;42;F;Premium;3.0;113;Kiehl's;Cheveux;Oui;2022-09-15
+a68b5c090a5799829cc0;c3f82058cd2756b61036;LOR-500664;Grenoble;38000;37;F;Premium;2.7;148;Vichy;Solaire;Oui;2025-06-22
+5dbe0ebefdfa168de9e5;b5f4e4b7339f0b5deeb9;LOR-500665;Nice;06000;34;H;Premium;4.0;141;Maybelline;Cheveux;Non;2022-06-06
+aeae09b096b5f3b3dd97;b0d994af87e142e00c5c;LOR-500666;Strasbourg;67000;35;F;Découverte;0.7;42;Yves Saint Laurent;Cheveux;Non;2022-01-14
+8a21f3ffb183e4a2d2ab;9dc2e70f0537373f0bf1;LOR-500667;Lyon;69003;19;F;Prestige;5.1;220;Vichy;Maquillage;Oui;2023-10-15
+b9ba9dd43114f75ecec8;77621fa308548a43d9c1;LOR-500668;Bordeaux;33000;31;F;Découverte;0.8;58;Vichy;Maquillage;Oui;2022-02-19
+c96697054e7b7d5196bc;8bc6a781c158928af80a;LOR-500669;Marseille;13008;36;F;Standard;1.7;60;Lancôme;Soin visage;Oui;2022-08-03
+5051e73ee922c99d5a97;1b1febb4636860315c63;LOR-500670;Nantes;44000;68;F;Premium;2.5;108;Yves Saint Laurent;Maquillage;Oui;2025-10-28
+0f5b9ef193f987126fcd;034875b6fe588b26277f;LOR-500671;Montpellier;34000;49;F;Premium;2.1;87;Kiehl's;Cheveux;Oui;2024-06-17
+ff223bd8582f91328461;56dd2b1bbe6a45d25cd4;LOR-500672;Versailles;78000;37;F;Standard;1.3;72;Yves Saint Laurent;Maquillage;Oui;2024-12-07
+ecaa552a4e72d1d08d7a;fba0430440d84941ab8c;LOR-500673;Lyon;69003;25;H;Standard;1.7;86;Kiehl's;Parfum;Non;2022-11-24
+24a4f7030303775ee479;3d0f8bec28af4a9bde01;LOR-500674;Grenoble;38000;24;F;Standard;1.8;87;Giorgio Armani;Soin corps;Oui;2022-12-18
+bca3d789b495ef7e4430;a2334bb973070dad73f5;LOR-500675;Lyon;69003;75;F;Premium;2.7;112;La Roche-Posay;Soin corps;Oui;2022-10-08
+80520bdf4c741a49390c;28293f47b6ce1c2a7342;LOR-500676;Nantes;44000;55;H;Prestige;7.9;226;L'Oréal Paris;Parfum;Non;2025-03-21
+704c654fa7e15aeed6ab;ae0035a6d785ca329d0a;LOR-500677;Montpellier;34000;53;F;Premium;3.4;93;Giorgio Armani;Parfum;Non;2022-07-13
+e072f2f6462c62e38224;51b150a276578a37723d;LOR-500678;Grenoble;38000;23;F;Premium;2.5;137;Kiehl's;Soin visage;Oui;2023-12-10
+954810a66ca9c4e380d5;8a1efdd4deeee3b1a39d;LOR-500679;Strasbourg;67000;50;F;Découverte;0.4;59;Giorgio Armani;Soin visage;Oui;2023-03-24
+b5ecdc60eaa2a51d90c8;054c89bd74f69d380d67;LOR-500680;Bordeaux;33000;25;F;Premium;4.3;117;Garnier;Parfum;Oui;2022-03-23
+0c37f49bc20c061044ee;e90b12bc7bec6b674f89;LOR-500681;Lyon;69003;50;F;Premium;3.9;132;Garnier;Soin corps;Non;2022-06-14
+0e19ac75d5c212500732;7106ac1e74377b1bfc03;LOR-500682;Nice;06000;24;H;Découverte;0.5;54;Yves Saint Laurent;Maquillage;Oui;2022-06-10
+beaa953736f5c569f8b2;d1f79b190534b5d8c471;LOR-500683;Nantes;44000;54;H;Standard;2.0;67;Yves Saint Laurent;Solaire;Oui;2022-11-07
+f493051fa296924e5311;b690b8267ca4d660db7a;LOR-500684;Toulouse;31000;47;F;Premium;2.7;84;Maybelline;Soin corps;Non;2025-07-19
+a54f7f88c14c74136fae;536ad234490d1d7a8008;LOR-500685;Lyon;69003;22;F;Standard;1.7;69;L'Oréal Paris;Soin visage;Oui;2023-10-22
+388ea5c1e00ecb7cde5d;b6b48e4d0b59d263dc67;LOR-500686;Nantes;44000;50;F;Prestige;7.1;178;Kiehl's;Cheveux;Non;2023-05-14
+269c7667b4110bcfcb75;08edc1b81d14cf1062da;LOR-500687;Lille;59000;30;F;Premium;3.7;112;Yves Saint Laurent;Solaire;Non;2025-07-20
+f125a55d2cae02c7014a;a589eba45a0e884959cf;LOR-500688;Marseille;13008;68;F;Premium;3.1;116;Vichy;Cheveux;Oui;2024-06-01
+26cd27d26807a72a8042;2163172d2ac5381889a2;LOR-500689;Versailles;78000;32;H;Premium;4.1;151;La Roche-Posay;Cheveux;Oui;2025-11-28
+dcaf04422946474f1060;7459049bd41c9a4c96ca;LOR-500690;Nice;06000;35;F;Prestige;6.8;212;Yves Saint Laurent;Soin corps;Oui;2024-01-09
+e0df7e836902a20408a1;663c1609fbc4f431ca3a;LOR-500691;Strasbourg;67000;28;F;Premium;3.3;123;Garnier;Soin corps;Oui;2024-05-24
+373a788b19aee0ddea04;518f43e176f44fe09b98;LOR-500692;Nice;06000;35;H;Standard;1.4;69;L'Oréal Paris;Soin corps;Oui;2025-12-04
+05e8cd16f3d0a8af6fb2;24f33ed38aa41339a043;LOR-500693;Saint-Denis;93200;30;F;Premium;3.6;154;L'Oréal Paris;Cheveux;Oui;2022-02-01
+e677ef61eb2ae7d599a8;b5634d4f7d1f6a107629;LOR-500694;Rennes;35000;60;H;Découverte;1.0;45;La Roche-Posay;Soin corps;Oui;2024-01-21
+2969c4c1c1cfd22ffc06;3d27f1f0b7821720931b;LOR-500695;Bordeaux;33000;33;F;Premium;3.3;142;Kiehl's;Maquillage;Oui;2023-06-20
+9138ef7701a12edd9a32;521069e588d7ea0daae7;LOR-500696;Montpellier;34000;39;H;Découverte;0.9;21;La Roche-Posay;Soin corps;Oui;2023-08-11
+ac68312d4382640b7df1;ebb6743e8575b25e6c1b;LOR-500697;Saint-Denis;93200;19;F;Premium;3.8;135;Garnier;Cheveux;Oui;2024-08-04
+3915b2dbc24466f486d2;b867fa3c3fbae32ed7c4;LOR-500698;Nantes;44000;60;F;Premium;2.3;148;Kiehl's;Soin corps;Oui;2022-11-14
+0abfe8d9bd96616e9e5f;2ed69cb74f0b9b7c983a;LOR-500699;Montpellier;34000;49;H;Standard;1.5;90;Vichy;Maquillage;Oui;2024-04-01
+8280f62d5a4032f6dd1a;14444a3c078d0512dc30;LOR-500700;Lille;59000;43;H;Standard;1.8;59;Yves Saint Laurent;Cheveux;Non;2023-01-25
+c131ed65cd299fc4b361;a68db6316277cf1a835c;LOR-500701;Nantes;44000;37;F;Premium;4.1;138;Maybelline;Soin visage;Oui;2025-06-14
+aaba60fa30f376d2f6d5;3a181c15ba27e5818e53;LOR-500702;Bordeaux;33000;56;F;Premium;3.9;107;Vichy;Cheveux;Non;2025-12-24
+6c30f065da17cf932bc1;28a73eac2d7dd9a54693;LOR-500703;Lyon;69003;42;H;Standard;1.6;63;Maybelline;Solaire;Non;2022-08-08
+0dc16b723545079a9317;4bf8cb242153e5626da1;LOR-500704;Boulogne;92100;45;F;Standard;1.8;78;Kiehl's;Soin corps;Oui;2025-08-18
+bd179b5752c769de49bb;bc3a10eceee932c75deb;LOR-500705;Bordeaux;33000;36;H;Premium;3.5;142;Maybelline;Parfum;Non;2024-11-10
+d085fcf78e6e55fa4727;ff95c80a1948846c47c9;LOR-500706;Versailles;78000;35;H;Standard;1.7;63;L'Oréal Paris;Soin visage;Oui;2025-07-15
+cc5de80ce6932b2f8dfd;20c534640ec84e096c6b;LOR-500707;Lyon;69003;32;H;Premium;2.1;133;L'Oréal Paris;Cheveux;Oui;2024-04-10
+90d09bf760087aa9f388;4659eff3825cf011a4c1;LOR-500708;Versailles;78000;49;F;Prestige;5.6;155;Lancôme;Solaire;Non;2022-10-28
+94abeed136a8bb508783;5bd412a90ce96fbb0cb4;LOR-500709;Grenoble;38000;61;F;Premium;3.0;110;L'Oréal Paris;Parfum;Oui;2024-11-22
+0bce8f8ce5756d0b872e;4b43d39090a38f853113;LOR-500710;Montpellier;34000;32;F;Premium;4.4;132;Lancôme;Soin visage;Oui;2025-01-28
+e83089687b7cdb47dda9;c94d405cd34eb0d733b1;LOR-500711;Lyon;69003;62;F;Découverte;0.9;46;Yves Saint Laurent;Cheveux;Non;2025-06-03
+e9274d6298baf185c751;8cb6afdb783d4617b0f6;LOR-500712;Lyon;69003;51;F;Prestige;4.5;254;L'Oréal Paris;Solaire;Oui;2025-08-14
+4c5082677684c7a9e191;70abd370846b9511bfcb;LOR-500713;Grenoble;38000;30;F;Découverte;0.6;49;Vichy;Soin corps;Non;2025-09-05
+cb6ca7ff86e8439b46ba;a67f6fe560d8250010b7;LOR-500714;Strasbourg;67000;30;H;Standard;1.0;58;Yves Saint Laurent;Parfum;Non;2023-12-08
+4b1a73f6cd83b5cc491c;d5299318d58a745aa56c;LOR-500715;Saint-Denis;93200;24;F;Standard;1.6;55;Maybelline;Solaire;Oui;2025-03-05
+5bfc31cd774890f6afa7;5753d5cbf740b08f7875;LOR-500716;Bordeaux;33000;30;H;Prestige;4.3;236;Maybelline;Maquillage;Oui;2022-05-15
+67166672de2ec77f3e58;092087b939255609e37b;LOR-500717;Nice;06000;53;F;Standard;1.3;47;L'Oréal Paris;Parfum;Oui;2022-12-28
+33ffe984df5d72588175;d91ec3e262506385ec70;LOR-500718;Nantes;44000;47;F;Standard;1.4;69;L'Oréal Paris;Soin corps;Oui;2024-02-07
+9d2057eebb5fd875c30a;73206a1b1b4016860283;LOR-500719;Toulouse;31000;54;F;Prestige;5.0;176;L'Oréal Paris;Soin corps;Oui;2022-06-07
+f7fea958afa83ad681f1;38ac5a5fccd990014f9c;LOR-500720;Lille;59000;67;F;Découverte;0.4;58;La Roche-Posay;Cheveux;Non;2022-10-17
+b015782b897b65cef62e;71a82bec0fad57596e38;LOR-500721;Versailles;78000;45;H;Premium;4.0;128;Garnier;Soin visage;Oui;2025-06-25
+a060e951aa3e014a250c;09620a2b81a6be0e0511;LOR-500722;Lyon;69003;18;H;Standard;1.8;83;Garnier;Solaire;Oui;2022-04-18
+7cd6ab3c96d45bd60373;1780c6a221f165de1715;LOR-500723;Grenoble;38000;30;H;Prestige;5.3;184;La Roche-Posay;Cheveux;Oui;2023-01-27
+a8e9eefb34e9577cb925;55ad09ecdd90f9a7667d;LOR-500724;Bordeaux;33000;64;H;Standard;1.4;40;Vichy;Soin visage;Oui;2023-02-11
+0fe7f395161100e74f06;352bb6644e791099939b;LOR-500725;Versailles;78000;44;F;Découverte;0.3;23;L'Oréal Paris;Parfum;Oui;2025-08-18
+30aa5b711410f1ef018b;50fe309469ba3b726a74;LOR-500726;Bordeaux;33000;25;H;Prestige;7.6;244;La Roche-Posay;Parfum;Oui;2025-12-27
+d93f1ade4bc200a6ba1c;fc8832f1c4b9a1ffa051;LOR-500727;Nice;06000;31;H;Standard;1.2;82;Yves Saint Laurent;Maquillage;Oui;2024-06-05
+b382e850e826fad1b657;be9ed74d6b2cb4b4e5e5;LOR-500728;Boulogne;92100;45;H;Prestige;5.5;166;Vichy;Solaire;Oui;2022-01-02
+a92c5405dedb5f6c5474;b6bcefe0df6910ddc4c2;LOR-500729;Nantes;44000;30;F;Découverte;0.7;27;Garnier;Maquillage;Oui;2023-03-22
+02b298acfdc94d47bd93;d4f64d02bf172e8f7c96;LOR-500730;Marseille;13008;73;F;Prestige;8.1;237;Lancôme;Cheveux;Oui;2024-08-19
+7aa819884aaaa3343797;5f4020cb0c0ccdb45c5b;LOR-500731;Versailles;78000;26;F;Standard;0.8;66;Kiehl's;Cheveux;Non;2025-01-23
+c1d849465150dab3b098;5e2eac0db2e1dcb27004;LOR-500732;Rennes;35000;37;H;Premium;2.1;151;Kiehl's;Parfum;Oui;2025-02-05
+d7a2c7581779341a2333;a8302deaf2c8a086af09;LOR-500733;Grenoble;38000;27;H;Standard;1.9;86;Kiehl's;Solaire;Non;2025-01-26
+8d755949a037c014c6e2;b7e4f96786e3fa0fdd2c;LOR-500734;Saint-Denis;93200;60;F;Premium;2.1;81;L'Oréal Paris;Soin corps;Oui;2025-07-23
+f7fe9e5cff2746ea4e67;e73f57fb1bb0d1239e8a;LOR-500735;Strasbourg;67000;48;H;Découverte;0.5;57;La Roche-Posay;Soin corps;Oui;2024-04-02
+9b82d9adb076bd434120;3416958a4d490ad6dfa2;LOR-500736;Strasbourg;67000;34;H;Prestige;5.9;196;Garnier;Cheveux;Oui;2025-06-14
+f6858dfd250850d0b000;80900e9fc92e15bbe059;LOR-500737;Boulogne;92100;25;F;Standard;1.8;61;Kiehl's;Cheveux;Oui;2022-02-26
+c5a582b0566e017c3643;e095c6c0f98d5b811a1b;LOR-500738;Boulogne;92100;66;H;Standard;1.9;77;Yves Saint Laurent;Cheveux;Non;2022-04-17
+323570cc60b8af8f151d;7dc4efdd68f8d2d866a3;LOR-500739;Grenoble;38000;31;F;Prestige;5.6;273;Giorgio Armani;Cheveux;Oui;2024-05-03
+acf3c9d540954daf2ee3;03bcc45dc25a8ab09c8a;LOR-500740;Marseille;13008;50;H;Standard;1.8;54;Garnier;Maquillage;Non;2024-02-24
+6ace976fd8ea996b2413;75fdb96a9d41d3cf7fce;LOR-500741;Versailles;78000;53;H;Premium;2.1;130;Garnier;Parfum;Non;2025-11-17
+d3d896e196c219369a38;6db40d51ac41597f6159;LOR-500742;Montpellier;34000;48;F;Standard;1.3;58;Kiehl's;Maquillage;Non;2023-12-18
+7ec322823c653c00cd2b;f779d167f7b00e2c4bc5;LOR-500743;Strasbourg;67000;60;H;Découverte;0.5;52;La Roche-Posay;Soin corps;Non;2024-11-27
+ea4f6088e569189c4e39;0cde104aa51f9595209b;LOR-500744;Toulouse;31000;35;F;Premium;3.6;115;Maybelline;Parfum;Non;2024-10-11
+847d98b386b65af7b616;531efdb61459c8e9c345;LOR-500745;Montpellier;34000;31;F;Standard;1.1;55;La Roche-Posay;Cheveux;Non;2023-09-23
+4bead431b77931156cf9;da2045f043406150a932;LOR-500746;Montpellier;34000;44;H;Standard;2.0;68;Kiehl's;Soin corps;Oui;2024-02-27
+aef7f6fb39961d80ad31;a7b03705b9b1d6c9eda2;LOR-500747;Lille;59000;42;H;Standard;1.4;74;La Roche-Posay;Soin visage;Oui;2025-05-04
+2e2c484383ed2175e43c;116b7f33ccd318688ad8;LOR-500748;Grenoble;38000;30;F;Standard;1.1;48;Garnier;Maquillage;Oui;2022-07-26
+b5f349815b9dc1a40674;dda4ee9a1430b0b82801;LOR-500749;Marseille;13008;29;F;Premium;3.9;102;Garnier;Parfum;Non;2023-05-25
+b2ee8b9593c703a833f6;cfd6efd18e9e3b77b820;LOR-500750;Lyon;69003;40;H;Standard;1.5;62;Garnier;Soin visage;Oui;2022-04-07
+5bbd2ad976545f8729a1;514bc88bd78f5d296c0c;LOR-500751;Nantes;44000;63;H;Découverte;0.9;53;Vichy;Solaire;Oui;2022-06-11
+5dc5660b9dc89410a6d6;ea766f37e4634e0b2d5f;LOR-500752;Rennes;35000;62;F;Premium;2.0;85;L'Oréal Paris;Solaire;Oui;2023-08-05
+800638f4540b4b550ad1;de5df7b6216cc915c5f8;LOR-500753;Lyon;69003;46;F;Prestige;5.7;216;Kiehl's;Solaire;Non;2024-07-15
+aed0f391247fa8673ad5;66b4322c3f3e95126ba5;LOR-500754;Grenoble;38000;25;F;Standard;1.4;57;Giorgio Armani;Cheveux;Oui;2022-11-16
+770a1859fa3cc27f0d9e;dbf0a788a2bd76aed3af;LOR-500755;Nice;06000;35;F;Premium;3.4;133;La Roche-Posay;Soin corps;Oui;2024-05-24
+efb71d9c840b06c40cca;f0af1a04baaeb51ee42f;LOR-500756;Grenoble;38000;75;F;Premium;3.5;90;Yves Saint Laurent;Cheveux;Non;2022-08-16
+9de2418d58cb801e464c;636abb5889a2f1098013;LOR-500757;Lille;59000;34;H;Premium;3.4;157;Giorgio Armani;Solaire;Oui;2025-05-20
+eed7be01bb91d61d36e5;7f78e0cfa8236c87d479;LOR-500758;Rennes;35000;57;H;Premium;3.7;153;Maybelline;Soin corps;Oui;2025-06-19
+c2be79951f2df3eebc04;c17ac0eee7e64158b046;LOR-500759;Strasbourg;67000;43;H;Découverte;0.7;47;Maybelline;Solaire;Oui;2022-06-28
+15c90e029aa8e8367df9;7b52ef106e0b04195270;LOR-500760;Rennes;35000;31;F;Premium;4.4;158;Vichy;Solaire;Oui;2024-02-12
+4769d4251cf8fb5422e0;9e72f4c4a317d93cd9e9;LOR-500761;Rennes;35000;19;H;Premium;3.2;95;Maybelline;Maquillage;Oui;2024-04-22
+7d16a230a05d1813a25f;aaff2ab67bd6c6db9ae6;LOR-500762;Lille;59000;69;H;Prestige;8.5;230;Vichy;Parfum;Oui;2023-06-09
+0ff1ba0b0c33a5e6bf7c;04e371617db0e44d09c7;LOR-500763;Montpellier;34000;37;H;Standard;0.9;48;La Roche-Posay;Maquillage;Oui;2023-09-12
+d6f34e413a0d7912f1e8;e2fc064ae5921c431e85;LOR-500764;Bordeaux;33000;46;F;Découverte;0.8;58;Maybelline;Parfum;Non;2022-11-14
+67148d78d16d41164d6e;421671c08cbfb5d416c7;LOR-500765;Nantes;44000;38;F;Premium;4.2;95;Kiehl's;Maquillage;Oui;2024-08-01
+5e654f87728d3daaed3c;2bcf2a317440c67871aa;LOR-500766;Montpellier;34000;67;H;Premium;2.6;92;Maybelline;Solaire;Non;2023-05-04
+24a6ee24c406af0ef7ac;ff80c878c5456ba8f88f;LOR-500767;Grenoble;38000;64;H;Premium;3.4;143;Vichy;Soin visage;Oui;2025-01-07
+0231b7b41fc7ef094716;63f7d68c892d805d01a0;LOR-500768;Rennes;35000;19;H;Standard;1.4;83;Lancôme;Soin corps;Oui;2024-10-02
+2b9018f8dee60b2473d5;2daf4c946cf89dae09d9;LOR-500769;Lyon;69003;42;F;Premium;3.5;130;La Roche-Posay;Cheveux;Oui;2025-08-13
+73098e4b3f6625fdc629;a2417c1417326903013f;LOR-500770;Nice;06000;47;H;Standard;1.3;80;Vichy;Soin visage;Oui;2022-08-05
+7de83bd1a3c1e018f1fe;9fbb1dae66e61ca2621a;LOR-500771;Nice;06000;51;F;Premium;2.7;93;Lancôme;Soin visage;Oui;2023-01-20
+20f45680f26b9d045b4f;1a686d6a407ec1b027c8;LOR-500772;Lille;59000;45;F;Premium;2.4;135;Maybelline;Solaire;Non;2025-08-25
+d927b25b66109ee82929;745086055b0eec572a25;LOR-500773;Versailles;78000;25;F;Standard;1.4;64;La Roche-Posay;Solaire;Oui;2024-09-27
+9769d14981e025d7aa0b;edfa4290bb35b792370f;LOR-500774;Versailles;78000;32;F;Premium;3.3;110;L'Oréal Paris;Solaire;Oui;2023-09-28
+9029a1cffaec46ebd729;ff52d7407a71cb70d04a;LOR-500775;Lyon;69003;29;H;Standard;0.9;85;L'Oréal Paris;Solaire;Non;2023-06-28
+8750c8d2335b86ee4d3f;4a3ac9107116c8d6960c;LOR-500776;Saint-Denis;93200;46;F;Premium;4.3;152;La Roche-Posay;Cheveux;Oui;2025-06-15
+c0f766aa00f2f57f7cb9;534fe5fa9aac1fa6cc0f;LOR-500777;Bordeaux;33000;29;F;Découverte;0.8;40;L'Oréal Paris;Soin visage;Oui;2022-12-18
+96cfc6027105c86e8ee0;33515efb36fb1607a830;LOR-500778;Montpellier;34000;52;F;Standard;0.9;67;La Roche-Posay;Maquillage;Oui;2023-09-27
+c8ca15f47374fbf3cc80;65753b6d41c35c72e3e4;LOR-500779;Strasbourg;67000;41;H;Standard;1.1;54;L'Oréal Paris;Soin corps;Oui;2024-07-22
+d78da0647c9073262882;48d008b1591079b0878f;LOR-500780;Boulogne;92100;36;H;Premium;2.2;121;Yves Saint Laurent;Soin visage;Oui;2025-03-18
+bf080b3d5d42dc1de949;7e9e43ea98ce75683954;LOR-500781;Paris;75012;74;F;Premium;2.5;117;Lancôme;Soin corps;Non;2025-07-04
+acee6797d9c8b3174d18;925fb21856a3af9d9eac;LOR-500782;Grenoble;38000;31;H;Découverte;0.7;50;Yves Saint Laurent;Solaire;Oui;2023-02-16
+3f59c8e59439d8d6a5cc;fe0fa4d3645e66c94b35;LOR-500783;Saint-Denis;93200;37;F;Premium;3.3;93;Giorgio Armani;Soin visage;Oui;2023-07-28
+a5fcbc1e63f35d2ed957;f41bb9ea9ed894cce1e9;LOR-500784;Nantes;44000;47;H;Premium;3.0;155;Lancôme;Parfum;Non;2023-10-22
+0ed830b57c1914ffd760;7f9b0a94c056e7d6761c;LOR-500785;Toulouse;31000;50;F;Prestige;7.9;284;L'Oréal Paris;Maquillage;Oui;2022-12-20
+7b9fb01a2afa7d9fc3b2;b91fa9f9c32128df7a51;LOR-500786;Strasbourg;67000;69;F;Premium;3.4;92;Kiehl's;Cheveux;Oui;2025-01-15
+679dad2a10839fbb87b5;8bdbf59cd856bb3ce544;LOR-500787;Marseille;13008;63;F;Premium;2.8;97;Vichy;Soin visage;Oui;2023-02-14
+dcd391cd324c628994ca;869a5f23117a494860ae;LOR-500788;Saint-Denis;93200;36;H;Standard;1.6;35;Giorgio Armani;Maquillage;Oui;2023-09-27
+59dc1587f528d07ab837;87d74fcf293f92d562d2;LOR-500789;Saint-Denis;93200;36;F;Premium;3.6;110;Yves Saint Laurent;Soin corps;Oui;2024-05-13
+15634e07e65d91b6f58c;221c67dab12582ac9db1;LOR-500790;Marseille;13008;18;H;Standard;0.9;38;Garnier;Maquillage;Oui;2022-10-11
+4afb31c1bad30edac4e0;7c4e3d2df66de5fead26;LOR-500791;Rennes;35000;60;F;Premium;3.5;123;Yves Saint Laurent;Soin corps;Oui;2022-08-23
+e4786d6fb0de79a1b3b5;8b02e6f34fa52d872c3e;LOR-500792;Bordeaux;33000;35;F;Prestige;4.2;286;Vichy;Soin visage;Oui;2022-07-09
+9b82676d4f2344b7c359;e93c48720d21e932d010;LOR-500793;Bordeaux;33000;37;F;Premium;3.6;137;Yves Saint Laurent;Cheveux;Oui;2025-08-15
+6281c76fc28c69bdee60;ef8232b7a824f27a0475;LOR-500794;Montpellier;34000;40;H;Découverte;0.5;49;Giorgio Armani;Soin visage;Non;2025-04-02
+622edf2eb9e0fe5bb3be;a61ae72a0e4720c844bb;LOR-500795;Boulogne;92100;30;H;Premium;3.5;122;L'Oréal Paris;Parfum;Oui;2022-05-18
+1a1d66db225662458375;cb615fa30a5a764186d5;LOR-500796;Strasbourg;67000;27;F;Premium;2.1;107;Yves Saint Laurent;Parfum;Oui;2022-06-28
+e5409ee1a4c45da3bef8;deae9a94b3462b13c792;LOR-500797;Versailles;78000;50;H;Premium;3.1;154;Maybelline;Soin corps;Oui;2022-02-02
+364f0d631fa5679591c3;11e1af97255b0779565d;LOR-500798;Rennes;35000;37;F;Premium;3.2;124;Kiehl's;Cheveux;Non;2025-03-06
+8989a07e420d1ecda693;e83bf148a99a5fcfc507;LOR-500799;Nice;06000;25;F;Premium;2.7;106;Garnier;Parfum;Non;2025-09-28
+9506fd3b4515aed7836b;9cec446be0a2852a70c4;LOR-500800;Lyon;69003;70;F;Premium;4.1;103;Giorgio Armani;Cheveux;Oui;2025-09-16
